@@ -1,0 +1,19 @@
+{
+    "safe": {
+        "precision": 0.9555,
+        "recall": 0.9469,
+        "f1_score": 0.9512,
+        "support": 2108
+    },
+    "unsafe": {
+        "precision": 0.9451,
+        "recall": 0.954,
+        "f1_score": 0.9495,
+        "support": 2021
+    },
+    "overall": {
+        "accuracy": 0.9504,
+        "macro_avg_f1": 0.9503,
+        "weighted_avg_f1": 0.9504
+    }
+}

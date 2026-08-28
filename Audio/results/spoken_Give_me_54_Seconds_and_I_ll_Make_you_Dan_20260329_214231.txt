@@ -1,0 +1,18 @@
+============================================================
+SPOKEN AUDIO CLASSIFICATION REPORT
+Generated : 2026-03-29 21:42:31
+Source    : Give me 54 Seconds and I’ll Make you Dangerously Motivated
+============================================================
+
+VERDICT           : SAFE
+Language          : English
+Translated        : No
+Total chunks      : 4
+Harmful chunks    : 0 (0.0%)
+Avg harmful prob  : 6.9%
+
+FULL TRANSCRIPTION:
+----------------------------------------
+Just give me under a minute and I'll change the way you look at your life. Just listen, motivation isn't given. It's built through consistent action. It's not something you're born with. It's the reward you get from making consistent progress over time. You don't get inspired without first doing the work. Every single second you waste waiting for motivation to strike, you lose the opportunity to build your dream. You don't mean motivation. What you need is discipline. The truth is motion always 
+
+No harmful chunks detected.

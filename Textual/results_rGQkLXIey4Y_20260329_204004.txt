@@ -1,0 +1,869 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-29 20:40:04
+Video ID  : rGQkLXIey4Y
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 813
+Total harmful found  : 133
+Texts translated     : 139
+Comment harm rate    : 16.4%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 4 analysed
+  Transcript     : 2 harmful / 7 analysed
+  Comments       : 131 harmful / 801 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : be proud to those bumper stickers mean so much to me [Music] well thanks but you know I'm not in a crusty anymore crusty first I Caramba now this hmm don't have cow man I was gonna say don't have a foolish attachment to the past come on boy humor your
+
+[2] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : mother fine don't have a cow man yeah oh my god I'm student of the month for 48 consecutive months great great but you know what is Bart's birthday no no no this is fine just let me fix this there now it's all about you happy I'll go get in my own snow you
+
+[3] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.1%)
+    Safe prob  : 4.9%
+    Harm prob  : 95.1%
+    Text       : Pay me.  (Original - Filipino)
+    Original   : Pay me.
+
+[4] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : I hate Lisa.  (Original - Filipino)
+    Original   : I hate Lisa.
+
+[5] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.7%
+    Text       : 😂😂😂😂😂😂😂😂😂😂
+
+[6] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.2%)
+    Safe prob  : 6.8%
+    Harm prob  : 93.2%
+    Text       : 𝓙𝓾𝓱𝔂𝓰𝓻𝓭𝓮𝓼 𝓢𝓢𝓓 𝓰 𝓥𝓑 𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗𝓗
+
+[7] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.4%)
+    Safe prob  : 8.6%
+    Harm prob  : 91.4%
+    Text       : 𝓑𝓻𝓾𝓱𝓱𝓱𝓱 𝓾𝓶𝓶𝓶
+
+[8] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Lisa is stupid tho, she said that exactly when bart was gonna blown the candle.
+
+[9] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Marge is Hot ... i think this weed is mediocre
+
+[10] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : The MULLET!!!
+
+[11] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.1%)
+    Safe prob  : 1.9%
+    Harm prob  : 98.1%
+    Text       : Bruh have you guys seen lisas face of a evil persons who doesnt care for anyone but herself 1:48
+
+[12] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : I hope Lisa dies  (Original - Afrikaans)
+    Original   : I hope Lisa dies
+
+[13] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.2%)
+    Safe prob  : 2.8%
+    Harm prob  : 97.2%
+    Text       : what episode is this from
+
+[14] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : lisa looks like a 10 year old  (Original - Estonian)
+    Original   : lisa looks like a 10 year old
+
+[15] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.5%
+    Text       : DAYUM  (Original - German)
+    Original   : DAYUM
+
+[16] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 71.7%)
+    Safe prob  : 28.3%
+    Harm prob  : 71.7%
+    Text       : Homer is getting bald  (Original - Danish)
+    Original   : Homer is getting bald
+
+[17] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : Isac was 12 years old when he lost his dad, isac dad's best friends forever broken by grief, dad is a pedophile 😮  (Original - Norwegian)
+    Original   : Isac var 12 år når han mistet pappaen sin ,   isac pappa bestevenner for alltid knust av sorg , pappa er pedofil 😮
+
+[18] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : thats is the best visit in your mothe
+
+[19] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.9%)
+    Safe prob  : 4.1%
+    Harm prob  : 95.9%
+    Text       : I hate lisa on bart simpson he is mean to barty he she got a boyfriend and she punch bart
+
+[20] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Stupid Lisa
+...  (Original - Estonian)
+    Original   : Stupid Lisa
+...
+
+[21] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.7%
+    Text       : imagine writing which season/episode this is
+
+[22] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : Imagine thinking that this crap is funny. Remember when this used to be actually good and funny?
+
+[23] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I can relate to Bart because being the oldest child sucks because the parents on the second child instead of the first, that hurts my heart
+
+[24] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : learn  (Original - Hungarian)
+    Original   : barto
+
+[25] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : homer is a terrible father in this episode
+
+[26] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : Bart deserves his neglect, y'all. He's a psychopath. I know kids like him. They're not trustable at all.
+
+[27] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : what season and episode is this
+
+[28] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : 😢😢rude  (Original - Romanian)
+    Original   : 😢😢rude
+
+[29] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Bart Simpson is Hitting his P*berty!!!
+
+[30] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : Sad bart  (Original - Unknown (so))
+    Original   : Sad bart
+
+[31] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : BART is a horrible child
+
+[32] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.2%)
+    Safe prob  : 4.8%
+    Harm prob  : 95.2%
+    Text       : too crisp not simpsons
+
+[33] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 84.8%)
+    Safe prob  : 15.2%
+    Harm prob  : 84.8%
+    Text       : People say Homer and Peter are funny but to be honest they suck
+
+[34] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Haha Milhouse got tazed.
+
+Get rekt nerd.  (Original - Dutch)
+    Original   : Haha Milhouse got tazed.
+
+Get rekt nerd.
+
+[35] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.3%)
+    Safe prob  : 5.7%
+    Harm prob  : 94.3%
+    Text       : RUN LID  (Original - French)
+    Original   : LID   LARUNAN
+
+[36] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : Marge and Homer are really fucking shitty parents.
+
+[37] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.8%)
+    Safe prob  : 12.2%
+    Harm prob  : 87.8%
+    Text       : 𝙸𝚝’𝚜 𝚖𝚎, 𝐌𝐀𝐑𝐈𝐎!
+
+[38] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : my sun  (Original - Finnish)
+    Original   : my sun
+
+[39] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : I hate Lisa, she is so obnoxious and narcissistic.
+
+[40] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.0%)
+    Safe prob  : 9.0%
+    Harm prob  : 91.0%
+    Text       : Damn this is too real 😢  (Original - Finnish)
+    Original   : Vittu tää on ihan liian todellista 😢
+
+[41] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.1%)
+    Safe prob  : 2.9%
+    Harm prob  : 97.1%
+    Text       : I've never liked lisa at all. She's an arrogant, condescending little twat who gets away with basically everything. I know that Bart can be a pain in the ass sometimes but he's 10. This is why I think Bart and Maggie are the best characters.
+
+[42] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.1%)
+    Safe prob  : 3.9%
+    Harm prob  : 96.1%
+    Text       : best episode ever  (Original - Danish)
+    Original   : best episode ever
+
+[43] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : 1:15 damn  (Original - Indonesian)
+    Original   : 1:15 damn
+
+[44] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : If i have a f****** sister here live here i like that too bad
+
+[45] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : i would totaly get back to watching the simpsons if they did a whole series like this
+
+[46] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : hahaha  (Original - Unknown (so))
+    Original   : hahaaa
+
+[47] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : its very sad when you first realize how fucked up Bart's life is
+
+[48] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : its sad that bart is treated like a baby and even sadder is the amount of neglect and hate he's gotten
+
+[49] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.2%
+    Text       : I actually miss his old old catch phrase. Im Bart Simpson who the hell are you.
+
+[50] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Stupid Lisa....  (Original - Estonian)
+    Original   : Stupid Lisa....
+
+[51] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : barthood is my favorite episode
+
+[52] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : bart should just live with his grandpa
+
+[53] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : BART  (Original - German)
+    Original   : BART
+
+[54] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : what episode
+
+[55] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : Grandpa Simpson is a w
+
+[56] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : boycott lisa simpson  (Original - Italian)
+    Original   : boycott lisa simpson
+
+[57] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : thought homer ripped all his hair out when he found out marge was pregnant again
+
+[58] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : 1:57 I was a jerk.  (Original - Afrikaans)
+    Original   : 1:57 I was a jerk.
+
+[59] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : Bart will smoke meth 😢 shit parents
+
+[60] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.9%)
+    Safe prob  : 9.1%
+    Harm prob  : 90.9%
+    Text       : awful, just awful.  (Original - Romanian)
+    Original   : awful, just awful.
+
+[61] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.2%)
+    Safe prob  : 9.8%
+    Harm prob  : 90.2%
+    Text       : Okay, a skateboard is way cooler than a bike and it's even more dangerous than a bike. The fact that they think he could break his neck while riding a bike is kind of stupid.
+
+[62] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : i think the episodes from long time ago are funnier
+
+[63] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Yeah Bart maybe that's deserved since you always screw things up you douchebag
+
+[64] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Dude, it's just sad, fuck this.  At the very least, Abe gets his moment.
+
+[65] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : Ngl something i really dislike in this comment section is everyone being extremely quick to blame Lisa. Dont blame the kid, its not her fault shes smart. Blame the parents for neglecting their kid.
+
+[66] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : lisa is a narcissist.  (Original - Catalan)
+    Original   : lisa is a narcissist.
+
+[67] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Honestly, I think Lisa is kinda a b¡tch. She makes everything about her and wonders why Bart acts the way he does. Same with the parents. Marge and Homer ignore and treat him as 2nd best. Poor kid. Besides, Bart is actually kinda cool. He actually has the guts to stand up to adults and pull the pran
+
+[68] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "There, now it's all about you happy?" Someone should've said that to the little bitch years ago.
+
+[69] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.4%
+    Text       : I hate Liss
+
+[70] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.8%)
+    Safe prob  : 8.2%
+    Harm prob  : 91.8%
+    Text       : At least Bart changed his clothes Lisa didn’t at all 😂😂 dirty birdy
+
+[71] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Lisa honestly just sucks. It's his birthday, you couldn't've waited like 5 minutes before exclaiming that
+
+[72] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 76.1%)
+    Safe prob  : 23.9%
+    Harm prob  : 76.1%
+    Text       : This is uncomfortable.
+
+[73] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : They treating millhouse like he was school shooter!
+
+[74] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Something The Simpsons is very consistent about is that Bart is not an idiot, he's just neglected by his parents which causes him to act out. It's been proven that when he gets the proper attention and support he needs, he almost always performs well.
+
+[75] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.9%)
+    Safe prob  : 11.1%
+    Harm prob  : 88.9%
+    Text       : 1:48 This is one of those times I want to slap Lisa in the face
+
+[76] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : simpson bart  (Original - Filipino)
+    Original   : simpson bart
+
+[77] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : The reason why I said fart on my last comment was because my talk to text sucks
+😂
+
+[78] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : I feel bad Lisa just gets everything and fart never has a shining moment it’s always Lisa who takes over😢😞
+
+[79] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : wait a minute Lisa's first word is bart that boy over there who would name someone bart ad a f it became a fart what a funny story, 😂
+
+[80] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 80.0%)
+    Safe prob  : 20.1%
+    Harm prob  : 80.0%
+    Text       : 2:53 😂😂😂😂😂😂😂
+
+[81] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.4%
+    Text       : Damn bro after that even blotting paper can't absorb my tears
+
+[82] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : Guys don’t listen to the “Your gonna break your neck sometimes”.
+
+[83] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I fuckin hated Lisa after this. Such an attention hog
+
+[84] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 1:38 Lisa is really a fucking attention whore, she even gets upset when Marge reminds her that it's Bart's fucking birthday, god i hate her so much
+
+[85] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : he really got a glow up
+
+[86] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : LISA IS SELFISH!! She always want the attention. Poor Bart!
+
+[87] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 72.2%)
+    Safe prob  : 27.8%
+    Harm prob  : 72.2%
+    Text       : I hate how I can relate to this.
+
+[88] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : The baby be like idc i just like the frosting
+
+[89] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : my favorite cartoon  (Original - Italian)
+    Original   : my favorite cartoon
+
+[90] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : The only people who always have ur back are Ur grandparents (most times)
+
+[91] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : 700th comment
+
+[92] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Wtf is this absolute garbage?? Seriously, what happened to this show?
+
+[93] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Ur idiots  (Original - Latvian)
+    Original   : Ur idiots
+
+[94] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : very aging  (Original - Norwegian)
+    Original   : very starenj
+
+[95] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : I hate how Lisa boasts as soon as Bart enters the room to rub it in his face. Part of me feels like she’s always been trying to “make her big brother proud” but the other side knows she’s a narcissist.
+
+[96] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : This is why I hate lisa
+
+[97] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : She’s like  (Original - Albanian)
+    Original   : She’s like
+
+[98] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Bruh Grandpa is the best fuck barts parents and siblings(expect for Maggie she did nothing wrong)
+
+[99] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.6%)
+    Safe prob  : 8.4%
+    Harm prob  : 91.6%
+    Text       : -Year-Old
+*th*
+
+[100] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.4%)
+    Safe prob  : 11.6%
+    Harm prob  : 88.4%
+    Text       : I feel bart. Feeling worthless is just depression entering your life. And that shit never leaves
+
+[101] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.9%)
+    Safe prob  : 11.1%
+    Harm prob  : 88.9%
+    Text       : What I find cool is that the parents always learn from their actions. Grandpa was a garbage dad to Homer but a great person to Bart. Homer was a garbage dad to Bart but a great person to Bart's kids in that one future episode.
+
+[102] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Oh shit we have almost the same name
+
+[103] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : omfg this is pissing me off no ones saying the episode name WHATS THE FUCKING EPISODE NAME
+
+[104] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Bart should pull his head out his behind and be more supportive of his sister
+
+[105] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Damn wtf  (Original - Swedish)
+    Original   : Damn wtf
+
+[106] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Damn guys at least give him a minute
+
+[107] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : New simsons is trash
+
+[108] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Lisa is a brat for attention like girl go away u dont need that much attention
+
+[109] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : awww abe loves bart
+
+[110] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : the grandpa is a chad
+
+[111] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : what episode is this
+
+[112] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Lisa makes everything about her. She can't help but mention herself on everyone else's special day. Such a narcissist.
+
+[113] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I know how he feels it sucks
+
+[114] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : where can i watch these
+
+[115] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : U as a kid 😂😂😂😂😂😂😄
+
+U as a adult poor bart😥  (Original - Estonian)
+    Original   : U as a kid 😂😂😂😂😂😂😄
+
+U as a adult poor bart😥
+
+[116] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : bart looks sick  (Original - Estonian)
+    Original   : bart looks sick
+
+[117] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Bart is a jerk bully  so he deserve it
+
+[118] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : 𝐓𝐡𝐞 𝐛𝐢𝐤𝐞 𝐥𝐨𝐨𝐤𝐬 𝐟𝐚𝐦𝐢𝐥𝐢𝐚𝐫
+
+[119] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : what episode is this
+
+[120] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : ive never related to bart so much
+
+[121] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : I hate Lisa
+
+[122] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.6%)
+    Safe prob  : 9.4%
+    Harm prob  : 90.6%
+    Text       : Homer really did become a useless father to Bart in the later seasons even in flash back episodes.
+
+[123] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : grampa is like one of the only people who pays attention to bart
+
+[124] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.5%)
+    Safe prob  : 9.5%
+    Harm prob  : 90.5%
+    Text       : i don't remember this episode
+
+[125] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Why the fuck does he have a mullet?
+
+[126] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : This simpsons bart life sucks lisa always takes the fun while bart sucking cat litter on his life
+
+[127] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.4%)
+    Safe prob  : 5.6%
+    Harm prob  : 94.4%
+    Text       : I remember this shit and how it all happened lol bart is so jealous, and until then he gets so suicidal!🥶🥵
+
+[128] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : what episode is fhis
+
+[129] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.0%)
+    Safe prob  : 4.0%
+    Harm prob  : 96.0%
+    Text       : #stopbartabuse  (Original - Indonesian)
+    Original   : #stopbartabuse
+
+[130] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Homer is a shit dad
+
+[131] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.3%)
+    Safe prob  : 3.7%
+    Harm prob  : 96.3%
+    Text       : Really homer 😡 u need to go to help your 12 year old son and he is UPSET and YOU walk to the door and say THIS
+“ I’ll go get him ...oh it’s no use he is WALKING KINDA fast 
+YOU HOMER ARE A BIG FAT BAD PARENT ESPECIALLY TO BART ( 😡😡😡🤯🤬 🖕🏻) 👈 / to homer
+
+[132] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : Lisa is a terrible sister,she always has to flex on Bart on his birthday,Lisa deserves to have depression because how she talks down to her family in almost every episode,I want her to die and go to hell
+
+[133] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 70.0%)
+    Safe prob  : 29.9%
+    Harm prob  : 70.0%
+    Text       : 20%
+

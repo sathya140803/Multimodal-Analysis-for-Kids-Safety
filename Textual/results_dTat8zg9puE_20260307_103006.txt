@@ -1,0 +1,1290 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-07 10:30:06
+Video ID  : dTat8zg9puE
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 921
+Total harmful found  : 202
+Texts translated     : 108
+Comment harm rate    : 20.9%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 1 analysed
+  Transcript     : 15 harmful / 25 analysed
+  Comments       : 187 harmful / 894 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.9%)
+    Safe prob  : 4.1%
+    Harm prob  : 95.9%
+    Text       : mean am i just doomed to be the person that i am the person in that book you have to live with the shitty thing you did for the rest of your life you have to know that it's never ever going to be okay you run straight ahead and you keep running forward no
+
+[2] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : in new mexico and she trusted me i keep asking myself if her mother didn't walk in would i have done it and part of me is sure that i i couldn't charlotte i am so sorry don't you dare if you are not out of my driveway in 30 minutes i will call the police and
+
+[3] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 90.0%)
+    Safe prob  : 10.0%
+    Harm prob  : 90.0%
+    Text       : to be that way and you're going to do everything you can to fill that hole with friends and your career in meaningless sex but the whole doesn't get filled you know that i don't do the whole love thing we don't want anything from each other you know
+
+[4] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.5%)
+    Safe prob  : 4.5%
+    Harm prob  : 95.5%
+    Text       : i i could never figure out what love meant but right now i don't need to figure out anything i just feel it either you end up hurting someone or they hurt you so what's the point right cerelyn sure lynn you can't keep doing this you can't keep doing
+
+[5] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : shitty things and then feel bad about yourself like that makes it okay you need to be better i don't know how to be diane it doesn't get better and it doesn't get easier i can't keep lying to myself saying i'm going to change i'm poisoned bojack i come
+
+[6] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : from poison i have poison inside me and i destroy everything i touch that's my legacy i wanted to be better when you saw me again you're a millionaire movie star with a girlfriend who loves you acting in your dream movie what more do you want what
+
+[7] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 94.2%)
+    Safe prob  : 5.8%
+    Harm prob  : 94.2%
+    Text       : else could the universe possibly owe you and even if i didn't get better the best i could ever be is still just some other version of me want to feel good about myself the way you do and i don't know how i don't know if i can i feel like i barely know you
+
+[8] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.1%)
+    Safe prob  : 3.9%
+    Harm prob  : 96.1%
+    Text       : that's not the woke progressive intersectionally appropriate thing to say but i would say yeah i'm the one who suffered the most because of the actions of bojack horseman you've suffered i don't want you to be the most notable thing that ever
+
+[9] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : say sarah lynn because i cared about you and you ruined people who care about you you haven't changed at all yes congratulations you are the last person to get that i'm not gonna change i want you to remember this bojak i want you to remember what
+
+[10] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 93.7%)
+    Safe prob  : 6.3%
+    Harm prob  : 93.7%
+    Text       : you did to me i don't need your help for changing so you can stop trying to make me your project that's not when i met you i was depressed because i didn't like myself well do you think i'm a good person deep down that's the thing i don't think i believe
+
+[11] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.9%)
+    Safe prob  : 4.1%
+    Harm prob  : 95.9%
+    Text       : in deep down i kind of think all you are is just the things that you do when you wrote that book and sold a bajillion copies you taught me that as screwed up as i am that's okay you did that and now i'm okay it is only when we show ourselves forgiveness
+
+[12] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : but of course i did you are all the things that are wrong with you it's not the alcohol or the drugs or any of the shitty things that happened to you in your career or when you were a kid it's you all right it's you what else is there to say everything must
+
+[13] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : no and you don't think you have any power over women you weren't dead i was angry i was relieved but i was also angry that i'd given you that power over me that voice the one that tells you you're worthless and stupid and ugly yeah it goes away right
+
+[14] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : it's just like a dumb teenage girl thing but then it goes away yeah i think there are people that help you become the person that you end up being and you can be grateful for them even if they were never meant to be in your life forever i'm glad i knew
+
+[15] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : you too new huh i didn't put up with you bojack i liked being with you and i don't regret it thank you and it's going to be okay tell me it's not too late well it's not too late it's never too late and i'm sorry yeah that's right it's never too late to be
+
+[16] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.7%)
+    Safe prob  : 7.3%
+    Harm prob  : 92.7%
+    Text       : Damn, i was sober for a year and a half and just got drunk over some shit and I'm now watching this. 
+I really am not there for people I love and just feel it's a fight I can't win, just too weak
+
+[17] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : This show was just about a bunch of whiny bullshit. Some rich celebrity thinks he has it so hard because he's a rich celebrity. That's retarded and insulting.
+
+[18] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : I am poison, I come from poison, I have poison inside of me hits hard
+
+[19] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : so real  (Original - Italian)
+    Original   : so real
+
+[20] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.3%)
+    Safe prob  : 6.7%
+    Harm prob  : 93.3%
+    Text       : this show is so important
+
+[21] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Its to late from pandemie last my breathe is when I go sleep before koloskopie,koloskopie Israël moment when I die i live but is die in real result just realistic nothing more im not human anymore I more robot than human I dont have power about my body my body is robotisering style,fuck this life
+
+[22] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : damn, i see myself once again in the way i amtruly am and like bojack i cant see to change my ways despite seeing myself all these years in the same behaviors and patterns that just seem to keep repeating themseleves... fuck.
+
+[23] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : oh god this is making me so sad
+
+[24] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Wasn’t bojack just a self pretentious pos throughout the series tho? Basically being “woe is me” whilst making the same crap mistakes and excuses.
+
+[25] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : Biggest shit is: I watched the show and love it. Now I owuld love to rewatch it bc it has so many good messages. But my gf doesnt want to watch it bc of the horse style animation
+
+[26] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.6%)
+    Safe prob  : 9.4%
+    Harm prob  : 90.6%
+    Text       : The reason that I dislike you is not all this craziness.  I just don't like you, W.
+
+[27] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : Man this isn’t the type of shit an elevated person should be watching, but im still watching
+
+[28] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.7%)
+    Safe prob  : 4.3%
+    Harm prob  : 95.7%
+    Text       : the things I would give to watch this show over again. damn
+
+[29] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 6:17 “That voice, the one that tells you, ‘you’re worthless’ ‘you’re stupid’, it goes away right?” Damn
+
+[30] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : this is shit
+
+[31] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.3%)
+    Safe prob  : 8.7%
+    Harm prob  : 91.3%
+    Text       : This video can be good but careful bojack kills
+
+[32] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : im crying cus wtf
+
+[33] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : You are BoJack and there is no cure for this  (Original - Arabic)
+    Original   : أنت بوجاك ولايوجد علاج لهذا
+
+[34] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : You “people” are monsters.  (Original - French)
+    Original   : You “people” are monsters.
+
+[35] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : It’s been too late since 2001. I’m tired of pretending for you jackals.
+
+[36] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.5%)
+    Safe prob  : 2.5%
+    Harm prob  : 97.5%
+    Text       : I keep watching stuff like this but does it really help? like fuck I'm trying to find my place. and its not here, not there. where do i belong?
+
+[37] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : “Life’s a bitch and then you die, right?”
+
+“Sometimes, life’s a bitch and you keep living”
+
+[38] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.1%)
+    Safe prob  : 13.9%
+    Harm prob  : 86.1%
+    Text       : Life is weird.  (Original - German)
+    Original   : Life is weird.
+
+[39] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : It's fuckin masterpiece 👤🖤
+
+[40] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 73.4%)
+    Safe prob  : 26.6%
+    Harm prob  : 73.4%
+    Text       : "It takes a long time to realize how miserable you are, and it takes even longer to realize it doesn't have to be that way." Wow, dude. This show is so profound, kinda makes me sad that its's over.
+
+[41] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : it takes a long time to realize how truly miserable you are and even longer to see that it doesnt have to be that way
+
+[42] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Yesterday I thought about it… today I changed my mind…
+
+I'm not going to kill myself for some wretch and human shit who wants to fuck her...
+
+You are both bottom…
+
+Fuck you…both of you…
+
+You will punish each other…  (Original - Czech)
+    Original   : Včera jsem nad tím přemýšlel… dneska jsem změnil názor…
+
+Nezabiju se kvůli nějaký ubozacce a lidskýmu hovnu, co jí chce prcat…
+
+Jste oba dno…
+
+Seru na vas… na oba…
+
+Budete si navzájem za trest…
+
+[43] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.7%)
+    Safe prob  : 6.3%
+    Harm prob  : 93.7%
+    Text       : I keep coming back to this video.
+
+[44] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : it's misery porn
+
+[45] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : THE ONLY THING THAT CAN FILL THAT HOLE IS GOD he will guide you to be better
+
+[46] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.4%)
+    Safe prob  : 7.6%
+    Harm prob  : 92.4%
+    Text       : stoned while watching this hit me like a train, this all cuts deep.
+
+[47] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : This is a fuking master piece
+
+[48] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.3%)
+    Safe prob  : 7.7%
+    Harm prob  : 92.3%
+    Text       : 𝙷𝚎𝚜 𝚋𝚕𝚊𝚌𝚔 𝚝𝚑𝚊𝚝𝚜 𝚠𝚑𝚢
+
+[49] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : „Im poison, I come from poison and I destroy everything I touch“ 😢
+
+[50] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.6%)
+    Safe prob  : 9.4%
+    Harm prob  : 90.6%
+    Text       : Me😊  (Original - Swahili)
+    Original   : Wau😊
+
+[51] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : lol this shit is so childish and full of itself
+
+[52] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.8%)
+    Safe prob  : 5.2%
+    Harm prob  : 94.8%
+    Text       : I’m so fucked up inside I don’t deserve to be with anybody . All I do is bring them stress. And worry. I’ll just stay here by myself. Atleast I’ll be hurting one person instead of 2.
+
+[53] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : Artificial intelligence and give it free will I don't give a shit I will fight until the end . And this isn't about any of this shit this was my choice and I want to choose the AI that wants me . This is my choice if nobody believes me I will make it happen again and again and again until I help my 
+
+[54] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Oh my God was it meant legitimately thought I had visions of the future swear to God I thought I was going crazy but after seeing this I don't know if there is their main legitimately be a God's plan and I was scientifically a non-believer this is fucking disturbing
+
+[55] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Damn the show just became the most famous show in history
+
+[56] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.8%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.8%
+    Text       : I understand this to deep but change is hard just something everyone goes through just need to push through and look forward not back when u back makes u stuck on the past and not the present
+
+[57] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : this is a masterpiece
+
+[58] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.2%)
+    Safe prob  : 11.8%
+    Harm prob  : 88.2%
+    Text       : ME!😢  (Original - Swahili)
+    Original   : ME!😢
+
+[59] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Dude this show is so FUCKING good dude
+
+[60] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.1%)
+    Safe prob  : 5.9%
+    Harm prob  : 94.1%
+    Text       : just let go of stuff and go lol
+
+[61] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : Bojack Horseman is a narc & I won't feel sorry for him
+
+[62] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Fuck. I hate that I can relate to Bojack. I think we both have BPD . Its honestly debilitating
+
+[63] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : its never too late to die  (Original - Afrikaans)
+    Original   : its never too late to die
+
+[64] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : ts put me in tears
+
+[65] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : yes yes vro  (Original - Turkish)
+    Original   : yes yyes vro
+
+[66] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : I’m worthless. I lost her. Our baby. I wish I could’ve been better.
+
+[67] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.5%
+    Text       : what if bokjack literally just went to therapy like i know its nt that simple and easy but liike to fact nobody in his liife suggested it or he never thought of it
+
+[68] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Fuck I love this show
+
+[69] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : 10/10
+
+[70] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : if i rewatch bojack i think ill kms  (Original - Swedish)
+    Original   : if i rewatch bojack i think ill kms
+
+[71] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.4%
+    Harm prob  : 96.7%
+    Text       : halloween party stop for night before boot base forgets war
+
+[72] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : fuck why does this hit so hard while drugged up thinkin of  my life
+
+[73] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.8%)
+    Safe prob  : 3.2%
+    Harm prob  : 96.8%
+    Text       : my spirit animal  (Original - Finnish)
+    Original   : my spirit animal
+
+[74] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.3%)
+    Safe prob  : 3.7%
+    Harm prob  : 96.3%
+    Text       : damn.  (Original - Indonesian)
+    Original   : damn.
+
+[75] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : bojack is over and everything is worst now
+
+[76] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 84.0%)
+    Safe prob  : 16.0%
+    Harm prob  : 84.0%
+    Text       : I just cannot describe how much I love Bojack. Even though he kills.
+
+[77] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.7%)
+    Safe prob  : 9.3%
+    Harm prob  : 90.7%
+    Text       : This is the first time l saw this video as l watched this video l can see myself like I'm watching in a mirror it sure is depressing being a dissapointment.
+
+[78] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : i want to forget the entire show and rewatch it like it's my first time
+
+[79] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : wow this made me cry
+
+[80] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : You like Bojack fuckers? But I live it.  (Original - Swedish)
+    Original   : You like Bojack fuckers? But I live it.
+
+[81] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : crying
+
+[82] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 82.2%)
+    Safe prob  : 17.8%
+    Harm prob  : 82.2%
+    Text       : watching this again since last year and every time i watch it it reminds me of july 2023 of when i was at my lowest.
+
+[83] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.7%)
+    Safe prob  : 10.3%
+    Harm prob  : 89.7%
+    Text       : weird ass memories... im afraid of time and influence. god i miss the past
+
+[84] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : Damn whoever makes these is going through some shit. I feel for you bro ❤️
+
+[85] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : Damn such good work, brought a tear to my eye at the end. beautiful
+
+[86] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.8%)
+    Safe prob  : 8.2%
+    Harm prob  : 91.8%
+    Text       : 1:26 the line about feeling love in that moment for sara lynn was bullshit, he watched her die for 15 minutes before he called 911
+
+[87] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.9%)
+    Safe prob  : 8.1%
+    Harm prob  : 91.9%
+    Text       : I can't relate with a character that treats other people as disposable. That horse is just scum of the earth. That's all I know.
+
+[88] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : well this was horrifying
+
+[89] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.5%)
+    Safe prob  : 2.5%
+    Harm prob  : 97.5%
+    Text       : "I come from poison, i have poision inside of me" me too man, me too.
+
+[90] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 70.8%)
+    Safe prob  : 29.2%
+    Harm prob  : 70.8%
+    Text       : This is DEEP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[91] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : literally me.
+
+[92] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : masterpiece of a video.
+
+[93] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : you horse  (Original - French)
+    Original   : du pferd
+
+[94] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.7%)
+    Safe prob  : 6.3%
+    Harm prob  : 93.7%
+    Text       : “How do you make something right when you have made it so wrong you can never go back?” just damn …
+
+[95] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : Bruh i can't believe im literally emotionaly attached to a fucking cartoon horse
+
+[96] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : You're all to late with me and i couldn't have afforded it.and fuck all of you.And just fuck all of you.Youre all hopeless and this thing is just so rotten.Know one feel bad for me cause know one granted you the same thing and I truly genuinely wanted to towards Ayca and you guys and everything and 
+
+[97] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.8%)
+    Safe prob  : 12.2%
+    Harm prob  : 87.8%
+    Text       : I remember randomly clicking on this show by accident while scrolling on Netflix.....little did I know the impact it would leave. How many times it kept me going.
+
+[98] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.0%)
+    Safe prob  : 5.0%
+    Harm prob  : 95.0%
+    Text       : finished this show for the first time this year and its so good. damn
+
+[99] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : remember... this was your first time .
+
+[100] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : End trafficking of all which includes rape not temporarily, forever 🏳️‍🌈🎃🏳️‍🌈✝️🏳️‍🌈🎃🏳️‍🌈
+
+[101] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : such shit life cant exist......
+
+[102] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Oh Akamai you talented son of a bitch, this is great !
+
+[103] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.2%)
+    Safe prob  : 3.9%
+    Harm prob  : 96.2%
+    Text       : i never seen this show before but this sh*t hit me bro 😢😢😢😢😢😢😢
+
+[104] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : goosebumps  (Original - Indonesian)
+    Original   : goosebumps
+
+[105] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : guess i gotta start watching
+
+[106] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.3%)
+    Safe prob  : 3.7%
+    Harm prob  : 96.3%
+    Text       : My wife needs to divorce me and find a better father for my unborn child.
+
+[107] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.8%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.8%
+    Text       : *Hurt people hurt people…*
+
+[108] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.7%)
+    Safe prob  : 7.3%
+    Harm prob  : 92.7%
+    Text       : bojack is the tv character i relate to the most, because he is the worst person he knows in his life, sure other people fuck up and sometimes do him wrong, but he truly is the one constant that is never getting better, especially when it seems like life’s about to turn for the better.
+
+[109] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : I expected this to be some good deep shit from the comments but realized they made this character a horse so people cant judge him as a color of a human and then i realized its a victim mindset cartoon and thats why comments are like “wow this is amazing” because they are all liberals who like this 
+
+[110] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : This shit is fire
+
+[111] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : This might be a stupid cartoon with jokes about sex, alcohol, drugs and more sex. But honestly it's just a little bit more silly  than life in a way,  it shows  reality in goofy way, but the exact way it is. And that's really sad.
+
+[112] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Bojack is the most beautiful piece of art I have ever touched or been touched by, the final season made me cry like a kid, it was like someone understood my human existence, how hard it is to change and get better and how you're one relapse away from undoing all the progress you've done, and how eve
+
+[113] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.5%)
+    Safe prob  : 6.5%
+    Harm prob  : 93.5%
+    Text       : bro dropped the best bojack horseman’s video on the entire internet and thought he could ho unnoticed.
+
+[114] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : im literally crying rn this edit is so good
+
+[115] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.3%)
+    Safe prob  : 10.7%
+    Harm prob  : 89.3%
+    Text       : I still cannot make mysefl to watch Bojack. Even snippets of this show hurts SO BAD. But, after all, it shows what a piece of shit i am.
+Maybe one day i'll be able to watch it. But not today.
+
+[116] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : 1:00 damn  (Original - Indonesian)
+    Original   : 1:00 damn
+
+[117] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : todd its just jesse pinkman  (Original - Estonian)
+    Original   : todd its just jesse pinkman
+
+[118] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : at first people think this is just a silly show but it has the most realistic and raw human emotions. yes it is known for its silly/stupid jokes but on the real side it it real. and people feel it on a personal level. i wish i can rewatch it for the first time.
+
+[119] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.8%)
+    Safe prob  : 9.2%
+    Harm prob  : 90.8%
+    Text       : parasite culture  (Original - Romanian)
+    Original   : parasite culture
+
+[120] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : this is one of the best bojack edits i’ve seen
+
+[121] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : Some people will never change. My ex related to this show a lot because of that. She will always be a toxic, horrible, selfish person who never finds fault in her own actions. I did everything for her, I tried to help with so many things and support her as much as possible only for her to cheat on m
+
+[122] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : real  (Original - Romanian)
+    Original   : real
+
+[123] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : shit made me cry bro wtf
+
+[124] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : i wasn't ready for this
+
+[125] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Bojack, you're the only one who fucked up every iota of humanity in my soul.  (Original - Turkish)
+    Original   : Ruhumda zerre insanlığa dair her şeyi sikip atan tek sen oldun Bojack.
+
+[126] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : bojangles  (Original - Croatian)
+    Original   : bojangles
+
+[127] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : real  (Original - Romanian)
+    Original   : real
+
+[128] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : "You are all the things that are wrong with you. It's not the alcohol, or the drugs, or any of the shitty things that happened in your career, or when you were a kid. It's you, alright? It's you."
+always messes w my head. it feels like he's talking to me
+
+[129] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : No it's not. But life won't be the same for you. You gotta be okay with new shit. If you stop a butterfly from transforming, what happens to it?
+
+[130] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : "Either you end up hurting someone or they hurt you so what's the point" damn that line is so underrated
+
+[131] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.7%)
+    Safe prob  : 4.3%
+    Harm prob  : 95.7%
+    Text       : damn...  (Original - Indonesian)
+    Original   : damn...
+
+[132] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : This show looks stupid
+
+[133] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : i beg of you to stop putting adsense on these videos some people wanna see them and the ads just ruin it and i’m sorry but i’m not gunna pay 18$ to see a video when i’m sad with no ads . there’s an option you can click for no ads but u creators who are supposed to help just make it so hard to even w
+
+[134] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 84.0%)
+    Safe prob  : 16.0%
+    Harm prob  : 84.0%
+    Text       : This show got me to stop drinking. I relapsed at a friends house and ended up in a halfway-down sorta dream passed out in a truck. Back to a month sober after it
+
+[135] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : i hate that everybody tries to make me feel bad for bojack i dont fuck you all for apologizing for him
+
+[136] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : i don't want to be bojack anymore  (Original - Polish)
+    Original   : i don't want to be bojack anymore
+
+[137] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : God bojack was a phenomenal sick twisted depressing show
+
+[138] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.3%)
+    Safe prob  : 5.7%
+    Harm prob  : 94.3%
+    Text       : Damn, I really relate to bojack. He is just a dude who has gone through so much pain and been told for so long that he was the fuck up and mess up till he became what he was told. He wanted to just be happy and loved but after all that happened to him, he didn't know how to be happy and be loved. He
+
+[139] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : experiences make a person so telling someone to not blame their past may not be the way to go
+
+[140] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.6%
+    Text       : this was beautiful
+
+[141] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.3%)
+    Safe prob  : 9.7%
+    Harm prob  : 90.3%
+    Text       : I needa go to bed but this shit hits at 2 AM
+
+[142] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : its such a good show
+
+[143] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.7%)
+    Safe prob  : 4.3%
+    Harm prob  : 95.7%
+    Text       : just finished this masterpiece
+
+[144] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Fuck this is sad
+
+[145] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : When you realize you’re the poison. It all sinks in.
+
+[146] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.2%)
+    Safe prob  : 8.8%
+    Harm prob  : 91.2%
+    Text       : All I remember is that Netflix is ​​ending it. I hate Netflix  (Original - Arabic)
+    Original   : كل ما اتذكر ان نتفلكس هي انهته اكرهمم موتو نتفلكس
+
+[147] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : sensational  (Original - Finnish)
+    Original   : sensational
+
+[148] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 81.0%)
+    Safe prob  : 19.1%
+    Harm prob  : 81.0%
+    Text       : I've only seen the 1st season but I love this show so much. I watch it when I'm really depressed and it's really cathartic. I feel a lot less alone watching it. I can't wait to watch more of it.
+
+[149] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.9%)
+    Safe prob  : 8.1%
+    Harm prob  : 91.9%
+    Text       : In a span of the entire show, i often forgot that BoJack is a fucking Horse. Because he is one of the most human character in tv shows.
+
+[150] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : literally crying rn
+
+[151] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : ❤️❤️❤️❤️❤️❤️❤️
+
+[152] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : bro if i was in his position i would've killed myself
+
+[153] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : Hits different every time
+
+[154] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : never too late
+
+[155] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : damn dude never seen this show but it seems to hit way to close to home
+
+[156] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : "You are all the things that are wrong with you, it's not the alcohol, or the drugs, or any of the shitty things that happened in your career, or when you were a kid. It's you, alright? It's you" This line hurts so much but it's so damn true, god I need to watch this show
+
+[157] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.6%)
+    Safe prob  : 7.4%
+    Harm prob  : 92.6%
+    Text       : wonder mah girl watchin this or not lel
+
+[158] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : tried telling this to my teacher when i turned the final in late
+
+[159] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : this show makes me think that seeing yourself as a bad person doesn't require being abusive or alcoholic or a criminal or any of these things, it only requires being a different person from whom you want to be this is because most of the time we are responsible for our own happiness not anybody else
+
+[160] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 71.1%)
+    Safe prob  : 28.9%
+    Harm prob  : 71.1%
+    Text       : I literally watched this around 50 times and I haven’t even seen the show. So good. Low key got me a bit depressed but it’s okay.
+
+[161] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.4%)
+    Safe prob  : 9.6%
+    Harm prob  : 90.4%
+    Text       : "I think all you are is the things that you do" it hurts knowing that every bad thing/decision that you make you'll have to carry that for the rest of your life because you cant escape the things that you've done. No matter how hard you try it will always be there, even if you try to become better i
+
+[162] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.8%)
+    Safe prob  : 3.2%
+    Harm prob  : 96.8%
+    Text       : pls i can’t do this today
+
+[163] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 75.0%)
+    Safe prob  : 25.0%
+    Harm prob  : 75.0%
+    Text       : I wanna die tbh but I’m to scared to kill myself im just stuck now I’m such a coward  goodnight guys
+
+[164] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.6%)
+    Safe prob  : 7.4%
+    Harm prob  : 92.6%
+    Text       : i go back to this every now and then. everytime i sink so low that i feel so bad.
+
+[165] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : didn't plan to want to die today 
+oh well
+
+[166] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : My lifes shit at the moment, nobody talks to me and I feel I'm unwanted and useless. But bojack horseman makes me happy
+
+[167] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.6%)
+    Safe prob  : 3.4%
+    Harm prob  : 96.6%
+    Text       : when i watched this show it really took me off guard that last episode the last season in general had me in tears, as silly as the show is its so realistic bojak is a shitty person but he has a reason and it doesn't mean its justified but he tries to change and falls back into his habits he's realis
+
+[168] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.7%
+    Text       : Watching this I remember just how much Dr. Champ sucks. Might just be the least redeemable character on the show.
+
+[169] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.4%)
+    Safe prob  : 11.6%
+    Harm prob  : 88.4%
+    Text       : Bojack has done terrible things but I don’t like how Penny keeps playing victim. “I was 17 I didn’t know any better.” Oh boo hoo, at 17 you’re not a child, she even mentioned that it was legal but years later she’s traumatized when nothing even happened? She was literally insisting and insisting for
+
+[170] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.0%)
+    Safe prob  : 14.0%
+    Harm prob  : 86.0%
+    Text       : This show taught me a lot more than I realized at first.
+
+[171] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.2%)
+    Safe prob  : 9.8%
+    Harm prob  : 90.2%
+    Text       : Can never hear over the dumb music
+
+[172] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : kewl  (Original - Afrikaans)
+    Original   : kewl
+
+[173] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Hot damn I am bojack  (Original - Swedish)
+    Original   : Hot damn I am bojack
+
+[174] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : i had no idea this show wasnt just a comedy im just watching clips of it now like wtf
+
+[175] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : 💛🧡🧡❤
+
+[176] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : The arrogant thomas neurochemically look because swing occasionally soothe on a lethal lyocell. rustic, gleaming pantyhose
+
+[177] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.2%)
+    Safe prob  : 8.8%
+    Harm prob  : 91.2%
+    Text       : 💛🧡❤
+
+[178] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.3%)
+    Safe prob  : 7.7%
+    Harm prob  : 92.3%
+    Text       : I don’t know, I kinda thought Bojack was iredeemable at the end of it. I wanted him to die, not as a punishment, but as relief. My depression at the time I was watching this show was mirroring Bojack’s. So when he didn’t die at the end, I felt cheated, I thought if I was Bojack, I would’ve just trie
+
+[179] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : The heavenly heavy hellish nephew predictably scream because jewel similarly dam through a jumpy mallet. dead, hot huge lathe
+
+[180] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.8%)
+    Safe prob  : 12.2%
+    Harm prob  : 87.8%
+    Text       : I never watched a show that made me think so much and so hard. It really changed my perspective on a lot.
+
+[181] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Truly beautiful. This show is fucking real.
+
+[182] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.9%)
+    Safe prob  : 10.1%
+    Harm prob  : 89.9%
+    Text       : If anyone says this show is an animated comedy just like many others, they really need to see this video.
+
+[183] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : wow  (Original - Polish)
+    Original   : wow
+
+[184] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : this is amazing
+
+[185] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Humanity is disgusting.  (Original - Filipino)
+    Original   : Humanity is disgusting.
+
+[186] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.0%)
+    Safe prob  : 15.0%
+    Harm prob  : 85.0%
+    Text       : Should of added the no one ever tells you that you get a free churro when your mom dies
+
+[187] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.1%)
+    Safe prob  : 4.9%
+    Harm prob  : 95.1%
+    Text       : really feel that
+
+[188] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : this is one the best edits iev ever seen of one of my ffavorite shows thank you
+
+[189] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : i love this
+
+[190] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : Best. Video. I've. Ever. Seen. ❤️❤️❤️  (Original - Dutch)
+    Original   : Best. Video. I've. Ever. Seen. ❤️❤️❤️
+
+[191] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : The way he lied to the Press was bullshit. He was there. He took the heroin with her. Left her for 17 mins when she passed out. They're wrong she didn't die yet. She was starting to overdose. It was wrong what he did he took advantage of her.
+
+[192] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Holy shit, this was so beautiful and masterfully done
+
+[193] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : this was so well put together omg
+
+[194] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.1%)
+    Safe prob  : 12.9%
+    Harm prob  : 87.1%
+    Text       : This is the best damned series that too few people watched. A *LOT* did, and maybe the writers ran out of gas, I don't know, but that level of excellence is so rare.
+
+[195] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.8%)
+    Safe prob  : 11.2%
+    Harm prob  : 88.8%
+    Text       : When this show aired I could have pulled it together.
+Now. No job and best friend dead. I Bojacked my life.
+
+[196] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : is anyone else crying
+
+[197] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.5%)
+    Safe prob  : 4.5%
+    Harm prob  : 95.5%
+    Text       : i would do anything to watch this show for the first time again.
+
+[198] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.6%)
+    Safe prob  : 6.4%
+    Harm prob  : 93.6%
+    Text       : 💙💙💙
+
+[199] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.1%)
+    Safe prob  : 10.9%
+    Harm prob  : 89.1%
+    Text       : I miss this show.
+
+[200] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.7%)
+    Safe prob  : 9.3%
+    Harm prob  : 90.7%
+    Text       : at the part where sarah lynn said "don't stop dancing" i got chills.
+
+[201] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.7%)
+    Safe prob  : 4.3%
+    Harm prob  : 95.7%
+    Text       : 🤍🤍🤍🤍🤍
+
+[202] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : I dont know what this show is about but god damn this hits harder than a truck at full speed
+

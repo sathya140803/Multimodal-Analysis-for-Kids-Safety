@@ -1,0 +1,22 @@
+============================================================
+SPOKEN AUDIO CLASSIFICATION REPORT
+Generated : 2026-03-25 21:36:20
+Source    : Barack Obama - SUCCESSFUL People Had FAILURES | Inspirational Speech (Motivational Video 2022 (4K))
+============================================================
+
+VERDICT           : HARMFUL
+Language          : English
+Translated        : No
+Total chunks      : 4
+Harmful chunks    : 1 (25.0%)
+Avg harmful prob  : 26.0%
+
+FULL TRANSCRIPTION:
+----------------------------------------
+Some of the most successful people in the world are the ones who've had the most failures. JK Rawlings, who wrote Harry Potter. Her first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut from his high school basketball team. He lost hundreds of games and missed thousands of shots during his career. But he once said, I have failed over and over and over again in my life, and that's why I succeed. These people succeeded because they understood that yo
+
+HARMFUL CHUNKS:
+----------------------------------------
+  Chunk 4 | Confidence: 98.9%
+  harder to act right. If you get a bad grade, that doesn't mean you're stupid. It just means you need to spend more time studying. No one's born being good at all things. You become good at things thro
+

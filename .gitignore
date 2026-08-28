@@ -1,0 +1,90 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Datasets
+# =========================
+*.csv
+
+# =========================
+# Videos / downloaded media
+# =========================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.part
+
+# =========================
+# FrontEnd generated files
+# =========================
+FrontEnd/uploads/*
+FrontEnd/downloads/*
+FrontEnd/temp/*
+FrontEnd/guardian.db
+
+# =========================
+# Python cache
+# =========================
+**/__pycache__/
+**/*.pyc
+
+# =========================
+# IDE
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# OS
+# =========================
+Thumbs.db
+.DS_Store
+
+# =========================
+# Audio generated data
+# =========================
+Audio/data/
+*.npy
+
+# =========================
+# Training logs / generated outputs
+# =========================
+*.log
+
+# =========================
+# Keep trained models
+# =========================
+!Audio/models/
+!Audio/models/*.keras
+
+!Visual/model_output/
+!Visual/model_output/*.pth
+
+!Textual/best_roberta_model/
+!Textual/best_roberta_model/*
+
+# =========================
+# YouTube authentication cookies
+# =========================
+Visual/cookies

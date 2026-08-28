@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmful Content Detector</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f8f9fa;
+        }
+        .container {
+            text-align: center;
+            max-width: 625px;
+            width: 100%;
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1a4d7a;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        .search-container {
+            margin-bottom: 30px;
+            position: relative;
+            display: flex;
+            justify-content: center;
+        }
+        #youtube_url {
+            width: 80%;
+            padding: 15px;
+            font-size: 1em;
+            border: 1px solid #ced4da;
+            border-radius: 25px;
+            outline: none;
+            box-sizing: border-box;
+        }
+        .search-btn {
+            position: absolute;
+            right: 12%;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 8px 15px;
+            font-size: 0.9em;
+            background-color: #e2e6ea;
+            border: none;
+            border-radius: 15px;
+            cursor: pointer;
+            color: #6c757d;
+        }
+        .separator {
+            color: #6c757d;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        .dropbox-container {
+            border: 2px dashed #adb5bd;
+            border-radius: 8px;
+            padding: 40px;
+            color: #495057;
+            background-color: #fff;
+            transition: background-color 0.2s;
+            cursor: pointer;
+        }
+        .dropbox-container:hover {
+            background-color: #e9ecef;
+        }
+        .dropbox-text {
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+        .upload-btn {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 1em;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .upload-btn:hover {
+            background-color: #0056b3;
+        }
+        .flash-msg {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            color: #856404;
+            border-radius: 5px;
+            padding: 8px 14px;
+            margin-bottom: 16px;
+            font-size: 0.9em;
+        }
+        .flash-msg.danger {
+            background: #f8d7da;
+            border-color: #f5c2c7;
+            color: #842029;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Detect Harmful YouTube Content</h1>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            {% for category, message in messages %}
+              <div class="flash-msg {{ category }}">{{ message }}</div>
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+
+        <!-- Search / URL form -->
+        <form action="/search" method="POST" id="search-form">
+            <div class="search-container">
+                <input
+                    type="text"
+                    id="youtube_url"
+                    name="search_query"
+                    placeholder="Please Enter video URL or Keyword"
+                    autocomplete="off"
+                />
+                <button class="search-btn" type="submit">Search</button>
+            </div>
+        </form>
+
+        <div class="separator">or</div>
+
+        <!-- File upload form -->
+        <form action="/upload-video" method="POST" enctype="multipart/form-data" id="upload-form">
+            <input type="file" id="file-input" name="video_file"
+                   accept=".mp4,.avi,.mov,.mkv,.webm" style="display:none" />
+
+            <div class="dropbox-container" id="drop-zone">
+                <div class="dropbox-text" id="drop-text">Drag and drop your file here</div>
+                <button class="upload-btn" type="button" id="upload-btn">Upload File</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        const dropZone   = document.getElementById('drop-zone');
+        const fileInput  = document.getElementById('file-input');
+        const uploadBtn  = document.getElementById('upload-btn');
+        const dropText   = document.getElementById('drop-text');
+        const uploadForm = document.getElementById('upload-form');
+
+        uploadBtn.addEventListener('click', () => fileInput.click());
+
+        dropZone.addEventListener('click', (e) => {
+            if (e.target !== uploadBtn) fileInput.click();
+        });
+
+        fileInput.addEventListener('change', () => {
+            if (fileInput.files[0]) {
+                dropText.textContent = '✔ ' + fileInput.files[0].name;
+                uploadForm.submit();
+            }
+        });
+
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.style.backgroundColor = '#e9ecef';
+        });
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.style.backgroundColor = '#fff';
+        });
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.style.backgroundColor = '#fff';
+            const file = e.dataTransfer.files[0];
+            if (file) {
+                const dt = new DataTransfer();
+                dt.items.add(file);
+                fileInput.files = dt.files;
+                dropText.textContent = '✔ ' + file.name;
+                uploadForm.submit();
+            }
+        });
+
+        document.getElementById('youtube_url').addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                document.getElementById('search-form').submit();
+            }
+        });
+    </script>
+</body>
+</html>

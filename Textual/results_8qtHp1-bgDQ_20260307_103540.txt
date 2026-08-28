@@ -1,0 +1,83 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-07 10:35:40
+Video ID  : 8qtHp1-bgDQ
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 633
+Total harmful found  : 10
+Texts translated     : 2
+Comment harm rate    : 0.0%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 18 analysed
+  Transcript     : 10 harmful / 614 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : >> HELLO, MR. BULL. >> HELLO, DADDY PIG. Everything is ready. The new rooms have been built, and we can put them all together exactly like your plans. H about that. I've made a few minor tweaks. >> Tweaks. [laughter] >> RIGHT. YOU ARE. I'LL TAKE
+
+[2] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 90.2%)
+    Safe prob  : 9.8%
+    Harm prob  : 90.2%
+    Text       : more won't hurt. >> Naughty Granny. Naughty grandpa. >> Right you are, Peppa. This really is the very last one. I can't stop eating them. >> Hello birdies. Have you come to eat the strawberries? >> The little birds do not want to eat the strawberries.
+
+[3] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 94.4%)
+    Safe prob  : 5.6%
+    Harm prob  : 94.4%
+    Text       : Silly daddy. [laughter] >> It is actually not against the law to put pineapple on pizza. Um, Daddy, can we make funny faces on top of the pizzas? >> Of course we can. >> But before we start cooking, [music] we have to wash our hands. >> Wash, wash,
+
+[4] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : you doing, Grandpa Kid? >> Spotted any rare birds? We saw a duck and some pigeons. >> Um, and I have high hopes of spotting a cuckoo. >> Peppa, George, Grandpa, lunch is ready. >> Oh, goody. >> Bye. >> A cuckoo, you say. >> How were you planning on spotting
+
+[5] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : a cuckoo? >> Oh, you know, uh, I was just going to call cuckoo. My goodness, it worked. Well done, old chap. >> Cuckoo. It's inside the house. >> Oh, that is not a real cuckoo. That is Peppa's toy cuckoo clock. >> Sorry to barge in like this, but Grandpa
+
+[6] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Pig has heard a cuckoo. >> You're in here somewhere. >> But Grandpa, >> quiet [laughter] everyone. We don't want to scare the cuckoo away. [screaming] Oh, it's a cuckoo clock. That means I can't tick it off in my book. >> But Grandpa, my cuckoo clock
+
+[7] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.0%)
+    Safe prob  : 5.0%
+    Harm prob  : 95.0%
+    Text       : Let's start by smelling a mild cheese. >> M. That smells good. I like it, too. >> Not much of a smell. Now for some decently strong cheese. AH, THAT'S MORE LIKE IT. A proper stinky one. It smells like my daddy's socks. [laughter] >> And now, BOYS AND
+
+[8] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Pig, and look after the rings? Me? I would be honored. I will think of a speech. >> Speech. >> People usually make speeches on wedding days. >> Mrs. Cow is going to put on her wedding dress. >> I'm so excited. I can't wait to see it. You're a big cheese.
+
+[9] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 91.0%)
+    Safe prob  : 9.0%
+    Harm prob  : 91.0%
+    Text       : don't have to, Daddy Pig. I will call Mr. Bull. >> HELLO, MR. BULL SPEAKING. >> HELLO, MR. BULL. We need soil for our roof garden. >> Can you help? >> Yes. If you can stop the traffic, I can park my truck crane. >> Stop. >> Police Officer Panda is stopping
+
+[10] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : She is going to rescue Daddy Pig. >> Got you. >> Oh, she's got him. >> Hooray! >> My mommy to the rescue. >> Thank you for saving me, Mommy Pig. >> Oh, Teddy Pig, you're starting to slip. >> Mr. Bull has just finished mending the school roof. >> Lovely
+

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results - {{ query }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f8f9fa; padding: 40px; }
+        .results-container { max-width: 900px; margin: 0 auto; }
+
+        .video-item {
+            display: flex;
+            align-items: center;
+            background: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .thumbnail-container { width: 180px; margin-right: 20px; }
+        .thumbnail-container img { width: 100%; border-radius: 5px; display: block;}
+
+        .video-details { flex-grow: 1; }
+        .video-details h3 { font-size: 1.2em; color: #333; margin: 0; }
+
+        .play-button-container { margin-left: 20px; display: flex; align-items: center; gap: 8px; }
+        .analyze-btn {
+            display: inline-block;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            line-height: 1;
+            box-sizing: border-box;
+        }
+
+        .btn-play   { background-color: #dc3545; }
+        .btn-play:hover   { background-color: #b02a37; }
+
+        .btn-select { background-color: #28a745; }
+        .btn-select:hover { background-color: #1e7e34; }
+
+        .footer-container {
+            text-align: center;
+            margin-top: 40px;
+            padding-bottom: 20px;
+        }
+
+        .btn-back {
+            display: inline-block;
+            background-color: #6c757d;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.2s;
+        }
+
+        .btn-back:hover {
+            background-color: #5a6268;
+        }
+    </style>
+</head>
+<body>
+    <div class="results-container">
+        <h1>Results for "{{ query }}"</h1>
+
+        {% if not videos %}
+            <p>No results found for <strong>"{{ query }}"</strong>. <a href="/">Try again</a>.</p>
+        {% endif %}
+
+        {% for video in videos %}
+        <div class="video-item">
+            <div class="thumbnail-container">
+                <img src="{{ video.thumbnail }}" alt="{{ video.title }} Thumbnail">
+            </div>
+
+            <div class="video-details">
+                <h3>{{ video.title }}</h3>
+                <p style="color:#888; font-size:0.9em; margin:6px 0 0;">
+                    {{ video.channel }}
+                    {% if video.views %} &nbsp;·&nbsp; {{ video.views }}{% endif %}
+                    {% if video.duration %} &nbsp;·&nbsp; {{ video.duration }}{% endif %}
+                </p>
+            </div>
+
+            <div class="play-button-container">
+                <a href="{{ video.youtube_url }}" target="_blank" rel="noopener"
+                   class="analyze-btn btn-play" style="text-decoration: none;">
+                    ▶
+                </a>
+                <form action="/select-video" method="POST" style="display:inline;">
+                    <input type="hidden" name="video_id" value="{{ video.id }}" />
+                    <button type="submit" class="analyze-btn btn-select">Select</button>
+                </form>
+            </div>
+        </div>
+        {% endfor %}
+
+        <br>
+        <div class="footer-container">
+            <a href="/" class="btn-back">← Back</a>
+        </div>
+    </div>
+</body>
+</html>

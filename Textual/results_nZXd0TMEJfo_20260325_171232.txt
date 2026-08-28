@@ -1,0 +1,2836 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-25 17:12:32
+Video ID  : nZXd0TMEJfo
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 1755
+Total harmful found  : 429
+Texts translated     : 551
+Comment harm rate    : 24.0%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 1 analysed
+  Transcript     : 12 harmful / 14 analysed
+  Comments       : 417 harmful / 1739 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : oh thank you so much for putting us up until we find our car and thank you for not being a band of hippie murderers and now this again you bring home two bands of hippie murderers and suddenly that's all you're about well what do you say we have some
+
+[2] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.1%
+    Harm prob  : 99.0%
+    Text       : lunch where's bart well he's at camp all week i'm sorry you won't get to meet him got kicked out of camp i super glued my counselor's butt cheeks together that's terrible but how did you even get access to his butt cheeks i'm not the only one who got
+
+[3] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : kicked out of camp this is bart honey your hands are filthy go wash up for lunch eat my shorts eat my shorts i love that is that a popular expression like what the deuce probably more popular probably probably way more popular well here's my room
+
+[4] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.9%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.9%
+    Text       : hey you want to see my weapons closet you have a weapons closet too [Music] ouch jesus heard my mean thought a slingshot it's so simple and pure he doesn't need lasers or time machines just gumballs and marbles and balls of string he's like something
+
+[5] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.2%)
+    Safe prob  : 2.8%
+    Harm prob  : 97.2%
+    Text       : out of mark twain whose real name was samuel clemens how how does that further this conversation hey you want to make a prank phone call ooh prank phone call most having mo speaking uh yeah i'm looking for a friend last name kibum first name lee yeah
+
+[6] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : hang on now check uh hey guys do i got a leaky bum come on look at the stools uh is there a leaky bum i somebody checked the rear i know i got a leaky bum then you probably shouldn't be handling food oh my god that's amazing that's the coolest thing ever
+
+[7] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.4%
+    Text       : of your own no i'm not good at anything oh meg i'm sure you're good at something we just have to find out what it is after all nelson mandela said it's our obligation to shine you mean like my oily face and back no maybe don't sit on my bedspread please
+
+[8] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : but i mean the light within you that makes you an individual meg you need to know that you matter really no one's ever told me i mattered before that's why you have to say it so say it i matter louder i matter shut up meg you don't matter [Music] [Applause]
+
+[9] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : [Music] hey couldn't help but notice there is no seat for me oh i was under the impression that you were a dog you're right to have that reaction marge well i just figured at home i sit with the family so i assume that have you ever drunk out of a toilet
+
+[10] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.7%)
+    Safe prob  : 4.3%
+    Harm prob  : 95.7%
+    Text       : i i don't see what that has to do with the discussion dogs eat in the kitchen yeah dogs eat in the kitchen wow you work at a nuclear power plant what's that i don't know pretty impressive i just work at a brewery oh my god you get to work with beer whoa
+
+[11] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.7%
+    Text       : what's beer really like eh he's got a big head hey you know ah damn it i don't have a comic strip anymore so still no word from the police on your stolen car the cops here are a joke i bet you and me can find your car on our own you think so yeah cause homer
+
+[12] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : i got him in my sights yeah yeah we did it what's he doing here uh we got to carry him because he can't fly on his own we let that other guy try and look what happened no no no no no
+
+[13] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 70.6%)
+    Safe prob  : 29.4%
+    Harm prob  : 70.6%
+    Text       : 😅😅😅😅😅😂😅 😂 😅 😂 😅 😂 😅 😂 😅 😂
+
+[14] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😮
+
+[15] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : "I MATTER!"
+"SHUT UP MEG! YOU DONT MATTER!"
+
+[16] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : Bro, at first I thought Stewie said wow I sling shit I had to play it back for him so I can hear it correctly lol😂
+
+[17] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : 1:10 Jesus hurt my mean thought 
+        Ralph is so funny 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+[18] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Marge is being racism
+
+[19] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.9%)
+    Safe prob  : 7.1%
+    Harm prob  : 92.9%
+    Text       : The kill meme in you vs homer
+
+[20] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 71.7%)
+    Safe prob  : 28.3%
+    Harm prob  : 71.7%
+    Text       : Mvjvncjcndjjd❤😂  (Original - Estonian)
+    Original   : მვჯვნცჯცნდჯჯდ❤😂
+
+[21] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I'm louder!!! Shut up meg you not louder 😂😂😂
+
+[22] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.7%)
+    Safe prob  : 12.3%
+    Harm prob  : 87.7%
+    Text       : and the  (Original - Ukrainian)
+    Original   : і 𝗍һіᥒk ᥣіsᥲ һᥲ᥎ᥱ ᥆⍴ᥴძ
+
+[23] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.1%)
+    Safe prob  : 12.9%
+    Harm prob  : 87.1%
+    Text       : 1:40 moe's kill sound in you vs homer
+
+[24] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up yall you don’t matter  (Original - Indonesian)
+    Original   : Shut up yall you don’t matter
+
+[25] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I MATTER  "Shut up mag you don't matter"
+
+[26] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : @Dayum  (Original - Unknown (so))
+    Original   : @Dayum
+
+[27] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.4%)
+    Safe prob  : 5.6%
+    Harm prob  : 94.4%
+    Text       : how dose stewie knows the r word
+
+[28] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.9%)
+    Safe prob  : 9.1%
+    Harm prob  : 90.9%
+    Text       : 2:50 shut up meg you dont matter  (Original - Indonesian)
+    Original   : 2:50 shut up meg you dont matter
+
+[29] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Peter is a dumbass
+
+[30] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I hate family guy and f*** the griffins
+
+[31] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Yoo that was the moe sound in you vs homer
+
+[32] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.0%)
+    Safe prob  : 9.0%
+    Harm prob  : 91.0%
+    Text       : 5/6
+
+[33] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 77.0%)
+    Safe prob  : 23.0%
+    Harm prob  : 77.0%
+    Text       : 1:31 moe  (Original - Afrikaans)
+    Original   : 1:31 moe
+
+[34] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : lee kew bum  (Original - Dutch)
+    Original   : lee kew bum
+
+[35] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.5%)
+    Safe prob  : 13.6%
+    Harm prob  : 86.5%
+    Text       : Tamai@@g@h@g#@gpw
+
+
+
+,
+
+
+
+,g#jg@##😂❤🎉😢😢😮😮😮😅😅😅  (Original - Filipino)
+    Original   : たまi@@g@h@g#@gpw
+
+
+
+,
+
+
+
+,g#jg@##😂❤🎉😢😢😮😮😮😅😅😅
+
+[36] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : 1:40 = moe kill sound in yvsh
+
+[37] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.5%)
+    Safe prob  : 14.5%
+    Harm prob  : 85.5%
+    Text       : Bro the leek key bum is like in the game call you vs homer
+
+[38] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.9%)
+    Safe prob  : 10.1%
+    Harm prob  : 89.9%
+    Text       : 3:12 😂😂😂😂😂😂
+
+[39] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : that’s where the leaky bum come from
+
+[40] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 79.1%)
+    Safe prob  : 20.9%
+    Harm prob  : 79.1%
+    Text       : 1:40 so this iswhere the kill sound for moe in yvsh comes from😊
+
+[41] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : “SHUT UP MAG YOU DONT MATTER!!!”😂😂  (Original - German)
+    Original   : “SHUT UP MAG YOU DONT MATTER!!!”😂😂
+
+[42] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : "shut up meg you dont matter!"LOL  (Original - French)
+    Original   : "shut up meg you dont matter!"LOL
+
+[43] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Bart might be stupid
+
+[44] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.2%
+    Text       : The Simpsons and The Critic crossover was better than this pig 💩
+
+[45] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Homer was always a big fucking obese, but he looks like and anorexic next to Peter
+
+[46] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[47] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.4%)
+    Safe prob  : 7.6%
+    Harm prob  : 92.4%
+    Text       : Do I got a lee-key bum? 1:41
+
+[48] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : 1:40 this how the moe kill sound effect was made from you vs homer
+
+[49] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : The rape joke was not cool.
+
+[50] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.3%)
+    Safe prob  : 5.7%
+    Harm prob  : 94.3%
+    Text       : 0:43 bert: eat my shorts.
+
+
+
+
+
+0:45 stewie: eat my shorts? i love that.
+
+[51] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.7%)
+    Safe prob  : 9.3%
+    Harm prob  : 90.7%
+    Text       : OH MY GOD… I can’t it took me this long to understand the joke…
+I thought Bart was saying “don’t stress, I’m not the only one who got kicked out of camp” but he’s actually saying “me and few other kids forcibly violated a camp counselor’s buttcheeks” 😂😂😂
+
+[52] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.7%)
+    Safe prob  : 14.3%
+    Harm prob  : 85.7%
+    Text       : 1:40 is that sound from you vs homer
+
+[53] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : 2:51 SHUT UP MEG
+
+[54] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : That is the sound of you vs homer killer of mob
+
+[55] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.6%)
+    Safe prob  : 7.4%
+    Harm prob  : 92.6%
+    Text       : #familyguys :)  (Original - Welsh)
+    Original   : #familyguys :)
+
+[56] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.4%)
+    Safe prob  : 9.6%
+    Harm prob  : 90.4%
+    Text       : How do you say shut up he's not matter because she failed
+
+[57] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.6%)
+    Safe prob  : 8.3%
+    Harm prob  : 91.6%
+    Text       : 1:40 POV when moe kills a Bart in you vs homer
+
+[58] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.5%)
+    Safe prob  : 12.5%
+    Harm prob  : 87.5%
+    Text       : "yea hang on now check,uh hey guys do I got a Leaky bum c'mon looking the stool they are Liki bum I somebody checked the rear I know I got a Leaky bum" You vs Homer😭😭😭😭🥀🥀🥀🥀🥀
+
+[59] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.3%)
+    Safe prob  : 7.7%
+    Harm prob  : 92.3%
+    Text       : A linky bomb  (Original - Slovak)
+    Original   : A linky bomb
+
+[60] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : 👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👍👍👍👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎🏻👎
+
+[61] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : 1:46 moe you vs homer roblox  (Original - Slovak)
+    Original   : 1:46 moe you vs homer roblox
+
+[62] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.2%
+    Text       : 1:41 leaky bum  (Original - Czech)
+    Original   : 1:41 leaky bum
+
+[63] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Hey moe your sisters being rapped got me dying
+
+[64] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 80.8%)
+    Safe prob  : 19.2%
+    Harm prob  : 80.8%
+    Text       : 0:42 eat my short's
+
+[65] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "Shut up Meg, you don't matter" That's low-key fucked up ngl
+
+[66] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : 0:24 got kicked out of camp i superglued my counslers buttchicks together
+
+[67] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.4%)
+    Safe prob  : 7.6%
+    Harm prob  : 92.4%
+    Text       : "I MATTER shut up meg you don't matter" got me rolling 
+😂
+
+[68] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I like THE SIMPSONS more than that stupid cartoon
+
+[69] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : The moe said it at you vs homer
+
+[70] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.1%)
+    Safe prob  : 5.9%
+    Harm prob  : 94.1%
+    Text       : 1:40 uh hey guys do i got a leekybum come on look at the stools uh is there a leekybum i somebody checked the rear i know i got leekybum🗣️🗣️🗣️🗣️🗣️🔥🔥🔥🔥🌟🌟🌟⭐⭐💥💥💥💥💥💥💥💥
+
+[71] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.1%
+    Harm prob  : 92.0%
+    Text       : Leekeebum😂😂😂😂  (Original - Estonian)
+    Original   : Leekeebum😂😂😂😂
+
+[72] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you dont matter😂  (Original - Indonesian)
+    Original   : Shut up meg you dont matter😂
+
+[73] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.6%)
+    Safe prob  : 8.4%
+    Harm prob  : 91.6%
+    Text       : 1:39 A GUYS DO I GOT A LEEKEY BUM  (Original - Hungarian)
+    Original   : 1:39 A GUYS DO I GOT A LEEKEY BUM
+
+[74] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.3%)
+    Safe prob  : 7.6%
+    Harm prob  : 92.3%
+    Text       : 1:40  die bart from this killer in you vs homer
+
+[75] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.7%)
+    Safe prob  : 6.3%
+    Harm prob  : 93.7%
+    Text       : "Hey guys I got a leaky bomb" what moe just said??
+
+[76] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : I know I have a leak ey bum😂😂😂😂😂😂😂
+
+[77] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.0%)
+    Safe prob  : 9.0%
+    Harm prob  : 91.0%
+    Text       : 1:41" hey guys do we got an lee kee bum?"  (Original - Unknown (so))
+    Original   : 1:41" hey guys do we got an lee kee bum?"
+
+[78] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.3%)
+    Safe prob  : 11.7%
+    Harm prob  : 88.3%
+    Text       : Slinky bomb 💣  (Original - Slovak)
+    Original   : Slinky bomb 💣
+
+[79] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.3%)
+    Safe prob  : 7.7%
+    Harm prob  : 92.3%
+    Text       : Great 😂😂😂😂😂😂  (Original - Afrikaans)
+    Original   : Oke😂😂😂😂😂😂
+
+[80] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.2%)
+    Safe prob  : 2.8%
+    Harm prob  : 97.2%
+    Text       : I hear a leaky bum on you versus Homer
+
+[81] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.4%)
+    Safe prob  : 8.6%
+    Harm prob  : 91.4%
+    Text       : Leekebum haahahahahahhaahah said all drunks  (Original - Unknown (so))
+    Original   : Leekebum haahahahahahhaahah said all drunks
+
+[82] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 2:52 SHUT UP MEG U DONT MATTER😂  (Original - German)
+    Original   : 2:52 SHUT UP MEG U DONT MATTER😂
+
+[83] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : TOY BOOM  (Original - French)
+    Original   : LEKEBUM
+
+[84] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.1%)
+    Safe prob  : 8.9%
+    Harm prob  : 91.1%
+    Text       : Uh is there a leaky bum meme
+
+[85] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 77.5%)
+    Safe prob  : 22.4%
+    Harm prob  : 77.5%
+    Text       : 1:41 leeky bum  (Original - Unknown (so))
+    Original   : 1:41 leeky bum
+
+[86] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.3%)
+    Safe prob  : 10.7%
+    Harm prob  : 89.3%
+    Text       : 1:40 avarage you vs homer be like:  (Original - Norwegian)
+    Original   : 1:40 avarage you vs homer be like:
+
+[87] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Shut up meg you don't matter hits hard 🗣️
+
+[88] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg you don’t matter got me rolling on the ground😂😂😂😂😂
+
+[89] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Oh shit its lee key bum
+
+[90] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.3%)
+    Safe prob  : 10.7%
+    Harm prob  : 89.3%
+    Text       : “Y o u r s I s t e r i s b e i n g r a p e d.”  1:58  (Original - Welsh)
+    Original   : “Y o u r s I s t e r i s b e i n g r a p e d.”  1:58
+
+[91] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Attend them to the pretty Becky g who is in red and is a dragons Adriana grande ho dig ur gold ok to b quenna in poker de aces go do ur toilet paper  (Original - Spanish)
+    Original   : Atiebdalas a las bonita Becky g q esa de rojo y es una dragons Adriana grande ho dig ur gold ok to b quenna in poker de aces go do ur toilet paper
+
+[92] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : The black Missy Elliot Theodora's family is the one with Blue hair and the Smurf is Ella's daughter and Homer is the Andrew son Felice's asleep and fucking The chainsmoker still Ursula's son Felice's lived forever  (Original - Spanish)
+    Original   : LA missy Elliot negra familia de la teodora es la de pelo Azul y la pitufa es LA hija de Ella y homero es el andres son Felice's dormidos y de cogia Al chainsmoker aun hijo de la Ursula vivieron Felice's para siempre
+
+[93] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : 😂😂😂😂😂😂
+
+[94] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+[95] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 73.2%)
+    Safe prob  : 26.8%
+    Harm prob  : 73.2%
+    Text       : Aye guys do I have a leaky bum
+
+[96] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : 2:51 “Shut up Meg you don’t matter.”
+
+[97] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.2%)
+    Safe prob  : 6.9%
+    Harm prob  : 93.2%
+    Text       : "Leaky bum"  (Original - Slovak)
+    Original   : "Leaky bum"
+
+[98] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.3%)
+    Safe prob  : 6.7%
+    Harm prob  : 93.3%
+    Text       : I MATTER shut up Meg you don’t matter💀 2:50
+
+[99] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.1%)
+    Safe prob  : 13.0%
+    Harm prob  : 87.1%
+    Text       : POV: when Moe kills a Bart in you vs Homer 1:40
+
+[100] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : Hit my shorts in you vs homer
+
+[101] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you don't matter was cold
+
+[102] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Bru  (Original - German)
+    Original   : Bru
+
+[103] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.9%)
+    Safe prob  : 10.1%
+    Harm prob  : 89.9%
+    Text       : Your bra this game roblox you vs Homer😧
+
+[104] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.2%)
+    Safe prob  : 3.8%
+    Harm prob  : 96.2%
+    Text       : Bart: EAT MY SHOES!!!☆  (Original - German)
+    Original   : Bart: EAT MY SHOES!!!☆
+
+[105] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.8%)
+    Safe prob  : 11.2%
+    Harm prob  : 88.8%
+    Text       : The leekey bum part💀
+
+[106] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : You vs homer moe leaky bum  (Original - Slovak)
+    Original   : You vs homer moe leaky bum
+
+[107] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.2%)
+    Safe prob  : 12.8%
+    Harm prob  : 87.2%
+    Text       : 0:43 eat my shorts
+
+[108] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : 1:41  uh hey guys do i leakybum come on look at the stools uh is there leakybum u somebody checked the rear i know i got a leakbum
+
+[109] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.1%)
+    Safe prob  : 5.9%
+    Harm prob  : 94.1%
+    Text       : 1:39 bro you vs homer😂😂  (Original - Slovak)
+    Original   : 1:39 bro you vs homer😂😂
+
+[110] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : 😂😂😂😂
+
+[111] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Stfu the homo 🖕🤬  (Original - Spanish)
+    Original   : Stfu el homo 🖕🤬
+
+[112] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "Shut up meg u dont matter" LOL  (Original - French)
+    Original   : "Shut up meg u dont matter" LOL
+
+[113] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.8%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.8%
+    Text       : hey guys do i gotta lee key hum  (Original - Unknown (so))
+    Original   : hey guys do i gotta lee key hum
+
+[114] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : 2:49 Shut up meg, You don't matter.  (Original - Swedish)
+    Original   : 2:49 Shut up meg, You don't matter.
+
+[115] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.5%)
+    Safe prob  : 3.5%
+    Harm prob  : 96.5%
+    Text       : Omg  (Original - Filipino)
+    Original   : Omg
+
+[116] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Your a dumb dad  (Original - French)
+    Original   : Your a dumb dad
+
+[117] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : 0:36 BUTT??? 😭  (Original - Indonesian)
+    Original   : 0:36 BUTT??? 😭
+
+[118] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.2%)
+    Safe prob  : 8.8%
+    Harm prob  : 91.2%
+    Text       : I have a leaky bum
+
+[119] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Do I got a leaky bum 😂😂😂😂
+
+[120] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.7%)
+    Safe prob  : 8.3%
+    Harm prob  : 91.7%
+    Text       : I laughed so hard that I farted out my ears
+
+[121] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.0%)
+    Safe prob  : 14.0%
+    Harm prob  : 86.0%
+    Text       : 1:40 You vs Homer if you playing as moe and kill bart this will sound happened
+
+[122] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.5%)
+    Safe prob  : 4.5%
+    Harm prob  : 95.5%
+    Text       : ❤❤❤❤❤❤❤❤
+
+[123] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Shut up meg got me 🗣️🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀  (Original - Albanian)
+    Original   : Shut up meg got me 🗣️🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀🥀
+
+[124] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.6%)
+    Safe prob  : 3.4%
+    Harm prob  : 96.6%
+    Text       : 2:49 shut up Meg u don’t matter  (Original - Albanian)
+    Original   : 2:49 shut up Meg u don’t matter
+
+[125] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : i hate thissss sooooo much bruhskii
+
+[126] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.5%)
+    Safe prob  : 3.5%
+    Harm prob  : 96.5%
+    Text       : Matter bob😂😂😂😂  (Original - Norwegian)
+    Original   : Matter bob😂😂😂😂
+
+[127] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : PETER p griffin aka Peter piss pants griffin xD
+
+[128] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Stewies prank call...FFS 😂😂😂😂😂😂😂😂😂😂😂😂
+
+[129] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.5%)
+    Safe prob  : 8.5%
+    Harm prob  : 91.5%
+    Text       : Leaky bumm😂😂
+
+[130] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 78.4%)
+    Safe prob  : 21.6%
+    Harm prob  : 78.4%
+    Text       : 4:12 RED BARON!!!!!  (Original - German)
+    Original   : 4:12 RED BARON!!!!!
+
+[131] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.8%)
+    Safe prob  : 10.2%
+    Harm prob  : 89.8%
+    Text       : 1:38 do I got a lee ki bum?  (Original - Croatian)
+    Original   : 1:38 do I got a lee ki bum?
+
+[132] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : yo thats lit
+
+[133] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.2%)
+    Safe prob  : 12.8%
+    Harm prob  : 87.2%
+    Text       : 1:36 i got a leaky bum
+
+[134] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "shut up Meg, you don't matter"
+
+[135] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.3%)
+    Safe prob  : 11.7%
+    Harm prob  : 88.3%
+    Text       : 1:39 😢😂😂😂😂😂
+
+[136] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : this shit is not a full ep
+
+[137] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.9%)
+    Safe prob  : 10.1%
+    Harm prob  : 89.9%
+    Text       : 0:28: got kicked out of camp I super glued my  counciler buttcheeks together 
+
+
+Marge: that's terrible but how'd u even get access to his butt cheeks(💀)
+
+Bart: not the only one kicked outta camp
+
+
+
+(Bro Marge and Bart are menaces 💀💀💀💀💀💀☠️💀💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀💀☠️💀☠️
+
+[138] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : SHUT UP MEG YOU DON’T MATTER😂😂😂😂😂😂😂
+
+[139] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.0%)
+    Safe prob  : 12.0%
+    Harm prob  : 88.0%
+    Text       : 𝐁𝐫𝐨 𝐰𝐡𝐞𝐫𝐞 𝐢𝐬 𝐁𝐚𝐫𝐭?
+
+[140] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : marge u are an expert on being dog owner
+
+[141] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.7%)
+    Safe prob  : 14.3%
+    Harm prob  : 85.7%
+    Text       : Do i got a leaky bum? 1:41
+
+[142] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : "SHUT UP MEG YA DONT MATTER"  (Original - German)
+    Original   : "SHUT UP MEG YA DONT MATTER"
+
+[143] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : 2:51 Shut up Peter, Meg matters more than you
+
+[144] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.3%)
+    Safe prob  : 5.7%
+    Harm prob  : 94.3%
+    Text       : WTF IS 2:03
+
+[145] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : These black ppl have a problem
+
+[146] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.8%)
+    Safe prob  : 13.2%
+    Harm prob  : 86.8%
+    Text       : Leekybum 😂😂🤣😂  (Original - Lithuanian)
+    Original   : Leekybum 😂😂🤣😂
+
+[147] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : hello moe UR SISTER IS BEING RAPED💀💀💀💀
+
+[148] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "I MATTER!  SHUT UP MEG YOU DON'T MATTER" I immediately made the speed face
+
+[149] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : SHUT UP MEG YOU DONT MATTER  (Original - German)
+    Original   : SHUT UP MEG YOU DONT MATTER
+
+[150] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Ralph is gay 😂😂  (Original - Filipino)
+    Original   : Ralph is gay 😂😂
+
+[151] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I think you're dumb i love you all of you are dumb i don't think i don't like you are because i'm actually not your biggest fan hahaha
+
+[152] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up, Meg you don’t matter 2:52  (Original - Indonesian)
+    Original   : Shut up, Meg you don’t matter 2:52
+
+[153] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.6%)
+    Safe prob  : 4.4%
+    Harm prob  : 95.6%
+    Text       : 2:04"moe your sister is being 🍇! Is that is that one?"GOT ME😭
+
+[154] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 83.3%)
+    Safe prob  : 16.7%
+    Harm prob  : 83.3%
+    Text       : 🌪️🌪️🌪️
+
+[155] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.1%)
+    Safe prob  : 5.9%
+    Harm prob  : 94.1%
+    Text       : 🤣🤣🤣🤣
+
+[156] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.1%)
+    Safe prob  : 2.9%
+    Harm prob  : 97.1%
+    Text       : 1:48 AND YOU PROBABLY SHOULDN'T BE HANDLING FOOD!😂😂😂😂😂😂😂
+
+[157] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : SHUT UP MEG YOU DONT MATTER (me) oh damn  (Original - Indonesian)
+    Original   : SHUT UP MEG YOU DONT MATTER (me) oh damn
+
+[158] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Watch out the simpsons, the girffins swear
+
+[159] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : i this like this video
+
+[160] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : 2:02 😂😂😂 Now that's a prank call. Take notes from Stewie, Bart. He does it way better than you. At least he doesn't do the crap you've been doing nonstop that's never funny.
+
+[161] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : the simpsons are nothing compared to family guys in terms of explicit content
+
+[162] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.5%)
+    Safe prob  : 6.5%
+    Harm prob  : 93.5%
+    Text       : Wtf let lisa Simpson in the concert
+
+[163] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : You shut up Peter Griffin! You're the one who doesn't matter 💢
+
+[164] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.9%)
+    Safe prob  : 12.1%
+    Harm prob  : 87.9%
+    Text       : 5 years  (Original - Vietnamese)
+    Original   : 5 năm
+
+[165] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : I heard Peter from the right side of my headphones said “shut up Meg you don’t matter” I laughed😂
+
+[166] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : 2:48 “shut up meg you dont matter.”  (Original - Indonesian)
+    Original   : 2:48 “shut up meg you dont matter.”
+
+[167] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.5%)
+    Safe prob  : 3.5%
+    Harm prob  : 96.5%
+    Text       : 2:50 I matter shut up Meg you don’t matter
+
+[168] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : 💀💀💀💀💀💀💀
+
+[169] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Fuck you family
+
+[170] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you don't matter got me laughing so hard
+
+[171] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : 2:29 yeah being dumb  (Original - Indonesian)
+    Original   : 2:29 yeah being dumb
+
+[172] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : 2:50 “shut up Meg you don't matter” - Peter Griffin
+
+[173] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : “I MATTER”
+“shut up Meg you don’t matter”
+
+[174] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Not the shut up meg u don't matter😂😂😂😂
+
+[175] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.0%)
+    Safe prob  : 10.0%
+    Harm prob  : 90.0%
+    Text       : MEG  (Original - Swahili)
+    Original   : MEG
+
+[176] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : 2:51 “shut up meg you don’t matter”  (Original - Indonesian)
+    Original   : 2:51 “shut up meg you don’t matter”
+
+[177] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : HELL YEAAH! FUCKERS ELOOOK! FMAILY GUY X SIMPSONS COALLAB  (Original - German)
+    Original   : HELL YEAAH! FUCKERS ELOOOK! FMAILY GUY X SIMPSONS COALLAB
+
+[178] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : 2:51 Shut up Meg￼ you don’t matter  (Original - Indonesian)
+    Original   : 2:51 Shut up Meg￼ you don’t matter
+
+[179] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Sister of a fake bart the only thing you're good at is nothing😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+[180] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : “Eat my shorts”
+
+[181] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.6%)
+    Safe prob  : 10.4%
+    Harm prob  : 89.6%
+    Text       : Homer and Peter, the two dumbest fathers in the history of tv series 😂
+
+[182] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : Can you shut up?
+
+[183] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.9%)
+    Safe prob  : 7.1%
+    Harm prob  : 92.9%
+    Text       : *moe’s tarven, hi moe your sister is being r**ped’ 💀
+
+[184] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : 2:48 SHUT UP U DONT MATTER 😂  (Original - German)
+    Original   : 2:48 SHUT UP U DONT MATTER 😂
+
+[185] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.9%)
+    Safe prob  : 14.1%
+    Harm prob  : 85.9%
+    Text       : 3:21😂😂😂😂
+
+[186] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : Meg Griffin: I Matter
+Peter Griffin: Shut Up Meg You Don’t Matter
+Lisa Simpson: Meg Does Matter Peter
+Peter Griffin: Shut Up Lisa  (Original - German)
+    Original   : Meg Griffin: I Matter
+Peter Griffin: Shut Up Meg You Don’t Matter
+Lisa Simpson: Meg Does Matter Peter
+Peter Griffin: Shut Up Lisa
+
+[187] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : What the fuck am I watching for this kids like the hell no the shit the fucking hell I’m leaving this but I still subscribe, but I’m dummy. I broke my bones. I can’t walk. AaaaaaAaaaaaaAAaaaa😇😇😇😇😇😇
+
+[188] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg you don’t matter 😂😂😂  (Original - Indonesian)
+    Original   : Shut up Meg you don’t matter 😂😂😂
+
+[189] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : absolute cinema  (Original - Italian)
+    Original   : absolute cinema
+
+[190] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Classic configuration of American middle class family in a comedian cartoon: Fat drunk dad with an easy job and friends who also love drinking, hot wife who is not actually perfect and popular in life, kids of naughty, smart and being bullied in school. And yeah, a dog.
+
+[191] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : He said shut meg you don't matter I'm like wtf he's right😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+[192] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "Shut up meg you dont matter" LOL  (Original - French)
+    Original   : "Shut up meg you dont matter" LOL
+
+[193] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : i miss them
+
+[194] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Just shut up Meg or
+
+[195] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : perfect collab  (Original - Catalan)
+    Original   : perfect collab
+
+[196] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Idfk  (Original - Danish)
+    Original   : Idfk
+
+[197] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I don't care stupid peter  (Original - Norwegian)
+    Original   : meg matters dum peter
+
+[198] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : Damn miss my childhood
+
+[199] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.1%)
+    Safe prob  : 3.9%
+    Harm prob  : 96.1%
+    Text       : Did bro just say your sister is getting rape?
+
+[200] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.1%)
+    Safe prob  : 1.9%
+    Harm prob  : 98.1%
+    Text       : I hate this
+
+[201] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.1%)
+    Safe prob  : 1.9%
+    Harm prob  : 98.1%
+    Text       : 2:04 your sisters being r***d  (Original - German)
+    Original   : 2:04 your sisters being r***d
+
+[202] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : I think is king bomb
+
+[203] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : All of you should shut up
+
+[204] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you don’t matter killed me😂😂😂😂😂😂  (Original - Danish)
+    Original   : Shut up meg you don’t matter killed me😂😂😂😂😂😂
+
+[205] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.3%)
+    Safe prob  : 9.7%
+    Harm prob  : 90.3%
+    Text       : UOU😮😰  (Original - Swahili)
+    Original   : UOU😮😰
+
+[206] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.7%)
+    Safe prob  : 9.3%
+    Harm prob  : 90.7%
+    Text       : OUO🫨😬😱  (Original - Portuguese)
+    Original   : OUO🫨😬😱
+
+[207] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I'm madder! Shut up Meg! You don't matter got me  (Original - Norwegian)
+    Original   : I'm madder! Shut up Meg! You don't matter got me
+
+[208] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : 00:02:50-I MATTER!😡
+-Shut up, Meg you don't matter.  (Original - Indonesian)
+    Original   : 00:02:50-I MATTER!😡
+-Shut up, Meg you don't matter.
+
+[209] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : Idc about you stewwie
+
+[210] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : 2:50 Shut up Meg you don't matter 😭
+
+[211] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : Crap how Peter said shut up Meg you don’t matter, that’s not nice peter
+
+[212] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 84.5%)
+    Safe prob  : 15.6%
+    Harm prob  : 84.5%
+    Text       : meg: I matter! Peter: shut up meg you don't matter  (Original - Norwegian)
+    Original   : meg: I matter! Peter: shut up meg you don't matter
+
+[213] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : I'm matter shut up meg you don't matter  (Original - Swedish)
+    Original   : I'm matter shut up meg you don't matter
+
+[214] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.5%)
+    Safe prob  : 10.5%
+    Harm prob  : 89.5%
+    Text       : The Simpsons blow.
+
+[215] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.6%)
+    Safe prob  : 5.4%
+    Harm prob  : 94.6%
+    Text       : EAT MY SHORTS  (Original - German)
+    Original   : EAT MY SHORTS
+
+[216] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : Yeah, Meg shut up  (Original - Indonesian)
+    Original   : Yeah, Meg shut up
+
+[217] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.7%
+    Text       : A leaky bum  (Original - Hungarian)
+    Original   : A leaky bum
+
+[218] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : 2:50 Peter what the fuck💀
+
+[219] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : You shut up  (Original - French)
+    Original   : You shut up
+
+[220] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+[221] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.2%)
+    Safe prob  : 12.8%
+    Harm prob  : 87.2%
+    Text       : 0:43 eat my shorts
+
+[222] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : "I Matter!"
+
+SHUT UP NI-  (Original - German)
+    Original   : "I Matter!"
+
+SHUT UP NI-
+
+[223] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 77.6%)
+    Safe prob  : 22.4%
+    Harm prob  : 77.6%
+    Text       : 2:47 got me dying  (Original - Norwegian)
+    Original   : 2:47 got me dying
+
+[224] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up mag  you don’t matter😂😂 2:50  (Original - French)
+    Original   : Shut up mag  you don’t matter😂😂 2:50
+
+[225] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.0%)
+    Safe prob  : 6.0%
+    Harm prob  : 94.0%
+    Text       : ❤❤❤❤❤❤❤❤😊
+
+[226] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 82.0%)
+    Safe prob  : 18.0%
+    Harm prob  : 82.0%
+    Text       : Eat my shorts lol
+
+[227] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : 2:49 
+Lisa: Louder 
+Meg: I MATTER 
+Peter: Shut up meg you don’t matter  (Original - Norwegian)
+    Original   : 2:49 
+Lisa: Louder 
+Meg: I MATTER 
+Peter: Shut up meg you don’t matter
+
+[228] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 75.2%)
+    Safe prob  : 24.8%
+    Harm prob  : 75.2%
+    Text       : Bro
+What
+
+[229] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.5%)
+    Safe prob  : 11.5%
+    Harm prob  : 88.5%
+    Text       : 2:52 shut up meg u dont matter  (Original - Albanian)
+    Original   : 2:52 shut up meg u dont matter
+
+[230] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg you don’t matter😂😂😂😂 2:51  (Original - Indonesian)
+    Original   : Shut up Meg you don’t matter😂😂😂😂 2:51
+
+[231] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.5%)
+    Safe prob  : 10.5%
+    Harm prob  : 89.5%
+    Text       : 0:44 yeah eat my shorts
+
+[232] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.6%)
+    Safe prob  : 8.4%
+    Harm prob  : 91.6%
+    Text       : "i matter!" peter: shut up meg you dont matter  (Original - Norwegian)
+    Original   : "i matter!" peter: shut up meg you dont matter
+
+[233] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.9%)
+    Safe prob  : 9.1%
+    Harm prob  : 90.9%
+    Text       : 2:50  shut up meg you don't matter
+
+[234] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : “And now this again. You bring home 2 bands of hippie murderers and suddenly it’s all you’re about.”
+
+[235] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 70.3%)
+    Safe prob  : 29.6%
+    Harm prob  : 70.3%
+    Text       : 😅😅😅😅😅😅
+
+[236] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : SHUT UP MEG YOU DON'T MATTER 💀🙏
+
+
+Wthell
+
+[237] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you don't matter😂😂😂😂😂 2:49  (Original - Indonesian)
+    Original   : Shut up meg you don't matter😂😂😂😂😂 2:49
+
+[238] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : You mean my oily face and bath 2:31
+
+[239] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.6%)
+    Safe prob  : 8.4%
+    Harm prob  : 91.6%
+    Text       : Me to
+
+[240] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 74.6%)
+    Safe prob  : 25.4%
+    Harm prob  : 74.6%
+    Text       : Me: SO THAT  (Original - German)
+    Original   : Me: DAMIT
+
+[241] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.0%)
+    Safe prob  : 12.0%
+    Harm prob  : 88.0%
+    Text       : OK.
+
+[242] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : no no nooo  (Original - Filipino)
+    Original   : no no nooo
+
+[243] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 82.9%)
+    Safe prob  : 17.1%
+    Harm prob  : 82.9%
+    Text       : But cheeks😂  (Original - Dutch)
+    Original   : But cheeks😂
+
+[244] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Ahahahahahahahahaha😂😂😂😂😂😂  (Original - Unknown (so))
+    Original   : Ahahahahahahahaha😂😂😂😂😂😂
+
+[245] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : Bart smellls cad  (Original - Catalan)
+    Original   : Bart smellls cad
+
+[246] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "Shut up Meg. You don't matter!"
+
+[247] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 77.1%)
+    Safe prob  : 22.9%
+    Harm prob  : 77.1%
+    Text       : 🎉🎉🎉
+
+[248] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.7%)
+    Safe prob  : 7.3%
+    Harm prob  : 92.7%
+    Text       : 🎉🎉🎉🎉🎉🎉 PETER griffin 😮😮😮😮😮😮😮😮😮😮😮😂😂 CHRIS has  Maybe  has a Girlfriend
+
+[249] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : POV me being Meg’s dad shut up Meg you’re not mad😂😂😂😂😂😂😂😂😂 Liza is very kind to me meg
+
+[250] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : palestinians are baby murdrs
+
+[251] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : 🤒🤒🤒🤕😬😬🤕🤕☹️☹️☹️☹️🤔🤔☹️🤔😬🤔🤔🤔🤔😬🤕😬🤔🤔😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬😬
+
+[252] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.2%)
+    Safe prob  : 9.8%
+    Harm prob  : 90.2%
+    Text       : ❤😂🎉😢😮😅
+
+[253] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : Eat My Shorts
+
+[254] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.3%)
+    Safe prob  : 10.7%
+    Harm prob  : 89.3%
+    Text       : Funny how Bart's humor is asking if there's some lee kum um something but Stewie's humor is saying to someone their sister got r*ped. Really shows how much more dirty family guy is than the Simpsons
+
+[255] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : cool  (Original - Italian)
+    Original   : cool
+
+[256] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.4%)
+    Safe prob  : 13.6%
+    Harm prob  : 86.4%
+    Text       : 4:26 new cleveland's bath gag
+
+[257] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Haha silly  (Original - Unknown (so))
+    Original   : Haha gago
+
+[258] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : "Eat my shorts i love that" got me rollin on the floor😂😂
+
+[259] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : What leke bomb mean😂😂😂😂😂😂😂
+
+[260] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : 2:51 shut up Meg you don’t matter
+
+[261] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : 😂😂😂 😂😂😂😂😂😂😂😂
+
+[262] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+[263] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : Bro what he is copying what he is saying 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣0:46
+
+[264] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Meg: I MATTER
+peter :shut up meg you dont matter  (Original - Norwegian)
+    Original   : Meg: I MATTER
+peter :shut up meg you dont matter
+
+[265] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : SHUT UP MEG U DONT MATTER  (Original - German)
+    Original   : SHUT UP MEG U DONT MATTER
+
+[266] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : F***  (Original - Danish)
+    Original   : F***
+
+[267] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂 1:50
+
+[268] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : 37 seconds Marge how did you access to his buttcheeks. Lowkey sus outta context
+
+[269] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.8%)
+    Safe prob  : 10.2%
+    Harm prob  : 89.8%
+    Text       : 0:45 eat my shorts, i love that!
+
+[270] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : 😂😂😂😂😂😂😂 Stewie  (Original - German)
+    Original   : 😂😂😂😂😂😂😂 Stewie
+
+[271] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 76.6%)
+    Safe prob  : 23.4%
+    Harm prob  : 76.6%
+    Text       : 🎉🎉🎉🎉🎉🎉
+
+[272] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : I'm the real homer moe my friend
+
+[273] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : I'm the real homer moe my friend
+
+[274] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.8%)
+    Safe prob  : 12.2%
+    Harm prob  : 87.8%
+    Text       : "Your sister is getting raped"😂
+
+[275] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : 1:27 1:31 1:33 winky bum  (Original - Polish)
+    Original   : 1:27 1:31 1:33 winky bum
+
+[276] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Peter!  (Original - Swedish)
+    Original   : Shut up Peter!
+
+[277] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[278] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.7%
+    Text       : Son
+
+[279] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.2%)
+    Safe prob  : 5.9%
+    Harm prob  : 94.2%
+    Text       : Damn, Peter is so inconsiderate of Meg’s feelings
+
+[280] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.1%)
+    Safe prob  : 10.9%
+    Harm prob  : 89.1%
+    Text       : 😪🐳😊😚🤪uufjfjfjjdkdjd  (Original - Albanian)
+    Original   : 😪🐳😊😚🤪uufjfjfjjdkdjd
+
+[281] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : lisa was nicer to meg when her entire family combined
+
+[282] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : this episode is so cool
+
+[283] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.6%)
+    Safe prob  : 9.4%
+    Harm prob  : 90.6%
+    Text       : If there was a South Park/Family Guy crossover you can guarantee Randy would beat the shit out of Peter and Cartman would just shit all over Stewie
+
+[284] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂,😂😂😂
+
+[285] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I can't stop laughing to Meg because she just scream "I matter" and my mom just said to me that shut up you fu***** b****! 😂😂😂😂😂
+
+[286] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you dont matter  (Original - French)
+    Original   : Shut up meg you dont matter
+
+[287] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : SHUT UP MEG YOU DONT MATTER(got me cracking up)😂
+
+[288] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : "You're sister is being raped"	BRO WHAT THE HELL💀😭😭😭
+
+[289] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.5%)
+    Safe prob  : 4.5%
+    Harm prob  : 95.5%
+    Text       : Eat.   My.    Shorts
+
+[290] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : 2:51
+Peter: Shut up meg you don't matter
+Meg: :(  (Original - Indonesian)
+    Original   : 2:51
+Peter: Shut up meg you don't matter
+Meg: :(
+
+[291] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : ❤😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂  (Original - Dutch)
+    Original   : ❤😂😂😂😂😂😂😂😂😂😂eeeeeeeeeeeew
+
+[292] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : Meme  (Original - Dutch)
+    Original   : Meme
+
+[293] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you don't matter 😂  (Original - Indonesian)
+    Original   : Shut up meg you don't matter 😂
+
+[294] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : what is the episode pls
+
+[295] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.2%)
+    Safe prob  : 12.8%
+    Harm prob  : 87.2%
+    Text       : 0:43 eat my shorts
+
+[296] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : Peter and Homer are both dumb hahaha
+
+[297] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.2%)
+    Safe prob  : 12.8%
+    Harm prob  : 87.2%
+    Text       : Eat my shorts stewie
+
+[298] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.1%)
+    Safe prob  : 12.9%
+    Harm prob  : 87.1%
+    Text       : Eat my shorts 🩳
+
+[299] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : Peter is a such a troll in a Meg lmao
+
+[300] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.4%)
+    Safe prob  : 12.6%
+    Harm prob  : 87.4%
+    Text       : Eat my shorts 😡 got me dying😅
+
+[301] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[302] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : "Moes tavern"
+"hello moe uh.. 😡your sisters being r***ed! 😃was that one?"
+
+[303] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you don't matter to me laughing
+
+[304] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.2%)
+    Safe prob  : 12.8%
+    Harm prob  : 87.2%
+    Text       : 0:43 eat my shorts
+
+[305] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : 😂😂😂
+
+[306] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Simpons  (Original - Filipino)
+    Original   : Simpons
+
+[307] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : Wtf doing other as well associate by, #ear.sr.youtuer.com.stewie
+Same with rainbow  cv caffee has kiss You by, #28.saerd.sis.lsp
+Not teacher and seek out 7 my by default #own.illp.u very much 
+Free family guy season 3 so don,t and operated just happened 
+My Experience with the, only just happened on
+
+[308] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.4%)
+    Safe prob  : 13.6%
+    Harm prob  : 86.4%
+    Text       : 0:43 eat my shirts
+
+[309] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : I matter shut up meg  (Original - Swedish)
+    Original   : I matter shut up meg
+
+[310] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[311] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.5%)
+    Safe prob  : 2.5%
+    Harm prob  : 97.5%
+    Text       : EAT MY SHORTS BART😂😂😂  (Original - German)
+    Original   : EAT MY SHORTS BART😂😂😂
+
+[312] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Wiggum  (Original - Swahili)
+    Original   : Wiggum
+
+[313] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : Marge Simpson: Honey your hands are filthy go wash up for lunch we’ve got guests
+Bart Simpson: Eat My Shorts
+
+[314] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : which eps is this
+
+[315] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : 2:49 peter: SHUT UP MEG YOU DON'T MATTER
+
+[316] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 75.8%)
+    Safe prob  : 24.2%
+    Harm prob  : 75.8%
+    Text       : Bro what
+
+[317] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.5%)
+    Safe prob  : 2.5%
+    Harm prob  : 97.5%
+    Text       : #shutupmeg  (Original - Albanian)
+    Original   : #shutupmeg
+
+[318] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Assd😅😅
+
+[319] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : 🤣🤣🤣🤣🤣🤣🤣🤣🤣
+
+[320] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.1%
+    Harm prob  : 99.0%
+    Text       : Hahahahahhahahahahahahhahahahahahhahahahhahahahahahhahahahahha😂  (Original - Unknown (so))
+    Original   : Hahahahahhahahahahahahhahahahahahhahahahhahahahahahhahahahahha😂
+
+[321] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.1%)
+    Safe prob  : 3.9%
+    Harm prob  : 96.1%
+    Text       : 😊😂😂
+
+[322] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : 😂😂😂😂😂😂😂😂 1:28
+
+[323] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : How dare marge did that to peters dog dog who walk and talk are humans too shame on her
+
+[324] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : Oh my god  (Original - Welsh)
+    Original   : Oh my god
+
+[325] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up  Cacao
+
+[326] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : I MATTER shut up meg I don't matter  (Original - Indonesian)
+    Original   : I MATTER shut up meg I don't matter
+
+[327] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Stewie: he moe your sister is being r*ped 
+Bart:•_• speechless  (Original - German)
+    Original   : Stewie: he moe your sister is being r*ped 
+Bart:•_• speechless
+
+[328] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : Eat your shorts now or else I’ll telling on the owner youtube
+
+[329] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[330] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg  (Original - Indonesian)
+    Original   : Shut up meg
+
+[331] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : Bro the plane they shooted are the nazi!! Crazy
+
+[332] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : The red plane is NAZI aka HITLER AIR FORCE OR WHATEVER
+
+[333] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.5%)
+    Safe prob  : 7.5%
+    Harm prob  : 92.5%
+    Text       : This should have been done way sooner when both shows were in their prime & not woke. And the fight at the end was stupid. This was a dream episode that was totally screwed up.
+
+[334] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.1%)
+    Safe prob  : 2.9%
+    Harm prob  : 97.1%
+    Text       : TIger  (Original - Danish)
+    Original   : TIger
+
+[335] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : 😂😂😂😂
+
+[336] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.7%)
+    Safe prob  : 11.3%
+    Harm prob  : 88.7%
+    Text       : No 👎😔😂  (Original - Portuguese)
+    Original   : No 👎😔😂
+
+[337] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.0%)
+    Safe prob  : 4.0%
+    Harm prob  : 96.0%
+    Text       : Leekee bum 🤣🤣🤣🤣😂😂😂😂  (Original - Afrikaans)
+    Original   : Leekee bum 🤣🤣🤣🤣😂😂😂😂
+
+[338] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.3%)
+    Safe prob  : 11.7%
+    Harm prob  : 88.3%
+    Text       : noise.  (Original - French)
+    Original   : noice.
+
+[339] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 84.5%)
+    Safe prob  : 15.5%
+    Harm prob  : 84.5%
+    Text       : Bro this is just crazy 
+@
+
+[340] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "shut up meg u dont matter"💀  (Original - Albanian)
+    Original   : "shut up meg u dont matter"💀
+
+[341] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : s***f*** s***what the f***f*** s*** s*** s***
+
+[342] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : What the f***
+
+[343] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : 3:01 THANK YOU MARGE- I HATE BRIAN SO F-ING MUCH
+
+[344] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.6%)
+    Safe prob  : 3.4%
+    Harm prob  : 96.6%
+    Text       : 😈😈😈
+
+[345] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.7%
+    Text       : it's Ugly
+
+[346] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : which episode
+
+[347] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : 😂😂😂😂😂😂😂😂
+
+[348] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.2%)
+    Safe prob  : 8.8%
+    Harm prob  : 91.2%
+    Text       : You know this entire crossover all happened because Peter stupidly made a sexist comic strip on a newspaper and then he and his family were chased by the town until they stumble upon Springfield, where they get their car stolen by Harry Moleman.
+
+Then they realize they're broke and stuck in Springfi
+
+[349] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : I matter.Shut up Meg you don't matter. 🥶☠️🖕🏾  (Original - Swedish)
+    Original   : I matter.Shut up Meg you don't matter. 🥶☠️🖕🏾
+
+[350] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.1%)
+    Safe prob  : 12.9%
+    Harm prob  : 87.1%
+    Text       : Eat my shorts 😅
+
+[351] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 76.2%)
+    Safe prob  : 23.8%
+    Harm prob  : 76.2%
+    Text       : Anyone Else Awake @Dawg My Dawg  (Original - Filipino)
+    Original   : Anyone Else Awake @Dawg My Dawg
+
+[352] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.0%)
+    Safe prob  : 7.0%
+    Harm prob  : 93.0%
+    Text       : Minn 😂😂😂  (Original - German)
+    Original   : Minn 😂😂😂
+
+[353] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.7%)
+    Safe prob  : 9.3%
+    Harm prob  : 90.7%
+    Text       : Eat my shorts🤣
+
+[354] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : ❤🎉😊❤❤❤❤❤🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉😊😊😊😊😊😊😊😊😊😊😊😊😊😊
+
+[355] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.8%)
+    Safe prob  : 5.2%
+    Harm prob  : 94.8%
+    Text       : ❤😂🎉😢😮😮😅😊
+
+[356] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : I MATTER shut up Meg you don't matter
+
+[357] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : what episode is this
+
+[358] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : 2:49 “I MATTER😡” “shut up Meg you don’t matter😒”
+
+[359] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : 💀💀💀💀💀💀💀👾👾💀💀💀💀💀💀
+
+[360] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Mair may well give you a call brac.K , are you a little guy just freaking freaking , just bark a flight😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+
+[361] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : 2:50 that SHUT MEG YOU DONT MATTER got me rolling on the floor☠️☠️😭😭
+
+[362] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : 2:49 I MATTER 😢 shut up Meg you don’t matter 😊
+
+[363] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : No no no nooooo😂😂😂😂😂😂😊😊😊  (Original - Filipino)
+    Original   : No no no nooooo😂😂😂😂😂😂😊😊😊
+
+[364] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg You don't  Matter
+
+[365] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.7%)
+    Safe prob  : 8.3%
+    Harm prob  : 91.7%
+    Text       : They Boutta Be Gangsta Until They See A Group Of 4 Winter Kids With A Fat One, A Russian, A Shy One & A Neutral Outside The Window💀
+
+[366] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : D FUCK IS BART  (Original - German)
+    Original   : D FUCK IS BART
+
+[367] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : “I mater” “SHUT UP MEG YOU DONT MATTER”😂🤣☠️💀
+
+[368] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.1%)
+    Safe prob  : 2.9%
+    Harm prob  : 97.1%
+    Text       : I matter😡 shut up meg you don't matter  (Original - Swedish)
+    Original   : I matter😡 shut up meg you don't matter
+
+[369] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Does anyone saw the "*ssimilator"?
+
+[370] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 77.3%)
+    Safe prob  : 22.7%
+    Harm prob  : 77.3%
+    Text       : ITS JUST A SLINGSHOT!?  10:3
+
+[371] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[372] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[373] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.4%)
+    Safe prob  : 12.6%
+    Harm prob  : 87.4%
+    Text       : Eat my shorts at 0:42
+
+[374] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : "I MATTER!" "Shut up Meg you dont Matter got me
+
+[375] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : Were they fighting the red baron
+
+[376] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : Me😂😂😂  (Original - German)
+    Original   : Me😂😂😂
+
+[377] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I mater shut up Meg you’re no mater
+
+[378] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : Are you trying to be the first comment.
+
+[379] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[380] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : 2:53 Shut up Meg you don’t matter 🤣🤣🤣😂😭
+
+[381] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.8%)
+    Safe prob  : 12.2%
+    Harm prob  : 87.8%
+    Text       : Wskxndxmsksdkdjwszmddswmszkddmz😂😅🎉❤🥰🥺😱😬  (Original - Polish)
+    Original   : Wskxndxmsksdkdjwszmddswmszkddmz😂😅🎉❤🥰🥺😱😬
+
+[382] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.2%)
+    Safe prob  : 13.8%
+    Harm prob  : 86.2%
+    Text       : Eat my shorts 0:43
+
+[383] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : You suck  (Original - French)
+    Original   : You suck
+
+[384] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : the shut up meg you dont matter
+
+[385] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : meee  (Original - Dutch)
+    Original   : meee
+
+[386] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : 0:31 butt cheeks💀💀💀💀  (Original - Dutch)
+    Original   : 0:31 butt cheeks💀💀💀💀
+
+[387] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I matter Shut up meg  (Original - Swedish)
+    Original   : I matter Shut up meg
+
+[388] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.9%)
+    Safe prob  : 3.1%
+    Harm prob  : 96.9%
+    Text       : Eat my shorts!
+
+[389] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : ❤❤😂😂😂😂😂❤❤😂😂😂😂😂❤❤❤😂😂😂❤❤❤😂😂😂😂❤❤❤❤❤😂😂😂😂😂😂❤❤❤❤😂😂😂😂❤❤❤❤❤❤❤😂😂😂😂😂😂😂😂😂😂❤❤❤😂😂😂😂❤❤❤❤❤❤❤❤❤😂😂😂😂😂😂😂😂😂😂😂❤❤😂😂😂
+
+[390] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg you don’t matter  (Original - Indonesian)
+    Original   : Shut up Meg you don’t matter
+
+[391] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.7%)
+    Safe prob  : 8.3%
+    Harm prob  : 91.7%
+    Text       : 2:50 I MATTER shut up meg you don't matter
+
+[392] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : 2:49 "I MATTER😡" shut up Meg you don't matter 😒
+
+[393] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up you Meg you F###  (Original - Indonesian)
+    Original   : Shut up you Meg you F###
+
+[394] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 73.0%)
+    Safe prob  : 27.0%
+    Harm prob  : 73.0%
+    Text       : Lmao 🤣😂  (Original - Swahili)
+    Original   : Lmao 🤣😂
+
+[395] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg you don’t matter  (Original - Indonesian)
+    Original   : Shut up Meg you don’t matter
+
+[396] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : why the heck is sitwwie talking he is just a baby
+
+[397] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : Eat my shots❤❤
+
+[398] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[399] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : 😛😛😛😛😛😛😛😛😛😛🤑🤑🤑🤑🤑🤑🤑🤑🤑😝😝😝😝😝😝😝🤪🤪🤪🤪🤪🤪😜😜😜😜😜
+
+[400] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : LEE GRIFFIN YOU A CLOSET TOO
+
+[401] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : 2:02 Hello moe your sister's being raped  (Original - Norwegian)
+    Original   : 2:02 Hello moe your sister's being raped
+
+[402] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.8%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.8%
+    Text       : 😂😂😂 you dont matter  (Original - French)
+    Original   : 😂😂😂 you dont matter
+
+[403] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : So what the fuck
+
+[404] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.3%)
+    Safe prob  : 4.7%
+    Harm prob  : 95.3%
+    Text       : leaky bum had me died  (Original - Afrikaans)
+    Original   : leaky bum had me died
+
+[405] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : “I MATTER!” “Shut up Meg! You don’t matter” got me💀💀
+
+[406] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Meg: "i Matter."
+Peter: "Shut up Meg you dont matter".
+ Lol  (Original - Norwegian)
+    Original   : Meg: "i Matter."
+Peter: "Shut up Meg you dont matter".
+ Lol
+
+[407] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : Meg: I matter! 
+
+Peter: shut up Meg you don’t matter  (Original - Indonesian)
+    Original   : Meg: I matter! 
+
+Peter: shut up Meg you don’t matter
+
+[408] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Me you f#$%  (Original - Welsh)
+    Original   : Me you f#$%
+
+[409] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.6%)
+    Safe prob  : 5.4%
+    Harm prob  : 94.6%
+    Text       : EAT MY SHORT  (Original - German)
+    Original   : EAT MY SHORT
+
+[410] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : what episode is this
+
+[411] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Both marge and lois voic sucks
+
+[412] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.2%)
+    Safe prob  : 2.8%
+    Harm prob  : 97.2%
+    Text       : 🫷🫸🫲🫱🫴🫳🛌🧘🤾⛹️🤸🧍🚴🤾🧑‍🎄🥷🦹🦸🧟🧛🧙🧝🧑‍🎓🧑‍🏫🧑‍🌾🧑‍🚒🧑‍🏭🧑‍🔧🧑‍⚕️🧑‍🔬👼🧑‍🎓🧑‍🏫🧑‍🚒🧑‍🌾🧑‍🌾🧑‍🏭🧑‍🔧🧑‍🔧👼👼👲🧕🧕🧕👳🧑‍🍳🧑‍🍳🧑‍🎨🧑‍🎨🧑‍🎤🧑‍🎤🧑‍💻🧑‍⚖️🧑‍💼
+
+[413] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : Brian is a bring down
+
+[414] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : “I MATTER!”
+“SHUT UP MEG YOU DONT MATTER”
+“:(“
+
+[415] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up meg you dont matter😂😂😂😂😂  (Original - Indonesian)
+    Original   : Shut up meg you dont matter😂😂😂😂😂
+
+[416] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.5%)
+    Safe prob  : 4.5%
+    Harm prob  : 95.5%
+    Text       : 2:51 "Shut up Meg, you don't matter!"  What an outrageously ugly thing to say, if you ask me!!! If you had to choose between Homer and Peter as to which one is a better father, let's say that although I can't very gladly watch my own little son being strangled through my fingers, i.e. this kind of p
+
+[417] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.2%
+    Text       : "YOU DONT MEG YOU DONT MADDER"  (Original - Welsh)
+    Original   : "YOU DONT MEG YOU DONT MADDER"
+
+[418] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Meg: I MATTER
+"Shut up meg you dont matter"
+
+ i cant breathe 😭😭✋
+
+[419] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.6%)
+    Safe prob  : 3.4%
+    Harm prob  : 96.6%
+    Text       : lekeybum got me diying  (Original - Afrikaans)
+    Original   : lekeybum got me diying
+
+[420] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.9%)
+    Safe prob  : 5.1%
+    Harm prob  : 94.9%
+    Text       : SHUT MEG THE MEME IS BACK
+
+[421] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg u don't matter  (Original - Indonesian)
+    Original   : Shut up Meg u don't matter
+
+[422] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : KITCHEN CHAOS  (Original - Swahili)
+    Original   : KITCHEN CHAOS
+
+[423] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.1%)
+    Safe prob  : 1.9%
+    Harm prob  : 98.1%
+    Text       : FAKE!
+
+[424] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.6%)
+    Safe prob  : 10.4%
+    Harm prob  : 89.6%
+    Text       : 666 likes!  (Original - Estonian)
+    Original   : 666 likes!
+
+[425] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : *SHUT UP MEG YOU DON'T MATTER* 😂
+
+[426] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : " have your got drunk out of a toilet"
+
+[427] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.4%)
+    Safe prob  : 6.6%
+    Harm prob  : 93.4%
+    Text       : Eat my shorts
+
+[428] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Shut up Meg you don't matter  (Original - Indonesian)
+    Original   : Shut up Meg you don't matter
+
+[429] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : 😂😂😂
+

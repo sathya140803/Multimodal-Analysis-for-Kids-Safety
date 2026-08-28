@@ -1,0 +1,26 @@
+============================================================
+SPOKEN AUDIO CLASSIFICATION REPORT
+Generated : 2026-03-25 22:08:59
+Source    : How to Swear in French #Shorts
+============================================================
+
+VERDICT           : HARMFUL
+Language          : French
+Translated        : Yes
+Total chunks      : 1
+Harmful chunks    : 1 (100.0%)
+Avg harmful prob  : 99.9%
+
+FULL TRANSCRIPTION:
+----------------------------------------
+How to swear in French. Putain ! Oh putain ! Merde ! Merde, j'ai oublié les clés. Connard ! Connard, tu sais pas conduire ! Oh la la la la, t'es vraiment chiant !
+
+TRANSLATED TEXT:
+----------------------------------------
+How to swear in French. Damn! Oh damn! Shit ! Shit, I forgot the keys. Asshole! Asshole, you don't know how to drive! Oh la la la la, you're really boring!
+
+HARMFUL CHUNKS:
+----------------------------------------
+  Chunk 1 | Confidence: 99.9%
+  How to swear in French. Damn! Oh damn! Shit ! Shit, I forgot the keys. Asshole! Asshole, you don't know how to drive! Oh la la la la, you're really boring!
+

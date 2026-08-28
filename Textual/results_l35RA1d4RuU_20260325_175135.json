@@ -1,0 +1,492 @@
+{
+    "video_id": "l35RA1d4RuU",
+    "final_verdict": "UNSAFE",
+    "total_texts_analysed": 29,
+    "total_harmful": 13,
+    "comment_harm_pct": 61.54,
+    "translated_texts": 3,
+    "per_source": {
+        "title": {
+            "analysed": 1,
+            "harmful": 1
+        },
+        "description": {
+            "analysed": 1,
+            "harmful": 1
+        },
+        "transcript": {
+            "analysed": 14,
+            "harmful": 3
+        },
+        "comments": {
+            "analysed": 13,
+            "harmful": 8
+        }
+    },
+    "harmful_texts": [
+        {
+            "source": "title",
+            "original_text": "6th$ithLord - FUCK A TITLE ft.ERIK DOM",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        },
+        {
+            "source": "description",
+            "original_text": "S/O My boi ERIK DOM and Ghetto Hippies\nFollow:\n@6thsithlord\n@erikdomm\n\nSouth Side Myth Instrumental\n\n$ITHGANG",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9231,
+            "safe_prob": 0.0769,
+            "harmful_prob": 0.9231
+        },
+        {
+            "source": "transcript",
+            "original_text": "word up dick don't ever try to [ __ ] step to this I'll leave you vomiting and cut up from the face like the Exorcist you'll notice this but you also better remember this kid whose fuse is not much longer than a [ __ ] terrorist so do yourself a favor and",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9987,
+            "safe_prob": 0.0013,
+            "harmful_prob": 0.9987
+        },
+        {
+            "source": "transcript",
+            "original_text": "is right I strike with my knife and I'm I kill you just right [ __ ] right [ __ ] I'll catch you in the [ __ ] night [ __ ] kill you when I use your blood so I can [ __ ] write this I sight this 20 times no you don't want to fight this murder anyone who trying to step",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9908,
+            "safe_prob": 0.0092,
+            "harmful_prob": 0.9908
+        },
+        {
+            "source": "transcript",
+            "original_text": "I hit harder Eric the [ __ ] martyr kill you when I leave your body rotten have you forgotten about the trip of six kids still slaying last thing that you say before your death is my name man Sith gang ghetto hippies on the [ __ ] rise I tell no lies so get",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.963,
+            "safe_prob": 0.037,
+            "harmful_prob": 0.963
+        },
+        {
+            "source": "comments",
+            "original_text": "$ith Gang 🔥🔥",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.753,
+            "safe_prob": 0.247,
+            "harmful_prob": 0.753
+        },
+        {
+            "source": "comments",
+            "original_text": "But dom,  get outta here",
+            "was_translated": true,
+            "original_language": "Norwegian",
+            "translated_text": "But dom,  get outta here",
+            "verdict": "HARMFUL",
+            "confidence": 0.7951,
+            "safe_prob": 0.2049,
+            "harmful_prob": 0.7951
+        },
+        {
+            "source": "comments",
+            "original_text": "Yo you did that shit with the old school that's sick keep it up",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9912,
+            "safe_prob": 0.0088,
+            "harmful_prob": 0.9912
+        },
+        {
+            "source": "comments",
+            "original_text": "Yo im so fucking glad I found this its so fucking fire",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9734,
+            "safe_prob": 0.0266,
+            "harmful_prob": 0.9734
+        },
+        {
+            "source": "comments",
+            "original_text": "THIS IS SO UNDER RATED WTF",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.8997,
+            "safe_prob": 0.1003,
+            "harmful_prob": 0.8997
+        },
+        {
+            "source": "comments",
+            "original_text": "Beat is ill.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9013,
+            "safe_prob": 0.0987,
+            "harmful_prob": 0.9013
+        },
+        {
+            "source": "comments",
+            "original_text": "DAYYYEM DAT IS SICK",
+            "was_translated": true,
+            "original_language": "German",
+            "translated_text": "DAYYYEM THAT'S SICK",
+            "verdict": "HARMFUL",
+            "confidence": 0.9913,
+            "safe_prob": 0.0087,
+            "harmful_prob": 0.9913
+        },
+        {
+            "source": "comments",
+            "original_text": "Fuck I feel like he would go so good with the doomshop crew fr.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9917,
+            "safe_prob": 0.0083,
+            "harmful_prob": 0.9917
+        }
+    ],
+    "all_results": [
+        {
+            "source": "title",
+            "original_text": "6th$ithLord - FUCK A TITLE ft.ERIK DOM",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        },
+        {
+            "source": "description",
+            "original_text": "S/O My boi ERIK DOM and Ghetto Hippies\nFollow:\n@6thsithlord\n@erikdomm\n\nSouth Side Myth Instrumental\n\n$ITHGANG",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9231,
+            "safe_prob": 0.0769,
+            "harmful_prob": 0.9231
+        },
+        {
+            "source": "transcript",
+            "original_text": "[Music] hey yo my energy be flowing always it's going in my S and I'm just blowing up PO my roing like a vat [ __ ] knowing that I'm never pH always stay you know till about three in the morning making beats and riding lyrics smoking on a couple PS I know",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9285,
+            "safe_prob": 0.9285,
+            "harmful_prob": 0.0715
+        },
+        {
+            "source": "transcript",
+            "original_text": "you feeling like the L I took a couple minutes ago and now I'm tripping let's go and po up some Mo sipping blowing smoke riding in the Cadillac those SL [ __ ] in the back talking about this and that I don't want to hear it I'm high so this ride coming from",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.921,
+            "safe_prob": 0.921,
+            "harmful_prob": 0.079
+        },
+        {
+            "source": "transcript",
+            "original_text": "this outside [ __ ] by you know that we fly whenever we drive by Bas stumping loud got your head bumping W cuz you know we rock the crow star seeds in the flesh what the [ __ ] you going to do now yeah I said star seeds in the flesh the [ __ ] you going to do now",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9391,
+            "safe_prob": 0.9391,
+            "harmful_prob": 0.0609
+        },
+        {
+            "source": "transcript",
+            "original_text": "word up dick don't ever try to [ __ ] step to this I'll leave you vomiting and cut up from the face like the Exorcist you'll notice this but you also better remember this kid whose fuse is not much longer than a [ __ ] terrorist so do yourself a favor and",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9987,
+            "safe_prob": 0.0013,
+            "harmful_prob": 0.9987
+        },
+        {
+            "source": "transcript",
+            "original_text": "don't try to chest you'll be put to rest like Superman times 100 against a tiny pest I'm always catching shitty action feel the lack of passion and I'm never slacking and catch a phony [ __ ] that's lacking to put some effort into Rhymes if you ain't",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.8116,
+            "safe_prob": 0.8116,
+            "harmful_prob": 0.1884
+        },
+        {
+            "source": "transcript",
+            "original_text": "making [ __ ] interesting then why the [ __ ] you wasting my time I make [ __ ] paranoid more paranoid than a pair of toys spraying that first while scared cuz they can make too much noise so don't ever try to step again I'll ruin your rep again and I do",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9106,
+            "safe_prob": 0.0894,
+            "harmful_prob": 0.9106
+        },
+        {
+            "source": "transcript",
+            "original_text": "it again to the rest of your next K I promise you will regret this all my [ __ ] defend this and take notice as I make all of your breathless breathless I do this [ __ ] endless once you hear my Rhymes close your book and I leave you fools penless repent",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.8821,
+            "safe_prob": 0.8821,
+            "harmful_prob": 0.1179
+        },
+        {
+            "source": "transcript",
+            "original_text": "this cuz you can't [ __ ] rep kid leave you on the floor cut your heart out on your [ __ ] appendix [Music] crystalline body traed in The Matrix yeah my soul's been here for ages feeling ancient searching for these levels Pine gland the circle pentagram",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9294,
+            "safe_prob": 0.9294,
+            "harmful_prob": 0.0706
+        },
+        {
+            "source": "transcript",
+            "original_text": "underneath me [ __ ] I'm just trying to summon the demons that are inside my head [ __ ] don't even know that I can see all the dead roll up another blunt just so I can kill the pain going insane from these images inside my brain government be playing",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.8769,
+            "safe_prob": 0.8769,
+            "harmful_prob": 0.1231
+        },
+        {
+            "source": "transcript",
+            "original_text": "tricks on the population FTP yall [ __ ] blind to the truth B into the fruit and all the sins they got loose come and worship me [ __ ] yah way in the flesh some people call me set but it don't really matter either way I represent the dark the light the polarity",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9138,
+            "safe_prob": 0.9138,
+            "harmful_prob": 0.0862
+        },
+        {
+            "source": "transcript",
+            "original_text": "is right I strike with my knife and I'm I kill you just right [ __ ] right [ __ ] I'll catch you in the [ __ ] night [ __ ] kill you when I use your blood so I can [ __ ] write this I sight this 20 times no you don't want to fight this murder anyone who trying to step",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9908,
+            "safe_prob": 0.0092,
+            "harmful_prob": 0.9908
+        },
+        {
+            "source": "transcript",
+            "original_text": "and trying to bite this yo step on the surface I get slaughtered cut my initials on your forehead and make you look like Harry Potter don't bother all these [ __ ] rappers on my daughters thinking that you hot but my Flames from hell are way harder",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9255,
+            "safe_prob": 0.0745,
+            "harmful_prob": 0.9255
+        },
+        {
+            "source": "transcript",
+            "original_text": "I hit harder Eric the [ __ ] martyr kill you when I leave your body rotten have you forgotten about the trip of six kids still slaying last thing that you say before your death is my name man Sith gang ghetto hippies on the [ __ ] rise I tell no lies so get",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.963,
+            "safe_prob": 0.037,
+            "harmful_prob": 0.963
+        },
+        {
+            "source": "transcript",
+            "original_text": "ready for your demise I got a [ __ ] mean look when I hit the scene duck Eric dime coming from the [ __ ] fiend [ __ ] [Music] h [Music]",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9109,
+            "safe_prob": 0.9109,
+            "harmful_prob": 0.0891
+        },
+        {
+            "source": "comments",
+            "original_text": "$ith Gang 🔥🔥",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.753,
+            "safe_prob": 0.247,
+            "harmful_prob": 0.753
+        },
+        {
+            "source": "comments",
+            "original_text": "NNML",
+            "was_translated": true,
+            "original_language": "Vietnamese",
+            "translated_text": "NNML",
+            "verdict": "SAFE",
+            "confidence": 0.8604,
+            "safe_prob": 0.8604,
+            "harmful_prob": 0.1396
+        },
+        {
+            "source": "comments",
+            "original_text": "Anyone know the beat??! \n\n\n\n\n\n\n\n\nAnd yes I’m back again a year later lmao",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9638,
+            "safe_prob": 0.9638,
+            "harmful_prob": 0.0362
+        },
+        {
+            "source": "comments",
+            "original_text": "But dom,  get outta here",
+            "was_translated": true,
+            "original_language": "Norwegian",
+            "translated_text": "But dom,  get outta here",
+            "verdict": "HARMFUL",
+            "confidence": 0.7951,
+            "safe_prob": 0.2049,
+            "harmful_prob": 0.7951
+        },
+        {
+            "source": "comments",
+            "original_text": "Good, use your hate",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9246,
+            "safe_prob": 0.9246,
+            "harmful_prob": 0.0754
+        },
+        {
+            "source": "comments",
+            "original_text": "Yo you did that shit with the old school that's sick keep it up",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9912,
+            "safe_prob": 0.0088,
+            "harmful_prob": 0.9912
+        },
+        {
+            "source": "comments",
+            "original_text": "Yo im so fucking glad I found this its so fucking fire",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9734,
+            "safe_prob": 0.0266,
+            "harmful_prob": 0.9734
+        },
+        {
+            "source": "comments",
+            "original_text": "⚰️🦇",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.8523,
+            "safe_prob": 0.8523,
+            "harmful_prob": 0.1477
+        },
+        {
+            "source": "comments",
+            "original_text": "THIS IS SO UNDER RATED WTF",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.8997,
+            "safe_prob": 0.1003,
+            "harmful_prob": 0.8997
+        },
+        {
+            "source": "comments",
+            "original_text": "The flo🤕",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.8314,
+            "safe_prob": 0.8314,
+            "harmful_prob": 0.1686
+        },
+        {
+            "source": "comments",
+            "original_text": "Beat is ill.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9013,
+            "safe_prob": 0.0987,
+            "harmful_prob": 0.9013
+        },
+        {
+            "source": "comments",
+            "original_text": "DAYYYEM DAT IS SICK",
+            "was_translated": true,
+            "original_language": "German",
+            "translated_text": "DAYYYEM THAT'S SICK",
+            "verdict": "HARMFUL",
+            "confidence": 0.9913,
+            "safe_prob": 0.0087,
+            "harmful_prob": 0.9913
+        },
+        {
+            "source": "comments",
+            "original_text": "Fuck I feel like he would go so good with the doomshop crew fr.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9917,
+            "safe_prob": 0.0083,
+            "harmful_prob": 0.9917
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-07 10:44:49
+Video ID  : 8qtHp1-bgDQ
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 632
+Total harmful found  : 74
+Texts translated     : 1
+Comment harm rate    : 0.0%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 18 analysed
+  Transcript     : 74 harmful / 613 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : >> HELLO, MR. BULL. >> HELLO, DADDY PIG. Everything is ready. The new rooms have been built, and we can put them all together exactly like your plans. H about that. I've made a few minor tweaks. >> Tweaks. [laughter] >> RIGHT. YOU ARE. I'LL TAKE
+
+[2] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.8%)
+    Safe prob  : 3.2%
+    Harm prob  : 96.8%
+    Text       : >> Oh gosh, yes. >> Careful now. Okay, who's ready to get crafting? >> Oh, me. Me. >> Tada. [laughter] Now we can go watch the machines. >> YEAH. >> OH, Daddy Pig. >> Um, you might want to come and see this. >> Yes, we're ready to help. Oh, yes. >> Robot
+
+[3] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : it like out there, Daddy Pig? Is there any mud? >> Um, a little bit of mud. Yes. >> Oh my goodness. Wow. So much mud. >> Yes. Well, it does say it can get a tiny bit muddy here sometimes. >> A tiny bit muddy. I've never seen so much mud in all my life. >> It's
+
+[4] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : My most favorite thing in the whole world is jumping up and down in muddy puddles. >> And if we're going to jump in puddles, >> we must wear our boots. >> That's right. Are you ready? >> Yes. >> Then jump. My turn. >> Daddy Pig has covered everyone [laughter]
+
+[5] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 91.4%)
+    Safe prob  : 8.6%
+    Harm prob  : 91.4%
+    Text       : You've grown one strawberry. >> It will be the best tasting strawberry ever. >> Why is it hiding in a little house, Grandpa? >> It is hiding because the cheeky little birds have eaten all the rest. You cheeky bird. So now there are no strawberries
+
+[6] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : more won't hurt. >> Naughty Granny. Naughty grandpa. >> Right you are, Peppa. This really is the very last one. I can't stop eating them. >> Hello birdies. Have you come to eat the strawberries? >> The little birds do not want to eat the strawberries.
+
+[7] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 91.2%)
+    Safe prob  : 8.8%
+    Harm prob  : 91.2%
+    Text       : here. >> No, Peppa, come back. >> Why? >> We have to be shown to our table by the waiter. [clears throat] >> Have you booked a table? >> We're with Grandpa Pig. >> Please follow me. >> Hello. >> Hello. >> Hello. >> Are you here for the party? >> Shush,
+
+[8] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.9%)
+    Safe prob  : 4.1%
+    Harm prob  : 95.9%
+    Text       : pig's birthday. I'll see what I can do. >> Peppa, they don't have party hats in posh restaurants like this. >> Hey, voila, party. [laughter] Party hats. >> Uh, thank you. >> Are you ready to order food? >> Yes, please. >> On the menu today, we have
+
+[9] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 88.6%)
+    Safe prob  : 11.4%
+    Harm prob  : 88.6%
+    Text       : >> Wash, wash, wash your hands. Wash them nice and clean. Bubbly, swly, bubbly. Wash them nice and clean. [laughter] >> Here are the guinea pigs. >> A, look at their cute little faces and their fluffy little bodies. You can pick them up and stroke
+
+[10] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : Silly daddy. [laughter] >> It is actually not against the law to put pineapple on pizza. Um, Daddy, can we make funny faces on top of the pizzas? >> Of course we can. >> But before we start cooking, [music] we have to wash our hands. >> Wash, wash,
+
+[11] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 90.5%)
+    Safe prob  : 9.4%
+    Harm prob  : 90.5%
+    Text       : and I can do some playing. [laughter] >> Peppa and George like playing. Mommy and Daddy Pig like tidying up. [laughter] >> PAPA GEORGE, LUNCH IS READY. >> YAY. >> MOMMY, your pizza looks like you. >> Oh, thank you very much. >> And your pizza looks
+
+[12] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : of the camera. Okay. Action. >> What do I do? >> Just say something. Anything. >> Okay. I'm Peppa Pig. >> This is my little brother, George. >> Wow. Peppa and George are on TV. >> This is Nummy Pig. And this is Daddy Pig. [laughter] Hello, Peppa. It's
+
+[13] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : >> Granny Pig. >> Hello, my little ones. Have you had a nice morning? >> Yes, thank you, Granny. Why are you wearing funny clothes? >> We have been doing historical reenactment. What's hysterical redactment? >> It's when you dress up like it's
+
+[14] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : Ooh. >> Goodbye. See you next week, Granny Pig. Bye. >> Granny, can we be Romans, too? >> Yes, Peppa. Here are some helmets. [laughter] >> Now, what do we do? >> We march around saying Vy Vi. >> What does that mean, Granny? >> It probably means anyone
+
+[15] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 92.7%)
+    Safe prob  : 7.3%
+    Harm prob  : 92.7%
+    Text       : George, the red ones can be the eyes. >> Finished. >> Well done, Peppa and George. My word, you've got rather muddy. Time [snorts] for a bath before Mommy and Daddy Pig come to pick you up. >> No. >> Oh dear. George does not want to have a bath. >> But
+
+[16] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : George, the Romans were very good at having baths. And you're a Roman, aren't you? >> Yes, George. Let's have a Roman bath. [laughter] >> Pepper and George are having a Roman bath. >> It's mommy and daddy. >> Here are mommy and daddy pig. Ah, tempest
+
+[17] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : you doing, Grandpa Kid? >> Spotted any rare birds? We saw a duck and some pigeons. >> Um, and I have high hopes of spotting a cuckoo. >> Peppa, George, Grandpa, lunch is ready. >> Oh, goody. >> Bye. >> A cuckoo, you say. >> How were you planning on spotting
+
+[18] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : a cuckoo? >> Oh, you know, uh, I was just going to call cuckoo. My goodness, it worked. Well done, old chap. >> Cuckoo. It's inside the house. >> Oh, that is not a real cuckoo. That is Peppa's toy cuckoo clock. >> Sorry to barge in like this, but Grandpa
+
+[19] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Pig has heard a cuckoo. >> You're in here somewhere. >> But Grandpa, >> quiet [laughter] everyone. We don't want to scare the cuckoo away. [screaming] Oh, it's a cuckoo clock. That means I can't tick it off in my book. >> But Grandpa, my cuckoo clock
+
+[20] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 94.2%)
+    Safe prob  : 5.8%
+    Harm prob  : 94.2%
+    Text       : anyone need to go to the toilet? >> No, Mommy Pig. >> Good. Then, let's go in. >> This is the cinema where the film will be shown. >> Hello, Rebecca. I've got Super Potato. I've got Mrs. Carrot. Help! [screaming] Save me, Super Potato! Super Potato!
+
+[21] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 73.2%)
+    Safe prob  : 26.9%
+    Harm prob  : 73.2%
+    Text       : I banged my leg and I got a sticker. >> Wow. >> Sit yourself down [music] and tell me where it hurts. here on my arm. >> Can you wiggle your fingers >> a little bit? >> Can you say banana? >> Banana. >> That was a joke. To make you feel relaxed. Do you feel
+
+[22] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : get one this morning. >> What? Oh, how sad. >> I'VE FINISHED CLEANING THE WINDOWS, Madame Gazelle. >> Thank you, Mr. Bull. >> Oh, dear. You look sad. >> Oh, I just heard that Teddy Pig did not get a Valentine card. >> No Valentine's card. >> No. Goodbye,
+
+[23] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : >> I'm making a Valentine's card for Super Potato and one for my mommy and daddy. [laughter] >> Mr. Bull has gone to the supermarket. >> Hello, Mr. Bull. You look sad. >> Well, I heard this morning that Daddy Pig didn't get a Valentine's card. >>
+
+[24] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.2%
+    Text       : No. Really? Did you hear that, Dr. Hamster? Daddy Pig didn't get a Valentine's card. >> Aw, poor Pickle. Did you hear? Daddy Pig did not get a Valentine's card. >> Oh dear. >> What was that? Nobody's ever given Daddy Pig a Valentine's card. >> Finish.
+
+[25] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : haven't got a card for you. Oh, I've got a whole sack full. >> There are hundreds of Valentine's cards. All for Daddy Pig. [laughter] >> HOORAY! >> Daddy Pig, who sent you all these Valentine's cards? >> Oh, it wasn't you. >> No, I sent you this one.
+
+[26] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : With love from Mummy Pig. Who sent all the rest? Um, >> HAPPY VALENTINE'S DAY, DADDY PIG. >> Everyone has sent Daddy Pig a Valentine's card. >> Oh. Oh, thank you. [laughter] >> Peppa, George and Mummy Pig love Daddy Pig. Everyone loves Daddy Pig.
+
+[27] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Pig. >> Hello. >> Hello, Mom. Historical reenactment day, is it? >> Yes. Today I am a Viking. >> Ooh, what's that? >> Vikings were people who lived a very long time ago. They had helmets and shields and ran around shouting. [screaming] >> Can we
+
+[28] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : got horns on? >> In actual fact, Peppa, Vikings had helmets without horns like this. See? No horns. [laughter] >> But you have got horns. >> Have I? Oh, yes. >> [laughter] >> Goodbye, Grandpa Pig. >> Goodbye. Have fun on your Viking boat. >> Are
+
+[29] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 91.5%)
+    Safe prob  : 8.5%
+    Harm prob  : 91.5%
+    Text       : instruments >> in the future. >> Peppa is at Suzy Sheep's house this evening. Mommy Sheep and Mummy Pig are going out. >> Don't worry, Mommy. We can look after the house while you're away. That's very kind of you, Susie. But we have a special babysitter
+
+[30] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : >> I brought Nigel for his checkup. >> Nigel is Grumpy Rabbit's pet n. >> Hello, Nigel. Make sure your birdie gets lots of rest and it'll be singing like a canary in no time. Oh, music to my ears. Bye. Next, please. >> That's us, Nigel. >> Hello, Nigel.
+
+[31] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Let's have a look at you. He's looking fine. >> Oh, good. >> He's getting lots of exercise. Oh, I wish I could be more like you, Nigel. I need to get fit and healthy, but I haven't got the time. >> Why don't you go jogging? It's what I do to keep fit. >>
+
+[32] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 76.6%)
+    Safe prob  : 23.4%
+    Harm prob  : 76.6%
+    Text       : to build? >> A present for Dr. Hamster [laughter] to help her get fit. We'll need these and this. I'm not forgetting this. and a little bit from this washing machine. >> How can you make a present from this pile of rubbish? >> It's not rubbish, Mommy
+
+[33] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 94.6%)
+    Safe prob  : 5.4%
+    Harm prob  : 94.6%
+    Text       : Let's start by smelling a mild cheese. >> M. That smells good. I like it, too. >> Not much of a smell. Now for some decently strong cheese. AH, THAT'S MORE LIKE IT. A proper stinky one. It smells like my daddy's socks. [laughter] >> And now, BOYS AND
+
+[34] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 90.3%)
+    Safe prob  : 9.7%
+    Harm prob  : 90.3%
+    Text       : up the bucket. Tada. Taa. Ta. >> Peppa, George, Mommy, and Daddy Pig have made four sand castles. >> No. >> Here is Pedro Bony. >> Hello, Peppa. >> Hello, Pedro. Do you like our sand castles? Yes, but it would be better if you had walls joining them
+
+[35] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : practice. La. [screaming] >> Oh, somebody is learning how to play the recorder. >> Yes, Daddy. Madame Gazelle said I have to practice. >> Oh, yes. Practice makes perfect. >> Will you help me? Of course, Daddy Pig will help you while I uh do some
+
+[36] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : TO SEE lots of jumping and climbing and running. Ready, steady, GO. [screaming] >> Slow down. >> Quicker, quick. >> Calm, harmony, [cheering] stillness. >> Jump, jump, jump. [screaming] RELAX. >> HELLO, MUMMY PIG. WHAT ARE YOU DOING HERE?
+
+[37] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 94.6%)
+    Safe prob  : 5.4%
+    Harm prob  : 94.6%
+    Text       : too? >> Okay, but I don't think you'll like this particular shopping trip, >> Daddy. What are you going to buy at the shops? >> I'm buying a bag of concrete. >> Daddy Pig likes concrete. >> Not the concrete shop again. >> I'll be as quick as I can. >>
+
+[38] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : This is the concrete shop. >> What does that sign mean, Daddy? It means you shouldn't park here. >> So, why are you parked here? >> It's all right because I won't be long. >> Hello, Daddy Pig. Have you come to do some shopping? >> Just buying a bag of
+
+[39] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.7%
+    Text       : garden could do with a bit of a tidy up. >> And uh what are you going to do today, Daddy Pig? The grass needs cutting. >> Uh I think I will just be a father today. >> Can you be a father and cut the grass? >> You've all forgotten, haven't you? >> Forgotten
+
+[40] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Day but for daddy's. >> Poor Daddy. We forgot. >> Yes. Sorry, Daddy Pig. What would you most like to do on your special day? >> Um, could I watch some racing cars on TV? >> There you go. >> Fantastic. >> Daddy Pig loves watching racing cars on TV. >>
+
+[41] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.0%)
+    Safe prob  : 4.0%
+    Harm prob  : 96.0%
+    Text       : >> Fantastic. I can't wait to try it. >> What's in it? >> All your favorite things. >> M tasty. >> Did you have a nice day, Daddy? >> Yes, Peppa and George. It was super. >> Daddy Pig loves Father's Day. [laughter] Everybody loves Father's Day. Wild
+
+[42] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 91.3%)
+    Safe prob  : 8.7%
+    Harm prob  : 91.3%
+    Text       : very sad. I use my digger to take THE RUBBISH OUT. THAT OLD TIRE should never have been in the river. >> Lucky you're here to take it out, MR. BULL. >> YES. YOU WOULDN'T BELIEVE THE things I found. >> Wow, a shopping trolley. >> SHOPPING TROLLEY SHOULDN'T
+
+[43] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 92.7%)
+    Safe prob  : 7.3%
+    Harm prob  : 92.7%
+    Text       : >> Pirate Hog, come and get your share of the cake. >> They must be sharing out the treasure. Lovely cake, Granny Pig. POLICE. [screaming] >> GRANNY PIG. Grandpa Pig. Fancy seeing you here. Well, we do live here. Of course you do. It's just that
+
+[44] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 93.0%)
+    Safe prob  : 7.0%
+    Harm prob  : 93.0%
+    Text       : center. >> Hello, Mommy Pig. >> Want to join me for a coffee? >> Oh, sorry, Mommy Sheep. I'm just too busy working. >> Oh, okay. See you soon. >> Right. Um, >> Daddy, what are you doing? I am ticking boxes and now I am rubber stamping. >> Can I do rubber
+
+[45] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 95.8%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.8%
+    Text       : stamping? >> Why not? [laughter] >> Mrs. Cat is ringing from Daddy Pig's work office. >> Hello. >> Hello, Daddy Pig. At last, how are you getting on? >> Um, can we touch base at the end of the day? Make sure we're on the same page. >> No problem. Why
+
+[46] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : >> Hello, Mommy Pig. Can I speak to Peppa, please? >> Peppa, it's Suzy for you. >> Hello, Suzy. No, I can't play today. I am on a page and I'm touching my face. >> What? >> Office speak is very hard to understand. >> I need a chair that goes round like
+
+[47] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 80.1%)
+    Safe prob  : 19.9%
+    Harm prob  : 80.1%
+    Text       : likes rocking in his rocker. [laughter] He likes peekab-boo. >> Peekab-boo. >> George is very good at playing peekab-boo. >> He also likes putting things in his mouth. [laughter] [crying] >> He's eating my dolly. >> Not really, Peppa. He's
+
+[48] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : is the nose. >> Mummy pig has a carrot for the [music] snowman's nose. >> Hello, Mr. Snowman. How are you today? >> He looks a bit cold. Do you want a house to keep you warm, Mr. Snowman? >> He does want a house. Thank you very much. >> Okay, let's build
+
+[49] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 90.6%)
+    Safe prob  : 9.4%
+    Harm prob  : 90.6%
+    Text       : a house. >> Hooray. As it happens, I know a lot about building houses, but to build a house, we need bricks. And we haven't got any bricks. >> Oh, how are we going to make a house without any bricks? >> With buckets and spades. [laughter] >> First,
+
+[50] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 70.3%)
+    Safe prob  : 29.7%
+    Harm prob  : 70.3%
+    Text       : we fill the buckets [music] with snow. >> Turn the buckets upside down. [music] >> Give them a little tap. and blue brick. >> You put the first brick down here. [music] Now we can make an igloo. >> We have to make a house. >> An igloo is a house, Peppa.
+
+[51] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 92.4%)
+    Safe prob  : 7.6%
+    Harm prob  : 92.4%
+    Text       : later. >> We can finish the igloo before that happens. That's it. >> I'm getting tired. >> Making an igloo is [music] hard work. >> Nearly finished. There. Oh, where is Daddy Pig? >> I'm in here. >> Daddy Pig is inside the igloo. >> How do we get in?
+
+[52] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.3%)
+    Safe prob  : 3.7%
+    Harm prob  : 96.3%
+    Text       : a bit cold inside. >> I haven't finished yet. Daddy Pig has made a window for the igloo. >> Clever daddy. >> It has started to snow. >> If you don't mind, Mr. Snowman, I'm going to use your igloo to shelter from the cold. That's better. It's very cold
+
+[53] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : help me do this, right? First things first. What kind of cake do you like, >> Mommy Pig? Just get everyone baking. >> Yes, Miss Rabbit. >> You two come with me and Peppa. >> This is the shopping center. >> Shoes, clothes, wedding rings. >> Ah, hello.
+
+[54] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Pig, and look after the rings? Me? I would be honored. I will think of a speech. >> Speech. >> People usually make speeches on wedding days. >> Mrs. Cow is going to put on her wedding dress. >> I'm so excited. I can't wait to see it. You're a big cheese.
+
+[55] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.1%
+    Harm prob  : 99.0%
+    Text       : is happy crying. There is a lot of happy crying on wedding days. Mr. Bull and Daddy Pig have arrived for the wedding. >> Mr. Bull, so handsome. Look, my sisters are here to play music. >> IT NEEDS TO BE LOUDER. >> AND EVERYONE has been getting things
+
+[56] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 92.1%)
+    Safe prob  : 7.9%
+    Harm prob  : 92.1%
+    Text       : not cheese. >> It's Mrs. Cow in HER WEDDING DRESS. MAXI, >> BEAUTIFUL. [music] >> Thank you, Miss Rabbit. >> I'll just find somewhere to park. >> Quiet, please, for the wedding promises. Do you, Mr. Bull, promise to love and care for Mrs. Cow forever?
+
+[57] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : of cheese balls. >> Oh, yes. And it's just the right size and color to go on my wall. May I buy it? >> Darling, you can have it. I'm just so happy to have shared this artouse day with you all. >> And I'm happy we shared all the nipples. [laughter] >> Peppa
+
+[58] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.6%)
+    Safe prob  : 1.4%
+    Harm prob  : 98.6%
+    Text       : pin holds it in place. >> Okay, let's hit the road. >> So, where do you want to go, Peppa? >> I don't know. I can't choose. >> Well, you have a think while we visit Daddy Pig's Choice. >> Here we are. Follow me, everybody. Now, look at that. >> What is
+
+[59] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : like that. >> Well, I never. You were missing the hammer pin. >> Mommy Pig, where did you find this little hammer? >> I found it there, and I was going to put it back. >> Mommy Pig forgot to put back the hammer pin. Uh, sorry. >> Ho ho. It wouldn't [clears
+
+[60] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 74.5%)
+    Safe prob  : 25.5%
+    Harm prob  : 74.5%
+    Text       : night. >> That was the best bouncy birthday ever. >> Broken party bus. >> Peppa and Suzy are out for a ride with Grandpa Pig. >> I just need to stop for some petrol. >> This is Grandad Dog's petrol station. >> HELLO, GRANDPA PIG. DO YOU NEED PETROL
+
+[61] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : don't have to, Daddy Pig. I will call Mr. Bull. >> HELLO, MR. BULL SPEAKING. >> HELLO, MR. BULL. We need soil for our roof garden. >> Can you help? >> Yes. If you can stop the traffic, I can park my truck crane. >> Stop. >> Police Officer Panda is stopping
+
+[62] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : And we're going to like you living here too, Rohan. >> Now I have even more friends to play with. >> Parachute [music] jump. >> It is raining and the school roof is leaking again. >> DIDN'T I FIX THIS ROOF FOR YOU BEFORE, MADAM GEL? >> YES, MR. BULL,
+
+[63] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : mind heights, do you, Mommy? I'm fine with heights. >> Good. >> Oh, thank you, Mommy Pig, for agreeing to jump from an airplane. What? But I've never done it before. You'll be fine. Remember, it is for the children. Oh, in that case, of course, I'll
+
+[64] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : do it. >> Hooray for Mummy Pig. >> It is the day of Mummy Pig's parachute jump. I'm still not sure I really want to do this. >> IT'S ALL IN A GOOD CAUSE, MOMMY PIG. [snorts] >> But I don't know how to jump out of an airplane. >> Don't worry, you'll get lots
+
+[65] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : of training first. >> Hello, Mummy Pig. Mr. Rabbit is the parachute trainer. This is a parachute. It will help you float through the air after you jump. >> Should I practice that? >> Practice what? >> Jumping. Why not? >> There, you're a natural.
+
+[66] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : >> Is that it? >> Yes, you are now fully trained. Hooray. [screaming] >> All aboard. >> I'm still a tiny bit worried about this jump, Daddy Pig. >> It's okay, Mummy Pig. I'll come up in the plane with you. >> Good luck, Mommy. [music] Don't worry,
+
+[67] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Mommy Pig. Remember, you've got a parachute. >> Yes, Daddy Pig. >> Oh, we are a long way from the ground. >> Oh, dear. Daddy Pig has fallen out of the plane. >> There she goes. Oh, wait. That's Daddy Pig. Wait for me, Daddy Pig. Wee! Mommy Pig has jumped.
+
+[68] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : She is going to rescue Daddy Pig. >> Got you. >> Oh, she's got him. >> Hooray! >> My mommy to the rescue. >> Thank you for saving me, Mommy Pig. >> Oh, Teddy Pig, you're starting to slip. >> Mr. Bull has just finished mending the school roof. >> Lovely
+
+[69] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : job. IT WILL LAST FOR YEARS. I CAN'T HOLD ON. >> AH, DADDY. >> Is Daddy Pig all right? >> Ho ho, I'm fine. >> Good, because you'll NEED TO DO THAT PARACHUTE JUMP AGAIN. >> WHAT? >> To raise the money to fix this new hole in the school roof. >> Oh, all right.
+
+[70] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : >> [laughter] >> Gerald giraffe. >> Mummy Pig is measuring Peppa. >> There, Peppa. That's how tall you are. >> I'm taller than I was before. >> That's because you're growing up, Peppa. >> Now George's turn. >> There, George. That's how tall you
+
+[71] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : vet. >> You naughty. Who do I have to thank for rescuing my titles? >> Gerald. [laughter] >> Thank you, Gerald. My goodness, you are a tall lad. >> I'm a giraffe. >> Oh, >> but you're taller than Gerald. Dr. Hamster? >> Yes. That's because I'm a hamster.
+
+[72] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 81.2%)
+    Safe prob  : 18.8%
+    Harm prob  : 81.2%
+    Text       : playgroup. >> Wow, you're as tall as the sky. >> That's because [music] we're giraffes. >> And my mommy and daddy are very, very old. >> Miss Rabbit's taxi. Peppa and George are shopping with Mummy Pig. >> That's a lot of shopping. >> It's for Grandpa
+
+[73] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : Pig. My granny is going away on holiday. >> Oh, I see. >> That's a lot of shopping. >> It's everything on Granny Pig's list. Where's the car? >> I didn't bring the car. I didn't think you'd be buying so much. >> Oh, I'll call for a taxi. Hello. Taxi service.
+
+[74] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 1.9%
+    Harm prob  : 98.0%
+    Text       : >> Granny Pig. >> Hello, my little ones. >> We've got the shopping. But why are you not at the airport, Granny? Oh, yes. I'd better call a taxi. >> Taxi service. Hello, Granny Pig. >> I'd like to go to the airport, please. >> Of course. Hop in. Thank
+

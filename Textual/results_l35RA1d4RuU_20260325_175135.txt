@@ -1,0 +1,111 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-25 17:51:35
+Video ID  : l35RA1d4RuU
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 29
+Total harmful found  : 13
+Texts translated     : 3
+Comment harm rate    : 61.5%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 1 harmful / 1 analysed
+  Description    : 1 harmful / 1 analysed
+  Transcript     : 3 harmful / 14 analysed
+  Comments       : 8 harmful / 13 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TITLE
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 6th$ithLord - FUCK A TITLE ft.ERIK DOM
+
+[2] Source     : DESCRIPTION
+    Verdict    : HARMFUL  (confidence: 92.3%)
+    Safe prob  : 7.7%
+    Harm prob  : 92.3%
+    Text       : S/O My boi ERIK DOM and Ghetto Hippies
+Follow:
+@6thsithlord
+@erikdomm
+
+South Side Myth Instrumental
+
+$ITHGANG
+
+[3] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : word up dick don't ever try to [ __ ] step to this I'll leave you vomiting and cut up from the face like the Exorcist you'll notice this but you also better remember this kid whose fuse is not much longer than a [ __ ] terrorist so do yourself a favor and
+
+[4] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : is right I strike with my knife and I'm I kill you just right [ __ ] right [ __ ] I'll catch you in the [ __ ] night [ __ ] kill you when I use your blood so I can [ __ ] write this I sight this 20 times no you don't want to fight this murder anyone who trying to step
+
+[5] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.3%)
+    Safe prob  : 3.7%
+    Harm prob  : 96.3%
+    Text       : I hit harder Eric the [ __ ] martyr kill you when I leave your body rotten have you forgotten about the trip of six kids still slaying last thing that you say before your death is my name man Sith gang ghetto hippies on the [ __ ] rise I tell no lies so get
+
+[6] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 75.3%)
+    Safe prob  : 24.7%
+    Harm prob  : 75.3%
+    Text       : $ith Gang 🔥🔥
+
+[7] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 79.5%)
+    Safe prob  : 20.5%
+    Harm prob  : 79.5%
+    Text       : But dom,  get outta here  (Original - Norwegian)
+    Original   : But dom,  get outta here
+
+[8] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : Yo you did that shit with the old school that's sick keep it up
+
+[9] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : Yo im so fucking glad I found this its so fucking fire
+
+[10] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.0%)
+    Safe prob  : 10.0%
+    Harm prob  : 90.0%
+    Text       : THIS IS SO UNDER RATED WTF
+
+[11] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.1%)
+    Safe prob  : 9.9%
+    Harm prob  : 90.1%
+    Text       : Beat is ill.
+
+[12] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : DAYYYEM THAT'S SICK  (Original - German)
+    Original   : DAYYYEM DAT IS SICK
+
+[13] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Fuck I feel like he would go so good with the doomshop crew fr.
+

@@ -1,0 +1,89 @@
+{
+    "source": "Swearing Violent Kids Have Broken Mom | Supernanny",
+    "original_language": "English",
+    "was_translated": false,
+    "original_text": "Crazy Stoppies! No! No! No! This day I'll go. The ringleader has found out for your old Reese. Fuck her! He's just got a wild child gone wrong. It's terrible. No! Trying things at me. Stop it! Yeah! Spare him directly at me. Let's do a fucker. Let's fucker! Shut up, dad! You're a road! He's Tara's biggest challenge. And trying to control him is a constant battle. No! Ah! Fucking hell! Come on, brother. Stop it! It's embarrassing. Can you not really? Yes! But Reese is only the start of her proble",
+    "translated_text": null,
+    "total_chunks": 6,
+    "harmful_chunks": 3,
+    "harm_percentage": 50.0,
+    "avg_harmful_prob": 0.5525,
+    "max_harmful_prob": 0.9988,
+    "overall_verdict": "HARMFUL",
+    "chunk_results": [
+        {
+            "chunk_index": 1,
+            "text": "Crazy Stoppies! No! No! No! This day I'll go. The ringleader has found out for your old Reese. Fuck her! He's just got a wild child gone wrong. It's terrible. No! Trying things at me. Stop it! Yeah! S",
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        },
+        {
+            "chunk_index": 2,
+            "text": "fucker! Shut up, dad! You're a road! He's Tara's biggest challenge. And trying to control him is a constant battle. No! Ah! Fucking hell! Come on, brother. Stop it! It's embarrassing. Can you not real",
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        },
+        {
+            "chunk_index": 3,
+            "text": "problems. Shannon is desperate to wrestle some of Mum's attention away from her brother. No! You got it! What do you have, Shannon? You are going in your room. If Shannon doesn't get around my, she wi",
+            "verdict": "SAFE",
+            "confidence": 0.7616,
+            "safe_prob": 0.7616,
+            "harmful_prob": 0.2384
+        },
+        {
+            "chunk_index": 4,
+            "text": "She'll chuck things about. She just screams a lot, constant screaming. Over looked in the chaos, good girl Casey has given up on getting time with Mum. Cause he has three of us. She really haven't had",
+            "verdict": "SAFE",
+            "confidence": 0.8175,
+            "safe_prob": 0.8175,
+            "harmful_prob": 0.1825
+        },
+        {
+            "chunk_index": 5,
+            "text": "tired and she's had enough. Who are absolutely crazy? Come on, put your bellies on. Years of combat have taken their toll. And communication has broken down. You, get there, you go away. We don't talk",
+            "verdict": "HARMFUL",
+            "confidence": 0.789,
+            "safe_prob": 0.211,
+            "harmful_prob": 0.789
+        },
+        {
+            "chunk_index": 6,
+            "text": "her wit's end. The kids have got me very low, very extremely low. Sometimes I feel like walking out and leaving them in on the rim. When they get me to my lowest point, but I know I can't because they",
+            "verdict": "SAFE",
+            "confidence": 0.8926,
+            "safe_prob": 0.8926,
+            "harmful_prob": 0.1074
+        }
+    ],
+    "harmful_texts": [
+        {
+            "chunk_index": 1,
+            "text": "Crazy Stoppies! No! No! No! This day I'll go. The ringleader has found out for your old Reese. Fuck her! He's just got a wild child gone wrong. It's terrible. No! Trying things at me. Stop it! Yeah! S",
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        },
+        {
+            "chunk_index": 2,
+            "text": "fucker! Shut up, dad! You're a road! He's Tara's biggest challenge. And trying to control him is a constant battle. No! Ah! Fucking hell! Come on, brother. Stop it! It's embarrassing. Can you not real",
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        },
+        {
+            "chunk_index": 5,
+            "text": "tired and she's had enough. Who are absolutely crazy? Come on, put your bellies on. Years of combat have taken their toll. And communication has broken down. You, get there, you go away. We don't talk",
+            "verdict": "HARMFUL",
+            "confidence": 0.789,
+            "safe_prob": 0.211,
+            "harmful_prob": 0.789
+        }
+    ]
+}

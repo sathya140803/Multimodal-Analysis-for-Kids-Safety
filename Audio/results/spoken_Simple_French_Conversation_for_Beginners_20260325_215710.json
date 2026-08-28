@@ -1,0 +1,24 @@
+{
+    "source": "Simple French Conversation for Beginners (PART 1) – Conversation Facile en Français 🇫🇷🗣️",
+    "original_language": "French",
+    "was_translated": true,
+    "original_text": "Bonjour. Bonjour. Ça va ? Oui, ça va bien. Merci. Et toi ? Moi aussi, ça va. Tu t'appelles comment ? Je m'appelle Marie. Et toi ? Je m'appelle Paul. Enchanté. Enchanté.",
+    "translated_text": "Good morning. Good morning. How are you ? Yes, it's going well. THANKS. And you ? Me too, it's okay. What's your name? My name is Mary. And you ? My name is Paul. Delighted. Delighted.",
+    "total_chunks": 1,
+    "harmful_chunks": 0,
+    "harm_percentage": 0.0,
+    "avg_harmful_prob": 0.0033,
+    "max_harmful_prob": 0.0033,
+    "overall_verdict": "SAFE",
+    "chunk_results": [
+        {
+            "chunk_index": 1,
+            "text": "Good morning. Good morning. How are you ? Yes, it's going well. THANKS. And you ? Me too, it's okay. What's your name? My name is Mary. And you ? My name is Paul. Delighted. Delighted.",
+            "verdict": "SAFE",
+            "confidence": 0.9967,
+            "safe_prob": 0.9967,
+            "harmful_prob": 0.0033
+        }
+    ],
+    "harmful_texts": []
+}

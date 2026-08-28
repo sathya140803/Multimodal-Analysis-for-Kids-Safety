@@ -1,0 +1,55 @@
+============================================================
+SPOKEN AUDIO CLASSIFICATION REPORT
+Generated : 2026-03-16 11:30:01
+Source    : it's never too late | bojack horseman
+============================================================
+
+VERDICT           : HARMFUL
+Language          : English
+Translated        : No
+Total chunks      : 26
+Harmful chunks    : 12 (46.1%)
+Avg harmful prob  : 48.7%
+
+FULL TRANSCRIPTION:
+----------------------------------------
+I mean, am I just doomed to be the person that I am? The person in that book? You have to live with a shitty thing you did for the rest of your life. You have to know that it's never, ever going to be OK. You run straight ahead and you keep running forward no matter what. There are people in your life who are going to try to hold you back, slow you down, but you don't let them. You know, it's funny. When you look at someone through rose-colored glasses, all the red flags just look like flags. Th
+
+HARMFUL CHUNKS:
+----------------------------------------
+  Chunk 1 | Confidence: 97.5%
+  I mean, am I just doomed to be the person that I am? The person in that book? You have to live with a shitty thing you did for the rest of your life. You have to know that it's never, ever going to be
+
+  Chunk 4 | Confidence: 99.6%
+  30 minutes, I will call the police. And if you ever try to contact me or my family again, I will fucking kill you. How do you make something right when you've heard it so wrong that you can never go b
+
+  Chunk 5 | Confidence: 98.6%
+  you are and even longer to see that it doesn't have to be that way. And you're going to do everything you can to fill that hole with friends and your career and meaningless sex, but the hole doesn't g
+
+  Chunk 7 | Confidence: 92.7%
+  Lynn? Sarah Lynn? You can't keep doing this. You can't keep doing shitty things and then feel bad about yourself. Like that makes it OK. You need to be better. I don't know how to beat the head. It do
+
+  Chunk 8 | Confidence: 97.4%
+  keep lying to myself saying, I'm going to change. I'm poison. Oh, Jack. I come from poison. I have poison inside me and I destroy everything I touch. That's my legacy. I wanted to be better when you s
+
+  Chunk 10 | Confidence: 99.8%
+  the way you do. And I don't know how. I don't know if I can. I feel like I barely know you anymore. Oh, bullshit. Don't give me that. It's true. I don't know you. No, you know me. You do. Then what th
+
+  Chunk 12 | Confidence: 99.7%
+  women don't even remember I bet. Not tell me to cool down like I'm the crazy person here. I'm just trying to have a safe workplace admire. The fuck is wrong? Well, that's really convenient for you. I'
+
+  Chunk 15 | Confidence: 78.5%
+  I don't want to see you. No, I don't want to see you. I tried to. No, I was 17. I didn't know anyone. That's the most. Really? More than, say, Sarah Lynn? Because I cared about you. And you ruined peo
+
+  Chunk 19 | Confidence: 98.9%
+  before I met you, and you had a life before you met me. I don't want that life. That life, that person. That's not who I am. You're ruined the one good thing I had. The one thing I didn't ruin myself.
+
+  Chunk 20 | Confidence: 99.9%
+  wrong with you. It's not the alcohol or the drugs or any of the shitty things that happen to you in your career, or when you were a kid. It's you. All right? It's you. Fuck. What else does that say? E
+
+  Chunk 23 | Confidence: 99.9%
+  And you don't think you have any power over women. You weren't dead. I was angry. I was relieved. But I was also angry that I'd given you that power over me. That boy's when it tells you you're worthl
+
+  Chunk 24 | Confidence: 98.8%
+  It's just like a dumb teenage girl thing. But then it goes away. Yeah. I think there are people that help you become the person that you end up being. And you can be grateful for them, even if they we
+

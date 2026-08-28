@@ -1,0 +1,57 @@
+{
+    "source": "Barack Obama - SUCCESSFUL People Had FAILURES | Inspirational Speech (Motivational Video 2022 (4K))",
+    "original_language": "English",
+    "was_translated": false,
+    "original_text": "Some of the most successful people in the world are the ones who've had the most failures. JK Rawlings, who wrote Harry Potter. Her first Harry Potter book was rejected 12 times before it was finally published. Michael Jordan was cut from his high school basketball team. He lost hundreds of games and missed thousands of shots during his career. But he once said, I have failed over and over and over again in my life, and that's why I succeed. These people succeeded because they understood that yo",
+    "translated_text": null,
+    "total_chunks": 4,
+    "harmful_chunks": 1,
+    "harm_percentage": 25.0,
+    "avg_harmful_prob": 0.2603,
+    "max_harmful_prob": 0.9886,
+    "overall_verdict": "HARMFUL",
+    "chunk_results": [
+        {
+            "chunk_index": 1,
+            "text": "Some of the most successful people in the world are the ones who've had the most failures. JK Rawlings, who wrote Harry Potter. Her first Harry Potter book was rejected 12 times before it was finally ",
+            "verdict": "SAFE",
+            "confidence": 0.9966,
+            "safe_prob": 0.9966,
+            "harmful_prob": 0.0034
+        },
+        {
+            "chunk_index": 2,
+            "text": "high school basketball team. He lost hundreds of games and missed thousands of shots during his career. But he once said, I have failed over and over and over again in my life, and that's why I succee",
+            "verdict": "SAFE",
+            "confidence": 0.9665,
+            "safe_prob": 0.9665,
+            "harmful_prob": 0.0335
+        },
+        {
+            "chunk_index": 3,
+            "text": "that you can't let your failures define you. You have to let your failures teach you. You have to let them show you what to do differently the next time. So if you get into trouble, that doesn't mean ",
+            "verdict": "SAFE",
+            "confidence": 0.9843,
+            "safe_prob": 0.9843,
+            "harmful_prob": 0.0157
+        },
+        {
+            "chunk_index": 4,
+            "text": "harder to act right. If you get a bad grade, that doesn't mean you're stupid. It just means you need to spend more time studying. No one's born being good at all things. You become good at things thro",
+            "verdict": "HARMFUL",
+            "confidence": 0.9886,
+            "safe_prob": 0.0114,
+            "harmful_prob": 0.9886
+        }
+    ],
+    "harmful_texts": [
+        {
+            "chunk_index": 4,
+            "text": "harder to act right. If you get a bad grade, that doesn't mean you're stupid. It just means you need to spend more time studying. No one's born being good at all things. You become good at things thro",
+            "verdict": "HARMFUL",
+            "confidence": 0.9886,
+            "safe_prob": 0.0114,
+            "harmful_prob": 0.9886
+        }
+    ]
+}

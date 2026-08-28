@@ -1,0 +1,50 @@
+{
+    "Text": {
+        "accuracy": 0.4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "tp": 0,
+        "tn": 4,
+        "fp": 1,
+        "fn": 5,
+        "total": 10,
+        "errors": 0
+    },
+    "Video": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 5,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "total": 10,
+        "errors": 0
+    },
+    "Audio": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 5,
+        "tn": 4,
+        "fp": 0,
+        "fn": 0,
+        "total": 9,
+        "errors": 1
+    },
+    "Video + Audio": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "tp": 5,
+        "tn": 5,
+        "fp": 0,
+        "fn": 0,
+        "total": 10,
+        "errors": 0
+    }
+}

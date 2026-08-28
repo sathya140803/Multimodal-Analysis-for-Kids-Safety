@@ -1,0 +1,49 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-25 18:20:38
+Video ID  : x9JpEBEypYQ
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 42
+Total harmful found  : 4
+Texts translated     : 6
+Comment harm rate    : 33.3%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 3 harmful / 38 analysed
+  Comments       : 1 harmful / 3 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : DESCRIPTION
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : Prohibition of writing profanity (unless you can not live without swearing in the comments, and you appreciate my work, you can write, for example, "HOLY SHIT!
+
+[2] Source     : DESCRIPTION
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Great video!" Or "FUCK!
+
+[3] Source     : DESCRIPTION
+    Verdict    : HARMFUL  (confidence: 92.7%)
+    Safe prob  : 7.3%
+    Harm prob  : 92.7%
+    Text       : NO SELF PROMOTION ALLOWED!!!  (Original - Portuguese)
+    Original   : NO SELF PROMOTION ALLOWED!!!
+
+[4] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : norm  (Original - Russian)
+    Original   : Норм
+

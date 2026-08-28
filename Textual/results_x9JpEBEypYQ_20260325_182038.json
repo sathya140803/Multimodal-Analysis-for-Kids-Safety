@@ -1,0 +1,536 @@
+{
+    "video_id": "x9JpEBEypYQ",
+    "final_verdict": "UNSAFE",
+    "total_texts_analysed": 42,
+    "total_harmful": 4,
+    "comment_harm_pct": 33.33,
+    "translated_texts": 6,
+    "per_source": {
+        "title": {
+            "analysed": 1,
+            "harmful": 0
+        },
+        "description": {
+            "analysed": 38,
+            "harmful": 3
+        },
+        "transcript": {
+            "analysed": 0,
+            "harmful": 0
+        },
+        "comments": {
+            "analysed": 3,
+            "harmful": 1
+        }
+    },
+    "harmful_texts": [
+        {
+            "source": "description",
+            "original_text": "Prohibition of writing profanity (unless you can not live without swearing in the comments, and you appreciate my work, you can write, for example, \"HOLY SHIT!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9832,
+            "safe_prob": 0.0168,
+            "harmful_prob": 0.9832
+        },
+        {
+            "source": "description",
+            "original_text": "Great video!\" Or \"FUCK!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9987,
+            "safe_prob": 0.0013,
+            "harmful_prob": 0.9987
+        },
+        {
+            "source": "description",
+            "original_text": "NO SELF PROMOTION ALLOWED!!!",
+            "was_translated": true,
+            "original_language": "Portuguese",
+            "translated_text": "NO SELF PROMOTION ALLOWED!!!",
+            "verdict": "HARMFUL",
+            "confidence": 0.9273,
+            "safe_prob": 0.0727,
+            "harmful_prob": 0.9273
+        },
+        {
+            "source": "comments",
+            "original_text": "Норм",
+            "was_translated": true,
+            "original_language": "Russian",
+            "translated_text": "norm",
+            "verdict": "HARMFUL",
+            "confidence": 0.9974,
+            "safe_prob": 0.0026,
+            "harmful_prob": 0.9974
+        }
+    ],
+    "all_results": [
+        {
+            "source": "title",
+            "original_text": "DJVI - Cycles [Silverson X Remix] | Synthwave",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.996,
+            "safe_prob": 0.996,
+            "harmful_prob": 0.004
+        },
+        {
+            "source": "description",
+            "original_text": "A remix of an awesome song by @djviofficial!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9324,
+            "safe_prob": 0.9324,
+            "harmful_prob": 0.0676
+        },
+        {
+            "source": "description",
+            "original_text": "Thanks Geometry Dash for introducing me to this amazing song!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9966,
+            "safe_prob": 0.9966,
+            "harmful_prob": 0.0034
+        },
+        {
+            "source": "description",
+            "original_text": "DJVI, if you're reading this, I love your music and I hope you'll enjoy my remix of one of your biggest hits!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9645,
+            "safe_prob": 0.9645,
+            "harmful_prob": 0.0355
+        },
+        {
+            "source": "description",
+            "original_text": "==============================\n\n 🙋🏼‍♂️ ABOUT ME 🙋🏼‍♂️\n\n Hello!",
+            "was_translated": true,
+            "original_language": "Italian",
+            "translated_text": "==============================\n\n 🙋🏼‍♂️ ABOUT ME 🙋🏼‍♂️\n\n Hello!",
+            "verdict": "SAFE",
+            "confidence": 0.9954,
+            "safe_prob": 0.9954,
+            "harmful_prob": 0.0046
+        },
+        {
+            "source": "description",
+            "original_text": "If you are reading this, I can see you want to get to know me a little better!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9969,
+            "safe_prob": 0.9969,
+            "harmful_prob": 0.0031
+        },
+        {
+            "source": "description",
+            "original_text": "Well, my nicknames are SilversonX and Jacob.ZET but you can call me Jakub or Kuba, because that's my name 😉\n\n I am 18 years old and in September I'll be in the 4th grade of highschool (but despite the fact that the holidays are much better and are definitely too short!) 😓\n\n In my spare time I like t",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9953,
+            "safe_prob": 0.9953,
+            "harmful_prob": 0.0047
+        },
+        {
+            "source": "description",
+            "original_text": "I have been playing Brawl Stars for over three years and I am a co-founder of the former SilverKibicPL club, and then THE WINNERS🇵🇱.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9788,
+            "safe_prob": 0.9788,
+            "harmful_prob": 0.0212
+        },
+        {
+            "source": "description",
+            "original_text": "It would not have happened if it was for my best friend - Zapalony Kibic!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9968,
+            "safe_prob": 0.9968,
+            "harmful_prob": 0.0032
+        },
+        {
+            "source": "description",
+            "original_text": "🇵🇱\n Then we belonged to the Imperium BK club, and now Widzowie Pankll!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9956,
+            "safe_prob": 0.9956,
+            "harmful_prob": 0.0044
+        },
+        {
+            "source": "description",
+            "original_text": "⚡⚡⚡\n\nYou can help me by leaving a like and comment under this video and a sub with a bell on my channel!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.979,
+            "safe_prob": 0.979,
+            "harmful_prob": 0.021
+        },
+        {
+            "source": "description",
+            "original_text": "😂\n\n\n\n\n\n 📑 USEFUL INFORMATION 📑\n\n ▪︎📧 my e-mail: jakubz0529@gmail.com\n ▪︎🎧 Discord: SilvereqX (https://discord.gg/PkBQeMff - server)\n ▪︎🗯 Messenger: Jakub Zięcina (photo by the sea)\n ▪︎⏹ Geometry Dash nickname: SilversonX\n ▪︎⚔ nickname in Brawl Stars: ⚡SilversonX⚡ (Tag: # P0GPCPLLY) - 👑 club: widzowi",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9957,
+            "safe_prob": 0.9957,
+            "harmful_prob": 0.0043
+        },
+        {
+            "source": "description",
+            "original_text": "A: Jakub (Jacob in English)\n\n Q: how old are you?",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9972,
+            "safe_prob": 0.9972,
+            "harmful_prob": 0.0028
+        },
+        {
+            "source": "description",
+            "original_text": "A: 18\n\n Q: when is your birthday?",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.996,
+            "safe_prob": 0.996,
+            "harmful_prob": 0.004
+        },
+        {
+            "source": "description",
+            "original_text": "A: May 29\n\n Q: Which grade do you go to?",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9966,
+            "safe_prob": 0.9966,
+            "harmful_prob": 0.0034
+        },
+        {
+            "source": "description",
+            "original_text": "A: 4th grade - high school\n\n\n\n\n\n ⛔ CHANNEL RULES ⛔\n\n 1.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.995,
+            "safe_prob": 0.995,
+            "harmful_prob": 0.005
+        },
+        {
+            "source": "description",
+            "original_text": "Prohibition of spamming, hating and insulting in the comments of third parties 😿\n\n 2.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9823,
+            "safe_prob": 0.9823,
+            "harmful_prob": 0.0177
+        },
+        {
+            "source": "description",
+            "original_text": "It is forbidden to write questionable things in the comments 🍆\n\n 3.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9949,
+            "safe_prob": 0.9949,
+            "harmful_prob": 0.0051
+        },
+        {
+            "source": "description",
+            "original_text": "Prohibition of writing profanity (unless you can not live without swearing in the comments, and you appreciate my work, you can write, for example, \"HOLY SHIT!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9832,
+            "safe_prob": 0.0168,
+            "harmful_prob": 0.9832
+        },
+        {
+            "source": "description",
+            "original_text": "Great video!\" Or \"FUCK!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "HARMFUL",
+            "confidence": 0.9987,
+            "safe_prob": 0.0013,
+            "harmful_prob": 0.9987
+        },
+        {
+            "source": "description",
+            "original_text": "I love you!\", Then it does not bother me!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9947,
+            "safe_prob": 0.9947,
+            "harmful_prob": 0.0053
+        },
+        {
+            "source": "description",
+            "original_text": "It is forbidden to spread racism 🙍🏿‍♂️\n\n 5.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.897,
+            "safe_prob": 0.897,
+            "harmful_prob": 0.103
+        },
+        {
+            "source": "description",
+            "original_text": "We respect each other, because on this channel everyone should feel safe 🤝🏻\n\n 6.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9903,
+            "safe_prob": 0.9903,
+            "harmful_prob": 0.0097
+        },
+        {
+            "source": "description",
+            "original_text": "Prohibition of sending links to vulgar / racist / pornographic / virus websites, as well as harmful files ⚠️\n\n 7.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9279,
+            "safe_prob": 0.9279,
+            "harmful_prob": 0.0721
+        },
+        {
+            "source": "description",
+            "original_text": "It is forbidden to write comments that are pointless or not related to the film (unless you want to ask me something, suggest something or talk to me then go ahead!) E.g.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9971,
+            "safe_prob": 0.9971,
+            "harmful_prob": 0.0029
+        },
+        {
+            "source": "description",
+            "original_text": "\"My dinner was too sour\" or  \"I like pancakes\" or \"My neighbor jumped out of the window\" 🕺🏾\n\n 8.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9535,
+            "safe_prob": 0.9535,
+            "harmful_prob": 0.0465
+        },
+        {
+            "source": "description",
+            "original_text": "Everyone is treated equally ⛰\n\n 9.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9961,
+            "safe_prob": 0.9961,
+            "harmful_prob": 0.0039
+        },
+        {
+            "source": "description",
+            "original_text": "There is a penalty 🙅🏼‍♂️ for provoking a quarrel / drama in the comments\n\n 10.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9692,
+            "safe_prob": 0.9692,
+            "harmful_prob": 0.0308
+        },
+        {
+            "source": "description",
+            "original_text": "NO SELF PROMOTION ALLOWED!!!",
+            "was_translated": true,
+            "original_language": "Portuguese",
+            "translated_text": "NO SELF PROMOTION ALLOWED!!!",
+            "verdict": "HARMFUL",
+            "confidence": 0.9273,
+            "safe_prob": 0.0727,
+            "harmful_prob": 0.9273
+        },
+        {
+            "source": "description",
+            "original_text": "Comments like \"Hey!",
+            "was_translated": true,
+            "original_language": "Norwegian",
+            "translated_text": "Comments like \"Hey!",
+            "verdict": "SAFE",
+            "confidence": 0.9872,
+            "safe_prob": 0.9872,
+            "harmful_prob": 0.0128
+        },
+        {
+            "source": "description",
+            "original_text": "Nice video!",
+            "was_translated": true,
+            "original_language": "Italian",
+            "translated_text": "Nice video!",
+            "verdict": "SAFE",
+            "confidence": 0.9965,
+            "safe_prob": 0.9965,
+            "harmful_prob": 0.0035
+        },
+        {
+            "source": "description",
+            "original_text": "I left a sub for you!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9906,
+            "safe_prob": 0.9906,
+            "harmful_prob": 0.0094
+        },
+        {
+            "source": "description",
+            "original_text": "Hope you'll do the same for me\" will be considered as spam!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9949,
+            "safe_prob": 0.9949,
+            "harmful_prob": 0.0051
+        },
+        {
+            "source": "description",
+            "original_text": "This point does not apply to you if you stay on my channel for a long time.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9924,
+            "safe_prob": 0.9924,
+            "harmful_prob": 0.0076
+        },
+        {
+            "source": "description",
+            "original_text": "🎤 (‼️MOSTLY BROKEN RULE‼️)\n\n11.",
+            "was_translated": true,
+            "original_language": "Unknown (so)",
+            "translated_text": "🎤 (‼️MOSTLY BROKEN RULE‼️)\n\n11.",
+            "verdict": "SAFE",
+            "confidence": 0.9898,
+            "safe_prob": 0.9898,
+            "harmful_prob": 0.0102
+        },
+        {
+            "source": "description",
+            "original_text": "If you want to use my music in your video.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9088,
+            "safe_prob": 0.9088,
+            "harmful_prob": 0.0912
+        },
+        {
+            "source": "description",
+            "original_text": "Please, ask for permission and don't forget to credit me in your video description!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9973,
+            "safe_prob": 0.9973,
+            "harmful_prob": 0.0027
+        },
+        {
+            "source": "description",
+            "original_text": "©️\n\n=========================\n\nAll my tracks in chronological order (excluding remixes):\nGlitchy Corrupt, Electro Neon, Control, Conflict, Party Freak, The World, Rain Harmony, Clouds, Living Dreams, Prelude, Pixel Paradise, Nozzia, Classico, Haunted Dance, Summer Sun, Early Morning, Campfire, Mr.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9964,
+            "safe_prob": 0.9964,
+            "harmful_prob": 0.0036
+        },
+        {
+            "source": "description",
+            "original_text": "Right, Space Dream, The Lullaby, Our Past, Superion, Acid Kid, Dimension, Live the Beat!, Espectaculo, Memories, Silverendirekt, IDK, Energy, Blocks, Haze, Hyper Reality, Reflections, Far Away From Home, Revolution, Funk Chiptune, Emotion, Eternity, Weewaaboyou, Life Love Happiness, Shadow, Time Rid",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9962,
+            "safe_prob": 0.9962,
+            "harmful_prob": 0.0038
+        },
+        {
+            "source": "comments",
+            "original_text": "I'm going to post it on Newgrounds soon!",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9975,
+            "safe_prob": 0.9975,
+            "harmful_prob": 0.0025
+        },
+        {
+            "source": "comments",
+            "original_text": "If someone makes a 80s-styled remake of Cycles then they should use this remix.",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9921,
+            "safe_prob": 0.9921,
+            "harmful_prob": 0.0079
+        },
+        {
+            "source": "comments",
+            "original_text": "Норм",
+            "was_translated": true,
+            "original_language": "Russian",
+            "translated_text": "norm",
+            "verdict": "HARMFUL",
+            "confidence": 0.9974,
+            "safe_prob": 0.0026,
+            "harmful_prob": 0.9974
+        }
+    ]
+}

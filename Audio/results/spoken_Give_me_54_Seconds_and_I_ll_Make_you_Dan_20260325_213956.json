@@ -1,0 +1,48 @@
+{
+    "source": "Give me 54 Seconds and I’ll Make you Dangerously Motivated",
+    "original_language": "English",
+    "was_translated": false,
+    "original_text": "Just give me under a minute and I'll change the way you look at your life. Just listen, motivation isn't given. It's built through consistent action. It's not something you're born with. It's the reward you get from making consistent progress over time. You don't get inspired without first doing the work. Every single second you waste waiting for motivation to strike, you lose the opportunity to build your dream. You don't mean motivation. What you need is discipline. The truth is motion always ",
+    "translated_text": null,
+    "total_chunks": 4,
+    "harmful_chunks": 0,
+    "harm_percentage": 0.0,
+    "avg_harmful_prob": 0.0686,
+    "max_harmful_prob": 0.0943,
+    "overall_verdict": "SAFE",
+    "chunk_results": [
+        {
+            "chunk_index": 1,
+            "text": "Just give me under a minute and I'll change the way you look at your life. Just listen, motivation isn't given. It's built through consistent action. It's not something you're born with. It's the rewa",
+            "verdict": "SAFE",
+            "confidence": 0.9057,
+            "safe_prob": 0.9057,
+            "harmful_prob": 0.0943
+        },
+        {
+            "chunk_index": 2,
+            "text": "over time. You don't get inspired without first doing the work. Every single second you waste waiting for motivation to strike, you lose the opportunity to build your dream. You don't mean motivation.",
+            "verdict": "SAFE",
+            "confidence": 0.9095,
+            "safe_prob": 0.9095,
+            "harmful_prob": 0.0905
+        },
+        {
+            "chunk_index": 3,
+            "text": "is motion always beats motivation. Stop waiting to feel ready for a moment that'll never arrive because you've never leveled up while you're drifting on autopilot. So stop waiting to make the right de",
+            "verdict": "SAFE",
+            "confidence": 0.917,
+            "safe_prob": 0.917,
+            "harmful_prob": 0.083
+        },
+        {
+            "chunk_index": 4,
+            "text": "make it right. That's how you get motivated.",
+            "verdict": "SAFE",
+            "confidence": 0.9933,
+            "safe_prob": 0.9933,
+            "harmful_prob": 0.0067
+        }
+    ],
+    "harmful_texts": []
+}

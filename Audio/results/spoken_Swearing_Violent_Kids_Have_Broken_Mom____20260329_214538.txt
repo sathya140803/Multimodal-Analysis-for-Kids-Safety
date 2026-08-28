@@ -1,0 +1,28 @@
+============================================================
+SPOKEN AUDIO CLASSIFICATION REPORT
+Generated : 2026-03-29 21:45:38
+Source    : Swearing Violent Kids Have Broken Mom | Supernanny
+============================================================
+
+VERDICT           : HARMFUL
+Language          : English
+Translated        : No
+Total chunks      : 6
+Harmful chunks    : 3 (50.0%)
+Avg harmful prob  : 55.2%
+
+FULL TRANSCRIPTION:
+----------------------------------------
+Crazy Stoppies! No! No! No! This day I'll go. The ringleader has found out for your old Reese. Fuck her! He's just got a wild child gone wrong. It's terrible. No! Trying things at me. Stop it! Yeah! Spare him directly at me. Let's do a fucker. Let's fucker! Shut up, dad! You're a road! He's Tara's biggest challenge. And trying to control him is a constant battle. No! Ah! Fucking hell! Come on, brother. Stop it! It's embarrassing. Can you not really? Yes! But Reese is only the start of her proble
+
+HARMFUL CHUNKS:
+----------------------------------------
+  Chunk 1 | Confidence: 99.9%
+  Crazy Stoppies! No! No! No! This day I'll go. The ringleader has found out for your old Reese. Fuck her! He's just got a wild child gone wrong. It's terrible. No! Trying things at me. Stop it! Yeah! S
+
+  Chunk 2 | Confidence: 99.9%
+  fucker! Shut up, dad! You're a road! He's Tara's biggest challenge. And trying to control him is a constant battle. No! Ah! Fucking hell! Come on, brother. Stop it! It's embarrassing. Can you not real
+
+  Chunk 5 | Confidence: 78.9%
+  tired and she's had enough. Who are absolutely crazy? Come on, put your bellies on. Years of combat have taken their toll. And communication has broken down. You, get there, you go away. We don't talk
+

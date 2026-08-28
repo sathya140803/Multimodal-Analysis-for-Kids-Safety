@@ -1,0 +1,58 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-29 21:06:38
+Video ID  : Gab-COCymsQ
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 30
+Total harmful found  : 5
+Texts translated     : 28
+Comment harm rate    : 21.1%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 1 harmful / 1 analysed
+  Description    : 0 harmful / 10 analysed
+  Comments       : 4 harmful / 19 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TITLE
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : CASHMERE - ACOUSTIC SESSION Damn I'm scared #65/2  (Original - Finnish)
+    Original   : CACHEMIRE - SESSION ACOUSTIQUE Putain j'ai peur #65/2
+
+[2] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : I fucking love it, does anyone have the lyrics, impossible to fucking find them?  (Original - French)
+    Original   : putain j'adore est ce que quelqu'un aurait les paroles impossible de les trouvez putain
+
+[3] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Gorgeous!!!! Damn I love it  (Original - French)
+    Original   : Magnifique!!!! Putain j'adore
+
+[4] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : Damn it's good.....,  (Original - French)
+    Original   : Putin qu'c'est bon .....,
+
+[5] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : FUCK............I love it  (Original - Portuguese)
+    Original   : PUTAIN.............J'adore
+

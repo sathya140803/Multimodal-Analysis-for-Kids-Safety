@@ -1,0 +1,1062 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-29 20:44:15
+Video ID  : ohoLzH9EQzg
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 642
+Total harmful found  : 163
+Texts translated     : 52
+Comment harm rate    : 25.5%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 1 analysed
+  Comments       : 163 harmful / 640 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.1%)
+    Safe prob  : 7.9%
+    Harm prob  : 92.1%
+    Text       : literally every time he starts to say "you can't keep doing shitty things" I think he's gonna say "he can't keep getting away with this"
+
+[2] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 71.4%)
+    Safe prob  : 28.6%
+    Harm prob  : 71.4%
+    Text       : The scene hits me in the heart because I have had this exact conversation with my girlfriend. Eventually I had to step away, not because we didn't love each other, but because she never changed. Only emotional apologies without change ever coming.
+
+[3] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : this is what i should have told my shitty roommate before he left
+
+[4] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : 'you need to be better' and then he still justifies his actions while 'apologising'. Fuck.
+
+[5] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : Bojack fucked up so bad Jessie Pinkman came out of Toad for a moment there.
+
+[6] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : What, no “bitch” or “yo”?
+
+[7] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.1%)
+    Safe prob  : 4.9%
+    Harm prob  : 95.1%
+    Text       : How do you stop being a Bojack
+
+[8] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : The CR community with the dev team currently:
+
+[9] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.4%)
+    Safe prob  : 2.6%
+    Harm prob  : 97.4%
+    Text       : I had an ex-friend who was so self-destructive she was also manipulative and pathetic. I wish I could have said this to her when we cut ties because she really did fuck a lot of people I cared about and me and she acts like we’re all at fault but her. I just wanna tell her all what Todd said. The wo
+
+[10] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.0%)
+    Safe prob  : 7.0%
+    Harm prob  : 93.0%
+    Text       : This part hit me hard and made me cry...
+All that is wrong in my life it's on me... I suck
+
+[11] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "You need to do better, just do better" tf is that weak ass shit trash dialogue LMAOOOOOOOOOOOOOOOOOOOO
+
+[12] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Its you.. bitch!
+
+[13] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 88.8%)
+    Safe prob  : 11.2%
+    Harm prob  : 88.8%
+    Text       : “Bojack Horseman is innocent 🤓” Todd was speaking facts, Bojack is just scummy
+
+[14] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : this is the best evangelion retrospecive i've ever watched
+
+[15] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Bisexuals are so disgusting that just mentioning them makes you want to puke, and they don’t exist, they’re just homosexuals and lesbians, nothing more.
+
+[16] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 81.5%)
+    Safe prob  : 18.5%
+    Harm prob  : 81.5%
+    Text       : Todd, I'm sorry, all right? I screwed up. I know I screwed up. I don't know why...
+ Oh, great! Of course! Here it comes! You can't keep doing this! You can't keep doing shitty things, and then feel bad about yourself like that makes it okay! You need to be better!
+I know. And I'm sorry, okay? I was 
+
+[17] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : And this is why Todd’s my favorite character. He’s a genuinely kind and thoughtful person who frequently was treated like shit by Bojack. And others for simply being himself. But here. He finally stood his ground. And told it like it is.
+
+[18] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Fuck  (Original - German)
+    Original   : Fuck
+
+[19] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : You know who needed to be better?  Todd!  Fuck Todd!
+
+[20] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : "You can't keep doing this! You can't keep doing shitty things and then feel bad about yourself like that makes it okay! You *need* to be better!"
+Every so often, when my shitty argumentative habits start to come crawling back to the surface and begin causing problems again, I come back to this vide
+
+[21] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.0%)
+    Safe prob  : 4.0%
+    Harm prob  : 96.0%
+    Text       : This shit just hurts
+
+[22] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.2%)
+    Safe prob  : 2.8%
+    Harm prob  : 97.2%
+    Text       : This monologue was so good I had to use it against my mentally abusive father
+
+[23] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : I did send this video to a (now former) friend who repeatedly went into a circle of shitty behaviour and apologizing afterwards.
+
+[24] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.1%)
+    Safe prob  : 10.9%
+    Harm prob  : 89.1%
+    Text       : Why cant i do it why why why why ehy i want to, i think i want to, then nothing changes, i have lost so much i have ruined so many things why cant i stop why am i so weak why cant i summon enough willpower to be better, am i just fucking doomed to live this way my entire life? I know the way i live 
+
+[25] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.5%)
+    Safe prob  : 8.6%
+    Harm prob  : 91.5%
+    Text       : Okay you're not supposed to really pick up on morals from this show because that really is not the point, but this has genuinely helped me learn how to hold myself accountable. I used to, and sometimes still struggle with being able to admit a lot of the fuckups I've made in life are my fault.
+
+[26] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : With invincible starts bitching about how ‘oh my dad literally beat me across the planet like a world tour’ or ‘they were  different versions of me’ or ‘I was literally trying my best *literally* are the one who killed your family’
+
+[27] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.4%)
+    Safe prob  : 4.6%
+    Harm prob  : 95.4%
+    Text       : "You can't keep doing shitty things, and then feel bad about yourself like that makes it okay. You need to be better"
+
+This dialauge part really explains my current situation and struggle... 
+fck...
+Sometimes people really wish to be better but they rather keep it that way... like dang man, just wow
+
+[28] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : sure i can  (Original - Italian)
+    Original   : sure i can
+
+[29] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Nigga all I can hear is Jesse pinkman talking, I know it’s the same actor I jus meant like the character itself lmao
+
+[30] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 84.0%)
+    Safe prob  : 16.0%
+    Harm prob  : 84.0%
+    Text       : This is the only show that I can think of truly giving me life lessons and it does multiple times.
+
+[31] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.1%)
+    Safe prob  : 0.9%
+    Harm prob  : 99.1%
+    Text       : You are all the things that are wrong with you. It's not the alcohol, or the drugs or any of the shitty things that happened to you in your career, or when you were a kid. It's you.
+
+[32] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : he reminds me of my ex cole
+
+[33] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : well shit Todd i dont know how to be better.
+
+[34] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.6%)
+    Safe prob  : 3.4%
+    Harm prob  : 96.6%
+    Text       : Bojack really needed to hear this but it definitely didn't sink in, sometimes shitty people are just shitty people and there's nothing they can blame but themselves
+
+[35] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.0%)
+    Safe prob  : 9.0%
+    Harm prob  : 91.0%
+    Text       : I keep watching this scene. I need a todd to tell me this to my face.
+
+[36] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 83.1%)
+    Safe prob  : 16.9%
+    Harm prob  : 83.1%
+    Text       : Todd nails it.  (Original - Welsh)
+    Original   : Todd nails it.
+
+[37] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.8%)
+    Safe prob  : 10.2%
+    Harm prob  : 89.8%
+    Text       : Sending this to my abusive fiancé who might be leaving me but I can't let go of. 😎👉👉
+
+[38] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.5%)
+    Safe prob  : 4.5%
+    Harm prob  : 95.5%
+    Text       : "You can't keep doing shitty things and then feel bad about it."
+
+Me after the tran community harassed people for Howarts legacy.
+
+[39] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : this was very sad
+
+[40] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : It's you Mr white you are the problem
+
+[41] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : Those are the words that someone should have told me earlier, not the show, but the people i hurt but non of them said
+This show actually made me think about myself, because when you almost the same as bj, you know that there is so much wrong with you
+
+[42] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : jesse pinkamn  (Original - Finnish)
+    Original   : jesse pinkamn
+
+[43] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.2%)
+    Safe prob  : 6.8%
+    Harm prob  : 93.2%
+    Text       : Lol. I just realized Jesse is voicing a character named after the dude responsible for his slavery and the death of his second girlfriend.
+
+[44] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : That's not how causality works. You are what your past makes you. Deal with it.
+
+[45] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : This clip is vicariously very satisfying and sad. It sucks when you want to say what Todd did. Self destructive people need to learn that eventually people get fed up and LEAVE.
+
+[46] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : fuck man....  (Original - Swedish)
+    Original   : fuck man....
+
+[47] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : "stop doing this. you cant keep doing this, you cant keep doing shitty things and then feel bad abt ur self like that would make it okay u need to be better!!."
+
+[48] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 71.0%)
+    Safe prob  : 29.0%
+    Harm prob  : 71.0%
+    Text       : And I’ve learned that it’s not enough to just accept that you’re all the the things that are wrong with you. If you know you are and you don’t do anything about it. You’re just as bad off.
+
+[49] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : 0:18 this is an underrated topic about this scene but I really love how Todd’s eye rolls and body language clearly indicates that he’s heard this excuse many times in the past before and is straight up done with Bojack’s crap
+
+[50] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.9%)
+    Safe prob  : 10.1%
+    Harm prob  : 89.9%
+    Text       : As someone whos struggled with self destructive behavior, this scene fucked me up so bad.
+
+[51] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : todd being so real
+
+[52] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : His “fuck” will always hit me the hardest.
+
+[53] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : 0:27-Those are the same words that I will tell Logan Thirtyachre because his videos are terrible and his channel is going to shit since the cease and desist letter from Nintendo
+
+[54] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.8%)
+    Safe prob  : 12.2%
+    Harm prob  : 87.8%
+    Text       : How do I send this to my boyfriend with him trying to murder me
+
+[55] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.7%)
+    Safe prob  : 13.3%
+    Harm prob  : 86.7%
+    Text       : This video was one of the things that help me in my worst place
+
+[56] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.5%)
+    Safe prob  : 3.5%
+    Harm prob  : 96.5%
+    Text       : being like todd is really peak humanity
+
+[57] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Alcohol is a drug, Todd you idiot  (Original - Welsh)
+    Original   : Alcohol is a drug, Todd you idiot
+
+[58] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.7%)
+    Safe prob  : 6.3%
+    Harm prob  : 93.7%
+    Text       : todd: you did terrible thing's bojack bojack horseman: but my childhood was sad todd: i miss the part where that's my problem
+
+[59] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 78.2%)
+    Safe prob  : 21.8%
+    Harm prob  : 78.2%
+    Text       : hearing this hurt.
+
+[60] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.7%)
+    Safe prob  : 3.3%
+    Harm prob  : 96.7%
+    Text       : I know when someone says fuck to Bojack it's the moment their relationship is permanently ruined. But given how Todd and Bojack talked in the last episode, their relationship might be the one exception.
+
+[61] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 96.2%)
+    Safe prob  : 3.8%
+    Harm prob  : 96.2%
+    Text       : Anyone with an addict in their life feels this on such a deep level. You excuse it a couple of times at the beginning but eventually it wears down on you and you finally snap and you’ve had enough of the bullshit.
+
+[62] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : Love this shit fr fr
+
+[63] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Lives in the horse’s house rent free like a bum - still complains #scumbagtodd
+
+[64] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.5%)
+    Safe prob  : 7.5%
+    Harm prob  : 92.5%
+    Text       : Recently I've been dealing with my mother's sister's shit (I'd rather eat shit than call her a sibling), and Everytime, every damn time that she fucks up, this scene comes to my mind... She wasted what could be a great, happy and successful life just for being too lazy to make an effort to leave her
+
+[65] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.9%)
+    Safe prob  : 9.1%
+    Harm prob  : 90.9%
+    Text       : no because i was todd, I have to keep telling this one person that they can't keep blaming me, or their other friends, the shit things they've done to us was their fault, not their parents, or us, it was them. And never feel like you shouldn't be able to tell a friend that, if they're a true friend 
+
+[66] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : Damn i needed to hear this.
+
+[67] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Fuck man... what else is there to say?
+
+[68] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.5%)
+    Safe prob  : 10.5%
+    Harm prob  : 89.5%
+    Text       : Whenever I feel down, I hit up this video to remember I deserve to feel down.
+
+[69] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : Damn. I can only hear Jesse and Walter lmao
+
+[70] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.1%)
+    Safe prob  : 9.9%
+    Harm prob  : 90.1%
+    Text       : this is legitimately my favourite scene. it hits so fucking hard
+
+[71] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.1%)
+    Safe prob  : 7.9%
+    Harm prob  : 92.1%
+    Text       : Man hearing Todd use the F word in this scene I was like damn.
+He’s serious😭
+
+[72] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : “You can’t keep doing shitty things and then feel bad about yourself like that makes it okay!”
+
+Really does hit home. Not on me though
+
+[73] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : damn this cut deep
+
+[74] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.0%)
+    Safe prob  : 3.0%
+    Harm prob  : 97.0%
+    Text       : Goddamnit why does this show know what my brain says to me every day.
+
+[75] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.6%)
+    Safe prob  : 7.4%
+    Harm prob  : 92.6%
+    Text       : In this moment, Todd went from being the immature goofball to being the only adult in the room.
+
+[76] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.0%)
+    Safe prob  : 8.9%
+    Harm prob  : 91.0%
+    Text       : Wish i could say this to my drug addict sister. She asks us “why do you care so much?”, do you want us to suffer when you overdose? How can you not see the pain you put through your family? Youre acting so selfish and then you say youre the victim all the time. You say you want us to care but when w
+
+[77] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : "You are all the things that are wrong with you"
+
+[78] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.5%)
+    Safe prob  : 0.5%
+    Harm prob  : 99.5%
+    Text       : real  (Original - Romanian)
+    Original   : real
+
+[79] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : good guy wins  (Original - Slovak)
+    Original   : bravo vince
+
+[80] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Ohhhh fuck here I am again.
+
+[81] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "Fuck, man.  What else is there to say?"
+
+[82] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.4%)
+    Safe prob  : 8.6%
+    Harm prob  : 91.4%
+    Text       : Friend of mine quoted this speech after I fucked up and I only realised now that she was quoting lines from this show. She was a good friend.
+
+[83] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.1%)
+    Safe prob  : 4.9%
+    Harm prob  : 95.1%
+    Text       : this scene was so satisfying for me to watch. I was tired of todd putting up with bojack's bullshit and it was so nice to finally see him say that this time was too far.
+
+[84] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.9%)
+    Safe prob  : 5.1%
+    Harm prob  : 94.9%
+    Text       : Jesse i have become a fucking horse
+
+[85] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.8%)
+    Safe prob  : 5.2%
+    Harm prob  : 94.8%
+    Text       : This show actually kind of helped me realize I am a shitty person and that I need to do better
+
+[86] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.4%)
+    Safe prob  : 9.6%
+    Harm prob  : 90.4%
+    Text       : Best character.
+
+[87] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.9%)
+    Safe prob  : 7.1%
+    Harm prob  : 92.9%
+    Text       : You know things are messed up when you relate to Bojack Horseman. I’m trying to stop breaking down in tears whenever I’m criticized. I was in the middle of apologizing to a friend when I remembered this scene. Damn.
+
+[88] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : The Fact Todd Never Forgave Bojack And Became Friends With Him Again Makes This Scene Even Better. He Had Enough With Bojacks Crap.
+
+[89] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.5%)
+    Safe prob  : 5.5%
+    Harm prob  : 94.5%
+    Text       : I've been ramping up to this moment from the first episode, but what the hell was that? The last straw for Todd was...Bojack having consensual sex with a woman who was NOT dating Todd? He even gave Todd the opportunity to sleep with Emily. Obviously, he didn't want to sleep with her, but he still li
+
+[90] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.2%)
+    Safe prob  : 5.8%
+    Harm prob  : 94.2%
+    Text       : This is one of the scenes I think of when my moms drunk. She’s asleep at the table but man…
+
+[91] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.1%)
+    Safe prob  : 2.9%
+    Harm prob  : 97.1%
+    Text       : This scene really hits me because I could relate to it. I dislike Bojack not because of the show but because he reminds me of me. A piece of shit who hurts and gaslights people, says sorry with tears, blaming everyone but himself, says he’ll be better only to go back to square one. I’ve had people c
+
+[92] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : what episode
+
+[93] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : When the goddamn comic relief points out how much of an asshole you are, that's probably a good sign you should get help about your many issues.
+
+[94] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Bro what the fuck is wrong yesterday they werent saying this
+
+[95] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : Reddit  (Original - Welsh)
+    Original   : Reddit
+
+[96] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.1%
+    Harm prob  : 98.0%
+    Text       : this is what i’m gonna tell my dad when he gets out of jail
+
+[97] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.0%)
+    Safe prob  : 10.9%
+    Harm prob  : 89.0%
+    Text       : It’s sad to say I’ve never watched this show but when I saw this part on Instagram I had to google the entire scene. I dealt with this girl that would try to absolve her shitty behavior with apologies and bringing up old things to appear a victim saying she’s striving to be better but her actions pr
+
+[98] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.2%)
+    Safe prob  : 1.8%
+    Harm prob  : 98.2%
+    Text       : I wish Beatrice got this callout at some point. 
+
+She had it coming and it never happened because the show wants you to feel sorry for her soon as Time's Arrow happens.
+
+Butterscotch's death is played off like a joke and he never grows past being a 1-dimensional piece of shit, but Beatrice it given 
+
+[99] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.1%
+    Harm prob  : 99.0%
+    Text       : ugh i love todd  (Original - Croatian)
+    Original   : ugh i love todd
+
+[100] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : “Fuck man, what else is there to say” was so shocking to hear from Todd.
+
+[101] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "You are all the things that are wrong with you"
+
+Fucking-A, I literally took a hard look at myself when I first saw this episode
+
+[102] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.7%)
+    Safe prob  : 1.3%
+    Harm prob  : 98.7%
+    Text       : i think an alarming amount of people in the a silent voice community should watch this clip honestly
+
+[103] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : It's you, ok?
+
+It's you.
+
+
+Bitch.
+
+[104] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 94.4%)
+    Safe prob  : 5.6%
+    Harm prob  : 94.4%
+    Text       : i often listen to this until i cry whenever i screw up. somehow it works to make me get my shit together
+
+[105] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.0%)
+    Safe prob  : 10.0%
+    Harm prob  : 90.0%
+    Text       : when i first watched this scene, it didn't even feel like todd was talking to bojack, but rather the audience, the people watching, and something about these lines just hit me so hard in the gut i just,, it's so hard to realize you're in a self destructive cycle until someone points it out and this 
+
+[106] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : jesse  (Original - Finnish)
+    Original   : jesse
+
+[107] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.3%)
+    Safe prob  : 13.7%
+    Harm prob  : 86.3%
+    Text       : I always come back to this video whenever I screw up and feel like garbage. It always motivates me
+ to be better.
+
+Edit / 2/21/24 
+Crap im back
+
+[108] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : dude the completely sober just "fuck what else is there to say." HITS
+
+[109] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : It’s been said that when the word fuck is used in this show, it’s when Bojack really messes things up with a relationship, so damn.
+
+[110] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Fuck man, this hits too close to home
+
+[111] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : Every time I see this, I want to just say everything to this guy who makes great content on YouTube, but will argue with and bully anyone that he considers stupid. And he blames it all on other people and other things.
+
+[112] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : Is this show victim shaming now? How the heck everything that happened with him isn't the reason he is right now? That makes no sense. That's like telling people who had shitty childhood and lives that they have to be better even though their lives are shitty and that it was all their fault. Fucking
+
+[113] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 89.6%)
+    Safe prob  : 10.4%
+    Harm prob  : 89.6%
+    Text       : i wanna send this to my mom to wake her up from her alcoholism and do better in life i don’t wanna be at her aid or in her debt for the rest of my life she needs to be responsible and take a hold of her life it’s been too long i want her to be happy again
+
+[114] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.3%)
+    Safe prob  : 1.7%
+    Harm prob  : 98.3%
+    Text       : You're right. It is me. I'm never gonna be better because I am a bad person. I can exercise and go to AA and put myself in uncomfortable situations on behalf of others, but nothing is going to change that. Once you realise how awful you are you can't change it. The reason you want so desperately to 
+
+[115] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.1%)
+    Safe prob  : 7.9%
+    Harm prob  : 92.1%
+    Text       : You are all the things that are wrong with you I said that to my dad 3 weeks ago and ever since then he stopped talking to me and according to my mom he keeps saying those words to himself over and over again because he knows I was right.
+
+[116] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : Fuck.
+I’m honestly like Bojack when it comes to this stuff sometimes. I make stupid mistakes because I don’t think before I talk and it ends up with people being mad at me and I don’t even realize what I did until later, but before that I get mad at the other person/s for being mad at me even though
+
+[117] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : You can't keep doing this! You can't keep doing shitty things and then feel bad about yourself like that makes it okay! You need to be better! BoJack, just stop. You are all the things that are wrong with you. It's not the alcohol, or the drugs, or any of the shitty things that happened to you in yo
+
+[118] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : "You are all the things that are wrong with you. It's not the alcohol, or the drugs, or any of the shit that happened in your career or your childhood. It's you. Got it? It's you."  (Original - Portuguese)
+    Original   : "Você é todas as coisas que estão erradas com você. Não é o álcool, ou as drogas, ou nenhuma das merdas que aconteceram na sua carreira ou sua infância. É você. Entendeu? É você."
+
+[119] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.5%)
+    Safe prob  : 2.5%
+    Harm prob  : 97.5%
+    Text       : this clip just sums up me and my mum but i've never told her off but its bound to happen one of these days
+
+[120] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 91.6%)
+    Safe prob  : 8.4%
+    Harm prob  : 91.6%
+    Text       : I just broke up with my girlfriend and this is what came to mind. She blames her attitudes on how her family raised her but... It's her. She's the one who makes the choice to continue on making those decisions, she's the one who chooses to perpetuate that cycle. Man, i hope she'll realize...
+
+[121] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Oh great of course here it comes you can’t keep doing this you can’t keep doing shitty things and then feel bad about yourself like that makes it OK you need to be better no no  bojack just stop you are all the things are wrong with you it’s not the alcohol or the drugs or any of the shitty things h
+
+[122] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.8%)
+    Safe prob  : 4.2%
+    Harm prob  : 95.8%
+    Text       : gf left me seance hits hard now
+
+[123] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Funny thing about the show for me, i never pay much attention for Todd, when i saw this scene multiple times cuz was stuck with me i was like: "oh shit.... the voice acting is fucking good, is that that dude from breaking bad? FUCK IS AARON PAUL"
+fuck, i want soo badly to see the raw fottage from th
+
+[124] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : “you are all the things that are wrong with you” is seriously a punch to the gut no matter how many times i watch this scene
+
+[125] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Oh, great! Of course! Here it comes! You can't keep doing this. You can't keep doing shitty things and then feel bad about yourself, like that makes it ok. You need to be better. No. No, Bojack, just stop. You are all the things that are wrong with you. It's not the alcohol, or the drugs, or any of 
+
+[126] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : god this hurts
+
+[127] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.0%)
+    Safe prob  : 7.0%
+    Harm prob  : 93.0%
+    Text       : everybody gangsta till todd gets pissed  (Original - Swedish)
+    Original   : everybody gangsta till todd gets pissed
+
+[128] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.2%)
+    Safe prob  : 7.8%
+    Harm prob  : 92.2%
+    Text       : How does one become better? 
+
+“Long is the way and hard, that out of hell leads up to light.”
+
+[129] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : yeah bojack is not a good person just saying
+
+[130] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.2%)
+    Safe prob  : 0.8%
+    Harm prob  : 99.2%
+    Text       : so me omg  (Original - Norwegian)
+    Original   : so me omg
+
+[131] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Jesse what the fuck are you talking about
+
+[132] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.6%)
+    Safe prob  : 12.4%
+    Harm prob  : 87.6%
+    Text       : I've been through a a weird alternate version of this scene. I have always been a total fuckup and a complete piece of shit. I've never wronged anybody quite like Bojack because I'm very susceptible to guilt so I basically just let people walk all over me if they wanted. But I'm a walking disappoint
+
+[133] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : i see todd but i hear jesse pinkman  (Original - Norwegian)
+    Original   : i see todd but i hear jesse pinkman
+
+[134] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : Can't believe that some cartoon about a non-existent horse celebrity gets more real than reality TV. 
+
+It always gets me when Todd says at the end 'fuck, man... What else is there to say?' It's like he's so tired and bored to see Bojack behave so destructively time and time again, but is still disap
+
+[135] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.0%)
+    Safe prob  : 2.0%
+    Harm prob  : 98.0%
+    Text       : Each season says fuck once to emphasize it. This was the fuck for this season and it's perfect. The way Todd says it like he's exhausted trying to help Bojack. The writing on this show is amazing, as well as the voice acting.
+
+[136] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.6%)
+    Safe prob  : 2.4%
+    Harm prob  : 97.6%
+    Text       : What he did with todd in s1 is not good but same time he loves todd.. but if you love someone that doesn't mean you do shityy things  with him.. so bojack you are just immature person who needs to grow up..
+
+[137] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : i come back to this every now and then to remind myself that i choose to be this way
+
+[138] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.1%)
+    Safe prob  : 1.9%
+    Harm prob  : 98.1%
+    Text       : I fucked up. I fucked it up with the girl of my dreams. And it’s entirely on me. Being drunk doesn’t matter. it’s me. I have to change. I have to be better.
+
+[139] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.8%)
+    Safe prob  : 6.2%
+    Harm prob  : 93.8%
+    Text       : "You can't keep doing shitty things and then feel bad about yourself like that makes it ok" I wonder how many times Boogie2988 has heard that?
+
+[140] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.8%)
+    Safe prob  : 1.2%
+    Harm prob  : 98.8%
+    Text       : The most realist shit I ever heard, everytime I hear Todd say that it makes me think of myself like he is telling me that.
+
+[141] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 76.6%)
+    Safe prob  : 23.4%
+    Harm prob  : 76.6%
+    Text       : This part hit me really hard. I always think of it when I reflect on my actions and on the actions of people around me. We all need to be better and all the bad things we do is just our fault.
+
+[142] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : this hits home
+
+[143] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : its me man
+
+[144] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 87.9%)
+    Safe prob  : 12.1%
+    Harm prob  : 87.9%
+    Text       : This scene has resonated with me in light of recent events with my dad. He had a shitty childhood but he refused to help himself out, instead he resorted to self pity like Bojack and blamed all his issues on his childhood. I recently thought about this again after having a conversation with my mom.
+
+[145] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : so many chills
+
+[146] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : episode  (Original - Slovenian)
+    Original   : episode
+
+[147] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 93.6%)
+    Safe prob  : 6.4%
+    Harm prob  : 93.6%
+    Text       : "You can't keep doing shitty things and then feel bad about yourself like that makes it ok. You need to be better!"
+Boogie2988 in a nutshell.
+
+[148] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 97.9%)
+    Safe prob  : 2.1%
+    Harm prob  : 97.9%
+    Text       : I keep coming back to this video to slap me back into reality and get shit done
+
+[149] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.4%)
+    Safe prob  : 1.6%
+    Harm prob  : 98.4%
+    Text       : whatever jesse
+
+[150] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : I think the thing that gets to me the most is Todd's exasperated fuck man what else is there to say.
+
+[151] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 98.5%)
+    Safe prob  : 1.5%
+    Harm prob  : 98.5%
+    Text       : this is my religion
+
+[152] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 92.0%)
+    Safe prob  : 8.0%
+    Harm prob  : 92.0%
+    Text       : You have no idea how many times I've sent this to people. It's insane that a show about a cartoon human-horse is just so goddamn real life.
+
+[153] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : First Aaron Paul played a junkie who matured into something more by season 3 and now Aaron Paul played a loveable idiot who briefly becomes the voice of reason by season 3
+
+[154] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 86.9%)
+    Safe prob  : 13.1%
+    Harm prob  : 86.9%
+    Text       : "You can't just say something, shitty to someone, then say that you only said it because you were upset, like that makes it okay! You need to be better!"
+
+I know that isn't what Todd said and that it has nothing to do with what happened in the show. But it's some advice that's just as hard to take b
+
+[155] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.7%)
+    Safe prob  : 14.3%
+    Harm prob  : 85.7%
+    Text       : First time I saw this scene, I was going through a really rough time. I watched it again. And again. And again. And again.
+
+The next week, I set up my first therapy session.
+
+[156] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : Fuck, man... the amount of emotional exhaustion Tod must be feeling in this moment...
+
+[157] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Oh great, of course! Here it comes! You can't keep doing this! You can't keep doing shitty things and then feel bad about yourself like that makes it okay! You need to be better!'
+No! No. BoJack, just... stop. You are all the things that are wrong with you. It's not the alcohol or the drugs or any o
+
+[158] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.7%)
+    Safe prob  : 0.3%
+    Harm prob  : 99.7%
+    Text       : You can't keep doing shitty things, and then feel bad about yourself like that makes it okay! You need to be better
+
+No! No, Bojack, just stop
+You are all the things that are wrong with you, it's not the alcohol,  or the drugs, or any the shitty things that happened to you in your career, or when yo
+
+[159] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : I’m wating a bitch
+
+[160] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : "Fuck, man."
+That F word from Aaron Paul (Todd) hit me real hard.
+
+[161] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 95.3%)
+    Safe prob  : 4.7%
+    Harm prob  : 95.3%
+    Text       : When tod says "You cant keep doig shitty things and then feel bad about yourself" that shit hurts
+
+[162] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 85.2%)
+    Safe prob  : 14.8%
+    Harm prob  : 85.2%
+    Text       : When Bojack put his ears back and looks down....I cry on the inside...
+
+[163] Source     : COMMENTS
+    Verdict    : HARMFUL  (confidence: 90.3%)
+    Safe prob  : 9.7%
+    Harm prob  : 90.3%
+    Text       : Had to have one of these talks with a close friend recently. It's hard but it needs to be said. Everyone has a breaking point.
+

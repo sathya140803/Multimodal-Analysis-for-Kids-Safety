@@ -1,0 +1,415 @@
+{
+    "video_id": "Gab-COCymsQ",
+    "final_verdict": "UNSAFE",
+    "total_texts_analysed": 30,
+    "total_harmful": 5,
+    "comment_harm_pct": 21.05,
+    "translated_texts": 28,
+    "per_source": {
+        "title": {
+            "analysed": 1,
+            "harmful": 1
+        },
+        "description": {
+            "analysed": 10,
+            "harmful": 0
+        },
+        "transcript": {
+            "analysed": 0,
+            "harmful": 0
+        },
+        "comments": {
+            "analysed": 19,
+            "harmful": 4
+        }
+    },
+    "harmful_texts": [
+        {
+            "source": "title",
+            "original_text": "CACHEMIRE - SESSION ACOUSTIQUE Putain j'ai peur #65/2",
+            "was_translated": true,
+            "original_language": "Finnish",
+            "translated_text": "CASHMERE - ACOUSTIC SESSION Damn I'm scared #65/2",
+            "verdict": "HARMFUL",
+            "confidence": 0.993,
+            "safe_prob": 0.007,
+            "harmful_prob": 0.993
+        },
+        {
+            "source": "comments",
+            "original_text": "putain j'adore est ce que quelqu'un aurait les paroles impossible de les trouvez putain",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "I fucking love it, does anyone have the lyrics, impossible to fucking find them?",
+            "verdict": "HARMFUL",
+            "confidence": 0.9912,
+            "safe_prob": 0.0088,
+            "harmful_prob": 0.9912
+        },
+        {
+            "source": "comments",
+            "original_text": "Magnifique!!!! Putain j'adore",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Gorgeous!!!! Damn I love it",
+            "verdict": "HARMFUL",
+            "confidence": 0.9928,
+            "safe_prob": 0.0072,
+            "harmful_prob": 0.9928
+        },
+        {
+            "source": "comments",
+            "original_text": "Putin qu'c'est bon .....,",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Damn it's good.....,",
+            "verdict": "HARMFUL",
+            "confidence": 0.9937,
+            "safe_prob": 0.0063,
+            "harmful_prob": 0.9937
+        },
+        {
+            "source": "comments",
+            "original_text": "PUTAIN.............J'adore",
+            "was_translated": true,
+            "original_language": "Portuguese",
+            "translated_text": "FUCK............I love it",
+            "verdict": "HARMFUL",
+            "confidence": 0.9969,
+            "safe_prob": 0.0031,
+            "harmful_prob": 0.9969
+        }
+    ],
+    "all_results": [
+        {
+            "source": "title",
+            "original_text": "CACHEMIRE - SESSION ACOUSTIQUE Putain j'ai peur #65/2",
+            "was_translated": true,
+            "original_language": "Finnish",
+            "translated_text": "CASHMERE - ACOUSTIC SESSION Damn I'm scared #65/2",
+            "verdict": "HARMFUL",
+            "confidence": 0.993,
+            "safe_prob": 0.007,
+            "harmful_prob": 0.993
+        },
+        {
+            "source": "description",
+            "original_text": "La session acoustique intégrale sans interview!...",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "The full acoustic session without interviews!...",
+            "verdict": "SAFE",
+            "confidence": 0.9971,
+            "safe_prob": 0.9971,
+            "harmful_prob": 0.0029
+        },
+        {
+            "source": "description",
+            "original_text": "Quatre enragés Nantais produisant un rock’n’roll pur !",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Four mad people from Nantes producing pure rock’n’roll!",
+            "verdict": "SAFE",
+            "confidence": 0.9694,
+            "safe_prob": 0.9694,
+            "harmful_prob": 0.0306
+        },
+        {
+            "source": "description",
+            "original_text": "mélodique et énergique !",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "melodic and energetic!",
+            "verdict": "SAFE",
+            "confidence": 0.9919,
+            "safe_prob": 0.9919,
+            "harmful_prob": 0.0081
+        },
+        {
+            "source": "description",
+            "original_text": "C'est ainsi que se présente Cachemire...",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "This is how Kashmir presents itself...",
+            "verdict": "SAFE",
+            "confidence": 0.9826,
+            "safe_prob": 0.9826,
+            "harmful_prob": 0.0174
+        },
+        {
+            "source": "description",
+            "original_text": "Cet été, le groupe a proposé un show case acoustique dans l'Espace Partenaires du Festival de Poupet; C'était l'occasion pour du SON dans mon SALON de retrouver son chanteur, Freddy, dans le magic mirror...",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "This summer, the group offered an acoustic show case in the Partners Space of the Poupet Festival; It was the opportunity for SOUND in my LIVING ROOM to find its singer, Freddy, in the magic mirror...",
+            "verdict": "SAFE",
+            "confidence": 0.9955,
+            "safe_prob": 0.9955,
+            "harmful_prob": 0.0045
+        },
+        {
+            "source": "description",
+            "original_text": "Seul, accompagné de sa guitare, il dévoile le titre \"Putain j'ai peur\", intimiste et plus calme que l'ensemble de leur dernier album \"Photochope-moi\"...",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Alone, accompanied by his guitar, he reveals the title \"Putain j'ai Fear\", intimate and calmer than the whole of their last album \"Photochope-moi\"...",
+            "verdict": "SAFE",
+            "confidence": 0.9961,
+            "safe_prob": 0.9961,
+            "harmful_prob": 0.0039
+        },
+        {
+            "source": "description",
+            "original_text": "Merci aux artistes, au festival pour son soutien aux nouveaux talents, aux partenaires, aux bénévoles de l'Espace Partenaires, aux techniciens,...",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Thank you to the artists, to the festival for its support of new talents, to the partners, to the volunteers of the Partner Space, to the technicians,...",
+            "verdict": "SAFE",
+            "confidence": 0.9965,
+            "safe_prob": 0.9965,
+            "harmful_prob": 0.0035
+        },
+        {
+            "source": "description",
+            "original_text": "Merci à Laurent Charliot \nUn merci particulier à Jean-Marie, Erwan, Luc, Didier, Jean-Charles, Guillaume, Maxime, Simon, Athena,...",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Thanks to Laurent Charliot \nA special thank you to Jean-Marie, Erwan, Luc, Didier, Jean-Charles, Guillaume, Maxime, Simon, Athena,...",
+            "verdict": "SAFE",
+            "confidence": 0.9975,
+            "safe_prob": 0.9975,
+            "harmful_prob": 0.0025
+        },
+        {
+            "source": "description",
+            "original_text": "Cachemire : https://www.facebook.com/cachemiremusic/?fref=ts\n\ndu SON dans mon SALON : https://www.facebook.com/du-SON-dans-mon-SALON-968971889803700/?fref=ts\n\nRetrouvez l'interview de Cachemire sur cette chaîne et sur la page FB du SON dans mon SALON!",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Cashmere: https://www.facebook.com/cachemiremusic/?fref=ts\n\nSOUND in my LIVING ROOM: https://www.facebook.com/du-SON-dans-mon-SALON-968971889803700/?fref=ts\n\nFind Cachemire's interview on this channel and on the SON FB page in my LIVING ROOM!",
+            "verdict": "SAFE",
+            "confidence": 0.9964,
+            "safe_prob": 0.9964,
+            "harmful_prob": 0.0036
+        },
+        {
+            "source": "description",
+            "original_text": "image et son : Jean-Philippe Boisumeau / Jean-Charles Briffaud / Guillaume Gaborieau\nmixage : Denis Piednoir \nréalisation et production : Jean-Philippe Boisumeau\n#festivaldepoupet #session #acoustic #interview #cachemire",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "image and sound: Jean-Philippe Boisumeau / Jean-Charles Briffaud / Guillaume Gaborieau\nmixing: Denis Piednoir \ndirection and production: Jean-Philippe Boisumeau\n#festivaldepoupet #session #acoustic #interview #cachemire",
+            "verdict": "SAFE",
+            "confidence": 0.9969,
+            "safe_prob": 0.9969,
+            "harmful_prob": 0.0031
+        },
+        {
+            "source": "comments",
+            "original_text": "Dommage tu ne la joueras pas au Zik Zak  le 4 avrli elle est tellement sublime",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Too bad you won't play her at Zik Zak on April 4, she's so sublime",
+            "verdict": "SAFE",
+            "confidence": 0.9768,
+            "safe_prob": 0.9768,
+            "harmful_prob": 0.0232
+        },
+        {
+            "source": "comments",
+            "original_text": "Bonjour, je suis en train de réaliser un reportage sur Cachemire. M'autorisez-vous à utiliser cette vidéo svp ?",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Hello, I am producing a report on Kashmir. Do you allow me to use this video please?",
+            "verdict": "SAFE",
+            "confidence": 0.9971,
+            "safe_prob": 0.9971,
+            "harmful_prob": 0.0029
+        },
+        {
+            "source": "comments",
+            "original_text": "Sublime.....",
+            "was_translated": true,
+            "original_language": "Albanian",
+            "translated_text": "Sublime.....",
+            "verdict": "SAFE",
+            "confidence": 0.8742,
+            "safe_prob": 0.8742,
+            "harmful_prob": 0.1258
+        },
+        {
+            "source": "comments",
+            "original_text": "Magnifique et chanté avec beaucoup d'émotions.",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Magnificent and sung with great emotion.",
+            "verdict": "SAFE",
+            "confidence": 0.9969,
+            "safe_prob": 0.9969,
+            "harmful_prob": 0.0031
+        },
+        {
+            "source": "comments",
+            "original_text": "quelle surprise et quelle émotion .......tu fais fort !",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "what a surprise and what emotion.......you're doing great!",
+            "verdict": "SAFE",
+            "confidence": 0.9948,
+            "safe_prob": 0.9948,
+            "harmful_prob": 0.0052
+        },
+        {
+            "source": "comments",
+            "original_text": "Cette chanson est juste sublime. Bravo pour la session acoustique.",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "This song is just sublime. Bravo for the acoustic session.",
+            "verdict": "SAFE",
+            "confidence": 0.9964,
+            "safe_prob": 0.9964,
+            "harmful_prob": 0.0036
+        },
+        {
+            "source": "comments",
+            "original_text": "excellent encore bravo",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "excellent again well done",
+            "verdict": "SAFE",
+            "confidence": 0.8621,
+            "safe_prob": 0.8621,
+            "harmful_prob": 0.1379
+        },
+        {
+            "source": "comments",
+            "original_text": "Putain ... trop beau j'adore, rien à dire de plus mes larmes arrivent",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Damn...so beautiful I love it, nothing more to say, my tears are coming",
+            "verdict": "SAFE",
+            "confidence": 0.9261,
+            "safe_prob": 0.9261,
+            "harmful_prob": 0.0739
+        },
+        {
+            "source": "comments",
+            "original_text": "Putain moi aussi j'adore.....",
+            "was_translated": true,
+            "original_language": "Finnish",
+            "translated_text": "Damn, I love it too...",
+            "verdict": "SAFE",
+            "confidence": 0.9724,
+            "safe_prob": 0.9724,
+            "harmful_prob": 0.0276
+        },
+        {
+            "source": "comments",
+            "original_text": "putain j'adore est ce que quelqu'un aurait les paroles impossible de les trouvez putain",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "I fucking love it, does anyone have the lyrics, impossible to fucking find them?",
+            "verdict": "HARMFUL",
+            "confidence": 0.9912,
+            "safe_prob": 0.0088,
+            "harmful_prob": 0.9912
+        },
+        {
+            "source": "comments",
+            "original_text": "Magnifique!!!! Putain j'adore",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Gorgeous!!!! Damn I love it",
+            "verdict": "HARMFUL",
+            "confidence": 0.9928,
+            "safe_prob": 0.0072,
+            "harmful_prob": 0.9928
+        },
+        {
+            "source": "comments",
+            "original_text": "Putin qu'c'est bon .....,",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Damn it's good.....,",
+            "verdict": "HARMFUL",
+            "confidence": 0.9937,
+            "safe_prob": 0.0063,
+            "harmful_prob": 0.9937
+        },
+        {
+            "source": "comments",
+            "original_text": "J'M  T bon :)",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9272,
+            "safe_prob": 0.9272,
+            "harmful_prob": 0.0728
+        },
+        {
+            "source": "comments",
+            "original_text": "est-ce le Cabaret Sauvage ?",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "is this Cabaret Sauvage?",
+            "verdict": "SAFE",
+            "confidence": 0.9962,
+            "safe_prob": 0.9962,
+            "harmful_prob": 0.0038
+        },
+        {
+            "source": "comments",
+            "original_text": "PUTAIN.............J'adore",
+            "was_translated": true,
+            "original_language": "Portuguese",
+            "translated_text": "FUCK............I love it",
+            "verdict": "HARMFUL",
+            "confidence": 0.9969,
+            "safe_prob": 0.0031,
+            "harmful_prob": 0.9969
+        },
+        {
+            "source": "comments",
+            "original_text": "Superbe.Ne changez rien. J'attend le nouvel opus et on vous attend quand vous voulez sur Genève.",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Superb. Don't change anything. I'm waiting for the new opus and we'll be waiting for you whenever you want in Geneva.",
+            "verdict": "SAFE",
+            "confidence": 0.9948,
+            "safe_prob": 0.9948,
+            "harmful_prob": 0.0052
+        },
+        {
+            "source": "comments",
+            "original_text": ";-)",
+            "was_translated": false,
+            "original_language": "English",
+            "translated_text": null,
+            "verdict": "SAFE",
+            "confidence": 0.9611,
+            "safe_prob": 0.9611,
+            "harmful_prob": 0.0389
+        },
+        {
+            "source": "comments",
+            "original_text": "Magnifique! Frissons garantis!",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Gorgeous! Thrills guaranteed!",
+            "verdict": "SAFE",
+            "confidence": 0.9962,
+            "safe_prob": 0.9962,
+            "harmful_prob": 0.0038
+        },
+        {
+            "source": "comments",
+            "original_text": "Belle voix !",
+            "was_translated": true,
+            "original_language": "French",
+            "translated_text": "Beautiful voice!",
+            "verdict": "SAFE",
+            "confidence": 0.9965,
+            "safe_prob": 0.9965,
+            "harmful_prob": 0.0035
+        }
+    ]
+}

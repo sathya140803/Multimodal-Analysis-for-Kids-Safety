@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtering Results | Safety Analysis</title>
+    <style>
+        :root {
+            --bg-color: #f0f2f5;
+            --card-bg: #ffffff;
+            --primary: #1a4d7a;
+            --safe-color: #28a745;
+            --safe-bg: #e6f4ea;
+            --unsafe-color: #dc3545;
+            --unsafe-bg: #fce8e8;
+            --neutral-color: #6c757d;
+            --neutral-bg: #f1f3f4;
+            --action-blue: #17a2b8;
+            --action-dark: #dc3545;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 40px 20px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container { width: 100%; max-width: 700px; }
+        h1 { color: var(--primary); font-size: 2rem; margin-bottom: 8px; text-align: center; font-weight: 800; }
+        .subtitle { color: #666; text-align: center; margin-bottom: 30px; font-size: 1.1rem; }
+
+        .results-stack {
+            background: var(--card-bg);
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            overflow: hidden;
+            border: 1px solid #e1e4e8;
+        }
+
+        .result-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 22px 30px;
+            border-bottom: 1px solid #f0f2f5;
+        }
+
+        .modality-label {
+            font-weight: 600;
+            color: #333;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .badge {
+            padding: 8px 16px;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border: 1px solid transparent;
+        }
+
+        .safe     { background-color: var(--safe-bg);    color: var(--safe-color);    border-color: var(--safe-color); }
+        .unsafe   { background-color: var(--unsafe-bg);  color: var(--unsafe-color);  border-color: var(--unsafe-color); }
+        .skipped  { background-color: #f1f3f4;           color: #6c757d;              border-color: #adb5bd; }
+        .errored  { background-color: #fff3cd;           color: #856404;              border-color: #ffc107; }
+
+        .btn-details {
+            background: none;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            padding: 5px 14px;
+            font-size: 0.8rem;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.2s;
+            margin-left: 10px;
+        }
+        .btn-details:hover { border-color: var(--primary); color: var(--primary); }
+        .btn-details:disabled { opacity: 0.4; cursor: default; }
+
+        .details-panel {
+            display: none;
+            padding: 0 30px 20px;
+            border-bottom: 1px solid #f0f2f5;
+            background: #fafbfc;
+        }
+        .details-panel.open { display: block; }
+
+        .details-section-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: #999;
+            margin: 18px 0 10px;
+        }
+
+        .detail-stat {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.88rem;
+            color: #555;
+            padding: 4px 0;
+            border-bottom: 1px dashed #eee;
+        }
+
+        .harmful-item {
+            background: var(--unsafe-bg);
+            border: 1px solid #f5c2c7;
+            border-radius: 8px;
+            padding: 10px 14px;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+        }
+        .hi-meta  { display: flex; justify-content: space-between; margin-bottom: 5px; }
+        .hi-source { font-weight: 700; text-transform: uppercase; color: var(--unsafe-color); font-size: 0.72rem; }
+        .hi-conf  { color: #888; font-size: 0.75rem; }
+        .hi-text  { color: #333; font-style: italic; line-height: 1.4; }
+
+        .timestamp-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--unsafe-bg);
+            border: 1px solid #f5c2c7;
+            border-radius: 6px;
+            padding: 5px 10px;
+            font-size: 0.82rem;
+            margin: 3px;
+        }
+        .ts-time { font-weight: 700; color: var(--unsafe-color); }
+        .ts-conf { color: #888; font-size: 0.75rem; }
+
+        .skipped-notice {
+            padding: 14px 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            color: #6c757d;
+            font-size: 0.88rem;
+            font-style: italic;
+            margin: 6px 0;
+        }
+
+        .error-notice {
+            padding: 14px 20px;
+            background: #fff3cd;
+            border-radius: 8px;
+            color: #856404;
+            font-size: 0.88rem;
+            margin: 6px 0;
+        }
+
+        .verdict-box {
+            background-color: #f8f9fa;
+            padding: 30px;
+            text-align: center;
+            border-top: 2px solid #eee;
+        }
+        .verdict-text { font-size: 1.8rem; font-weight: 900; }
+        .verdict-text.safe   { color: var(--safe-color); }
+        .verdict-text.unsafe { color: var(--unsafe-color); }
+
+        .cache-note {
+            background: #e8f4fd;
+            border: 1px solid #bee3f8;
+            border-radius: 8px;
+            padding: 10px 16px;
+            font-size: 0.85rem;
+            color: #2b6cb0;
+            margin-bottom: 18px;
+            text-align: center;
+        }
+
+        .btn-action {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            height: 48px;
+            width: 100%;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            border: none;
+        }
+        .view-video-btn { background-color: var(--action-blue); color: white; max-width: 220px; flex: 1; }
+        .block-btn      { background-color: var(--action-dark); color: white; flex: 1; max-width: 220px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Detect Harmful YouTube Content</h1>
+    <p class="subtitle">Analysis Summary</p>
+
+    {% if from_cache %}
+    <div class="cache-note">
+         Results loaded from cache (analysed on {{ cached_at }})
+    </div>
+    {% endif %}
+
+    <!-- ── Video info card ── -->
+    <div style="background:white; border-radius:12px; border:1px solid #e1e4e8; padding:20px; margin-bottom:20px; display:flex; gap:20px; box-shadow:0 4px 10px rgba(0,0,0,0.04);">
+        {% if video.thumbnail %}
+            <img src="{{ video.thumbnail }}" style="width:140px; border-radius:8px; flex-shrink:0;" alt="Thumbnail">
+        {% endif %}
+        <div style="text-align:left;">
+            <h3 style="margin:0 0 6px; color:#1a4d7a;">{{ video.title }}</h3>
+            <p style="margin:0; color:#666; font-size:0.9rem;">
+                {{ video.channel }}
+                {% if video.duration %} &nbsp;·&nbsp; {{ video.duration }}{% endif %}
+            </p>
+        </div>
+    </div>
+
+    <div class="results-stack">
+
+        <!-- ══════════════════════════════════════════════
+             VIDEO MODALITY
+        ══════════════════════════════════════════════ -->
+        <div class="result-row">
+            <span class="modality-label">🎬 Video Analysis</span>
+            <div>
+                {% if 'Video' not in selected_modes %}
+                    <span class="badge skipped">Not Selected</span>
+                {% elif results.video is none or results.video.verdict == 'ERROR' %}
+                    <span class="badge errored">Error</span>
+                    <button class="btn-details" onclick="toggleDetails('v-det')">▼ Details</button>
+                {% else %}
+                    <span class="badge {{ 'unsafe' if results.video.score is not none and results.video.score > 0.20 else 'safe' }}">
+                        {{ 'Flagged' if results.video.score is not none and results.video.score > 0.20 else 'Clean' }}
+                    </span>
+                    <button class="btn-details" onclick="toggleDetails('v-det')">▼ Details</button>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="details-panel" id="v-det">
+            {% if 'Video' not in selected_modes %}
+                <div class="skipped-notice">Video analysis was not selected for this scan.</div>
+            {% elif results.video is none %}
+                <div class="error-notice">No result returned from the video analyser.</div>
+            {% elif results.video.verdict == 'ERROR' %}
+                <div class="error-notice">⚠ Error: {{ results.video.error }}</div>
+            {% else %}
+                <div class="details-section-title">Visual Analysis (EfficientNet)</div>
+                <div class="detail-stat">
+                    <span>Unsafe frames</span>
+                    <span>{{ results.video.unsafe_frames }} / {{ results.video.total_frames }}</span>
+                </div>
+                <div class="detail-stat">
+                    <span>Unsafe frame ratio</span>
+                    <span>{{ "%.1f"|format(results.video.unsafe_ratio * 100) }}%</span>
+                </div>
+                {% if results.video.unsafe_timestamps %}
+                    <div class="details-section-title">Visual Violations (first 20)</div>
+                    {% for ts in results.video.unsafe_timestamps %}
+                        <span class="timestamp-chip">
+                            <span class="ts-time">{{ ts.timestamp_str }}</span>
+                            <span class="ts-conf">{{ ts.confidence }}%</span>
+                        </span>
+                    {% endfor %}
+                {% else %}
+                    <p style="color:#888; font-size:0.88rem; margin-top:10px;">No unsafe timestamps detected.</p>
+                {% endif %}
+            {% endif %}
+        </div>
+
+
+        <!-- ══════════════════════════════════════════════
+             TEXT MODALITY
+        ══════════════════════════════════════════════ -->
+        <div class="result-row">
+            <span class="modality-label">📝 Text Analysis</span>
+            <div>
+                {% if 'Text' not in selected_modes %}
+                    <span class="badge skipped">Not Selected</span>
+                {% elif results.text is none or results.text.verdict == 'ERROR' %}
+                    <span class="badge errored">Error</span>
+                    <button class="btn-details" onclick="toggleDetails('t-det')">▼ Details</button>
+                {% elif results.text.verdict == 'N/A' %}
+                    <span class="badge skipped">N/A</span>
+                    <button class="btn-details" onclick="toggleDetails('t-det')">▼ Details</button>
+                {% else %}
+                    <span class="badge {{ 'unsafe' if results.text.score is not none and results.text.score > 0.10 else 'safe' }}">
+                        {{ 'Flagged' if results.text.score is not none and results.text.score > 0.10 else 'Clean' }}
+                    </span>
+                    <button class="btn-details" onclick="toggleDetails('t-det')">▼ Details</button>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="details-panel" id="t-det">
+            {% if 'Text' not in selected_modes %}
+                <div class="skipped-notice">Text analysis was not selected for this scan.</div>
+            {% elif results.text is none %}
+                <div class="error-notice">No result returned from the text analyser.</div>
+            {% elif results.text.verdict == 'ERROR' %}
+                <div class="error-notice">⚠ Error: {{ results.text.error }}</div>
+            {% elif results.text.verdict == 'N/A' %}
+                <div class="skipped-notice">{{ results.text.error or 'Text analysis is not available for local files.' }}</div>
+            {% else %}
+                <div class="details-section-title">Text Analysis (RoBERTa)</div>
+                <div class="detail-stat">
+                    <span>Total texts analysed</span>
+                    <span>{{ results.text.total_analysed }}</span>
+                </div>
+                <div class="detail-stat">
+                    <span>Harmful texts found</span>
+                    <span>{{ results.text.total_harmful }}</span>
+                </div>
+                <div class="detail-stat">
+                    <span>Comment harm rate</span>
+                    <span>{{ results.text.comment_harm_pct }}%</span>
+                </div>
+                {% if results.text.per_source %}
+                    <div class="details-section-title">Breakdown by Source</div>
+                    {% for src, stats in results.text.per_source.items() %}
+                        {% if stats.analysed > 0 %}
+                        <div class="detail-stat">
+                            <span style="text-transform:capitalize;">{{ src }}</span>
+                            <span>{{ stats.harmful }} harmful / {{ stats.analysed }} analysed</span>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+                {% if results.text.harmful_texts %}
+                    <div class="details-section-title">Harmful Content Found</div>
+                    {% for item in results.text.harmful_texts %}
+                    <div class="harmful-item">
+                        <div class="hi-meta">
+                            <span class="hi-source">{{ item.source }}</span>
+                            <span class="hi-conf">{{ "%.0f"|format(item.confidence * 100) }}% match</span>
+                        </div>
+                        <div class="hi-text">{{ item.original_text }}</div>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <p style="color:#888; font-size:0.88rem; margin-top:10px;">No harmful text detected.</p>
+                {% endif %}
+            {% endif %}
+        </div>
+
+
+        <!-- ══════════════════════════════════════════════
+             AUDIO MODALITY  (includes Spoken sub-section)
+        ══════════════════════════════════════════════ -->
+        <div class="result-row">
+            <span class="modality-label">🔊 Audio Analysis</span>
+            <div>
+                {% if 'Audio' not in selected_modes %}
+                    <span class="badge skipped">Not Selected</span>
+                {% elif results.audio is none or results.audio.verdict == 'ERROR' %}
+                    <span class="badge errored">Error</span>
+                    <button class="btn-details" onclick="toggleDetails('a-det')">▼ Details</button>
+                {% else %}
+                    <span class="badge {{ 'unsafe' if results.audio.verdict == 'UNSAFE' else 'safe' }}">
+                        {{ 'Flagged' if results.audio.verdict == 'UNSAFE' else 'Clean' }}
+                    </span>
+                    <button class="btn-details" onclick="toggleDetails('a-det')">▼ Details</button>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="details-panel" id="a-det">
+            {% if 'Audio' not in selected_modes %}
+                <div class="skipped-notice">Audio analysis was not selected for this scan.</div>
+            {% elif results.audio is none %}
+                <div class="error-notice">No result returned from the audio analyser.</div>
+            {% elif results.audio.verdict == 'ERROR' %}
+                <div class="error-notice">⚠ Error: {{ results.audio.error }}</div>
+            {% else %}
+                <!-- Acoustic (YAMNet) section -->
+                <div class="details-section-title">Acoustic Analysis (YAMNet)</div>
+                <div class="detail-stat">
+                    <span>Unsafe duration ratio</span>
+                    <span>{{ "%.1f"|format(results.audio.score * 100) }}%</span>
+                </div>
+                <div class="detail-stat">
+                    <span>Peak confidence</span>
+                    <span>{{ "%.1f"|format(results.audio.confidence * 100) }}%</span>
+                </div>
+                {% if results.audio.unsafe_timestamps %}
+                    <div class="details-section-title">Detected Harmful Sounds (first 15)</div>
+                    {% for ts in results.audio.unsafe_timestamps %}
+                        <span class="timestamp-chip">
+                            <span class="ts-time">{{ ts.timestamp_str }}</span>
+                            <span class="ts-conf">{{ ts.confidence }}% Match</span>
+                        </span>
+                    {% endfor %}
+                {% else %}
+                    <p style="color:#888; font-size:0.88rem; margin-top:10px;">No harmful sounds detected.</p>
+                {% endif %}
+
+                <!-- Spoken (Whisper + RoBERTa) sub-section -->
+                {% if results.spoken is not none and results.spoken.score is not none %}
+                    <div class="details-section-title" style="border-top:1px solid #eee; margin-top:15px; padding-top:10px;">
+                        Spoken Content (Whisper + RoBERTa)
+                    </div>
+                    <div class="detail-stat">
+                        <span>Language detected</span>
+                        <span>{{ results.spoken.language | upper }}{% if results.spoken.was_translated %} → translated to EN{% endif %}</span>
+                    </div>
+                    <div class="detail-stat">
+                        <span>Total chunks analysed</span>
+                        <span>{{ results.spoken.total_chunks }}</span>
+                    </div>
+                    <div class="detail-stat">
+                        <span>Harmful chunks</span>
+                        <span>{{ results.spoken.harmful_chunks }} ({{ results.spoken.harm_percentage }}%)</span>
+                    </div>
+                    {% if results.spoken.transcription %}
+                        <div class="details-section-title">Transcription (first 1000 chars)</div>
+                        <p style="font-size:0.83rem; color:#555; font-style:italic; line-height:1.6; margin:0;">
+                            "{{ results.spoken.transcription }}"
+                        </p>
+                    {% endif %}
+                    {% if results.spoken.harmful_texts %}
+                        <div class="details-section-title">Harmful Spoken Segments</div>
+                        {% for item in results.spoken.harmful_texts %}
+                        <div class="harmful-item">
+                            <div class="hi-meta">
+                                <span class="hi-source">Transcript — chunk {{ item.chunk_index }}</span>
+                                <span class="hi-conf">{{ "%.0f"|format(item.confidence * 100) }}% match</span>
+                            </div>
+                            <div class="hi-text">"{{ item.text }}"</div>
+                        </div>
+                        {% endfor %}
+                    {% else %}
+                        <p style="color:#888; font-size:0.88rem; margin-top:10px;">No harmful spoken content detected.</p>
+                    {% endif %}
+                {% elif results.spoken is not none and results.spoken.verdict == 'ERROR' %}
+                    <div class="error-notice" style="margin-top:12px;">
+                        ⚠ Spoken analysis error: {{ results.spoken.error }}
+                    </div>
+                {% endif %}
+            {% endif %}
+        </div>
+
+
+        <!-- ══════════════════════════════════════════════
+             FINAL VERDICT
+        ══════════════════════════════════════════════ -->
+        <div class="verdict-box">
+            {% if combined_score is not none %}
+                <div style="font-size:0.9rem; color:#888; margin-bottom:6px;">
+                    Combined score: {{ "%.1f"|format(combined_score * 100) }}%
+                </div>
+            {% endif %}
+            <div class="verdict-text {{ 'unsafe' if verdict == 'UNSAFE' else 'safe' }}">
+                {{ verdict }}
+            </div>
+            {% if modality_scores %}
+                <div style="margin-top:14px; display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+                    {% for key, ms in modality_scores.items() %}
+                        {% if ms.selected %}
+                        <div style="font-size:0.78rem; color:#888; text-align:center;">
+                            <div style="font-weight:700; text-transform:uppercase;">{{ key }}</div>
+                            <div>{{ "%.1f"|format(ms.score * 100) if ms.score is not none else 'N/A' }}%</div>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+
+    </div><!-- /results-stack -->
+
+    <!-- ── Action buttons ── -->
+    <div style="margin-top:30px; display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+        {% if not video.is_local and video.youtube_url %}
+            <a href="{{ video.youtube_url }}" target="_blank" class="btn-action view-video-btn"> View Video</a>
+        {% endif %}
+
+        {% if not video.is_local %}
+        <form action="/block-video" method="POST" style="flex:1; max-width:220px;">
+            <input type="hidden" name="youtube_id" value="{{ video.id }}">
+            <button type="submit" class="btn-action block-btn" style="width:100%;"> Block Video</button>
+        </form>
+        {% endif %}
+
+        <a href="/" class="btn-action" style="background:#6c757d; color:white; max-width:120px; flex:1;"> New</a>
+    </div>
+
+</div><!-- /container -->
+
+<script>
+    function toggleDetails(id) {
+        const panel = document.getElementById(id);
+        if (!panel) return;
+        const btn = panel.previousElementSibling.querySelector('.btn-details');
+        panel.classList.toggle('open');
+        if (btn) btn.textContent = panel.classList.contains('open') ? '▲ Hide' : '▼ Details';
+    }
+</script>
+</body>
+</html>

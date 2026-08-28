@@ -1,0 +1,143 @@
+============================================================
+HARMFUL CONTENT DETECTION REPORT
+Generated : 2026-03-07 10:48:07
+Video ID  : 8qtHp1-bgDQ
+============================================================
+
+FINAL VERDICT : 🔴 UNSAFE
+
+Total texts analysed : 632
+Total harmful found  : 20
+Texts translated     : 1
+Comment harm rate    : 0.0%
+
+PER SOURCE BREAKDOWN:
+----------------------------------------
+  Title          : 0 harmful / 1 analysed
+  Description    : 0 harmful / 18 analysed
+  Transcript     : 20 harmful / 613 analysed
+
+============================================================
+HARMFUL TEXTS DETECTED:
+============================================================
+
+[1] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : >> HELLO, MR. BULL. >> HELLO, DADDY PIG. Everything is ready. The new rooms have been built, and we can put them all together exactly like your plans. H about that. I've made a few minor tweaks. >> Tweaks. [laughter] >> RIGHT. YOU ARE. I'LL TAKE
+
+[2] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : caravan. >> YAY. >> Come on then. Let's go. >> No, no, no. >> Yes, let's go, GEORGE. >> DADDY PIG, [screaming] are you sure this is what YOU WANT? >> YES. YES. IT'S ALL THE SAME PARTS, just a few bits moved here and there. >> It's certainly a unique design.
+
+[3] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : more won't hurt. >> Naughty Granny. Naughty grandpa. >> Right you are, Peppa. This really is the very last one. I can't stop eating them. >> Hello birdies. Have you come to eat the strawberries? >> The little birds do not want to eat the strawberries.
+
+[4] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.0%)
+    Safe prob  : 1.0%
+    Harm prob  : 99.0%
+    Text       : Silly daddy. [laughter] >> It is actually not against the law to put pineapple on pizza. Um, Daddy, can we make funny faces on top of the pizzas? >> Of course we can. >> But before we start cooking, [music] we have to wash our hands. >> Wash, wash,
+
+[5] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : you doing, Grandpa Kid? >> Spotted any rare birds? We saw a duck and some pigeons. >> Um, and I have high hopes of spotting a cuckoo. >> Peppa, George, Grandpa, lunch is ready. >> Oh, goody. >> Bye. >> A cuckoo, you say. >> How were you planning on spotting
+
+[6] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : a cuckoo? >> Oh, you know, uh, I was just going to call cuckoo. My goodness, it worked. Well done, old chap. >> Cuckoo. It's inside the house. >> Oh, that is not a real cuckoo. That is Peppa's toy cuckoo clock. >> Sorry to barge in like this, but Grandpa
+
+[7] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.9%)
+    Safe prob  : 0.1%
+    Harm prob  : 99.9%
+    Text       : Pig has heard a cuckoo. >> You're in here somewhere. >> But Grandpa, >> quiet [laughter] everyone. We don't want to scare the cuckoo away. [screaming] Oh, it's a cuckoo clock. That means I can't tick it off in my book. >> But Grandpa, my cuckoo clock
+
+[8] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : Pig. >> Hello. >> Hello, Mom. Historical reenactment day, is it? >> Yes. Today I am a Viking. >> Ooh, what's that? >> Vikings were people who lived a very long time ago. They had helmets and shields and ran around shouting. [screaming] >> Can we
+
+[9] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 98.9%)
+    Safe prob  : 1.1%
+    Harm prob  : 98.9%
+    Text       : Pig. THIS IS AN EXCELLENT LADDER. AND so is this one. >> Are you making a roundabout? >> No. >> Are you making a paddling pool? >> No. What do you think it's going to be, George? Dinosaur. >> No, >> I just need to wrap it up. >> Grumpy Rabbit is wrapping
+
+[10] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.7%)
+    Safe prob  : 2.3%
+    Harm prob  : 97.7%
+    Text       : Let's start by smelling a mild cheese. >> M. That smells good. I like it, too. >> Not much of a smell. Now for some decently strong cheese. AH, THAT'S MORE LIKE IT. A proper stinky one. It smells like my daddy's socks. [laughter] >> And now, BOYS AND
+
+[11] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.6%)
+    Safe prob  : 0.4%
+    Harm prob  : 99.6%
+    Text       : shoes. >> GEORGE, REMEMBER YOU'RE going to a children's party. >> Have you seen my briefcase? I'm sure I left it in here. >> You're holding it. >> Oh, yes. Oh, ho. [laughter] We're off now. Bye. >> Bye. >> Bye. [sighs] Lovely and quiet. Now I can work
+
+[12] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : TO SEE lots of jumping and climbing and running. Ready, steady, GO. [screaming] >> Slow down. >> Quicker, quick. >> Calm, harmony, [cheering] stillness. >> Jump, jump, jump. [screaming] RELAX. >> HELLO, MUMMY PIG. WHAT ARE YOU DOING HERE?
+
+[13] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : Pig, and look after the rings? Me? I would be honored. I will think of a speech. >> Speech. >> People usually make speeches on wedding days. >> Mrs. Cow is going to put on her wedding dress. >> I'm so excited. I can't wait to see it. You're a big cheese.
+
+[14] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.5%)
+    Safe prob  : 2.5%
+    Harm prob  : 97.5%
+    Text       : of cheese balls. >> Oh, yes. And it's just the right size and color to go on my wall. May I buy it? >> Darling, you can have it. I'm just so happy to have shared this artouse day with you all. >> And I'm happy we shared all the nipples. [laughter] >> Peppa
+
+[15] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.3%)
+    Safe prob  : 2.7%
+    Harm prob  : 97.3%
+    Text       : don't have to, Daddy Pig. I will call Mr. Bull. >> HELLO, MR. BULL SPEAKING. >> HELLO, MR. BULL. We need soil for our roof garden. >> Can you help? >> Yes. If you can stop the traffic, I can park my truck crane. >> Stop. >> Police Officer Panda is stopping
+
+[16] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.4%)
+    Safe prob  : 0.6%
+    Harm prob  : 99.4%
+    Text       : And we're going to like you living here too, Rohan. >> Now I have even more friends to play with. >> Parachute [music] jump. >> It is raining and the school roof is leaking again. >> DIDN'T I FIX THIS ROOF FOR YOU BEFORE, MADAM GEL? >> YES, MR. BULL,
+
+[17] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.8%)
+    Safe prob  : 0.2%
+    Harm prob  : 99.8%
+    Text       : She is going to rescue Daddy Pig. >> Got you. >> Oh, she's got him. >> Hooray! >> My mommy to the rescue. >> Thank you for saving me, Mommy Pig. >> Oh, Teddy Pig, you're starting to slip. >> Mr. Bull has just finished mending the school roof. >> Lovely
+
+[18] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 97.8%)
+    Safe prob  : 2.2%
+    Harm prob  : 97.8%
+    Text       : job. IT WILL LAST FOR YEARS. I CAN'T HOLD ON. >> AH, DADDY. >> Is Daddy Pig all right? >> Ho ho, I'm fine. >> Good, because you'll NEED TO DO THAT PARACHUTE JUMP AGAIN. >> WHAT? >> To raise the money to fix this new hole in the school roof. >> Oh, all right.
+
+[19] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 99.3%)
+    Safe prob  : 0.7%
+    Harm prob  : 99.3%
+    Text       : Pig. My granny is going away on holiday. >> Oh, I see. >> That's a lot of shopping. >> It's everything on Granny Pig's list. Where's the car? >> I didn't bring the car. I didn't think you'd be buying so much. >> Oh, I'll call for a taxi. Hello. Taxi service.
+
+[20] Source     : TRANSCRIPT
+    Verdict    : HARMFUL  (confidence: 96.4%)
+    Safe prob  : 3.6%
+    Harm prob  : 96.4%
+    Text       : BUT MY TRUCK'S BROKEN DOWN. >> I'M GOING TO the airport. Hop in. Have you got any luggage? >> Just the sand. Miss Rabbit's taxi is full of sand. Boy, boss. [music] BOSS. HELLO, LADS. [screaming] HERE'S THAT SAND. >> Thank you, Miss Rabbit. [cough]
+

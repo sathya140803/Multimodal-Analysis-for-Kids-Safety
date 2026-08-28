@@ -1,0 +1,33 @@
+{
+    "source": "How to Swear in French #Shorts",
+    "original_language": "French",
+    "was_translated": true,
+    "original_text": "How to swear in French. Putain ! Oh putain ! Merde ! Merde, j'ai oublié les clés. Connard ! Connard, tu sais pas conduire ! Oh la la la la, t'es vraiment chiant !",
+    "translated_text": "How to swear in French. Damn! Oh damn! Shit ! Shit, I forgot the keys. Asshole! Asshole, you don't know how to drive! Oh la la la la, you're really annoying!",
+    "total_chunks": 1,
+    "harmful_chunks": 1,
+    "harm_percentage": 100.0,
+    "avg_harmful_prob": 0.9988,
+    "max_harmful_prob": 0.9988,
+    "overall_verdict": "HARMFUL",
+    "chunk_results": [
+        {
+            "chunk_index": 1,
+            "text": "How to swear in French. Damn! Oh damn! Shit ! Shit, I forgot the keys. Asshole! Asshole, you don't know how to drive! Oh la la la la, you're really annoying!",
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        }
+    ],
+    "harmful_texts": [
+        {
+            "chunk_index": 1,
+            "text": "How to swear in French. Damn! Oh damn! Shit ! Shit, I forgot the keys. Asshole! Asshole, you don't know how to drive! Oh la la la la, you're really annoying!",
+            "verdict": "HARMFUL",
+            "confidence": 0.9988,
+            "safe_prob": 0.0012,
+            "harmful_prob": 0.9988
+        }
+    ]
+}

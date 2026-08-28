@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Setup Analysis - {{ video.title }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f8f9fa; padding: 40px; text-align: center; }
+        .container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+
+        h1 { color: #1a4d7a; margin-bottom: 30px; }
+
+        .video-info { display: flex; align-items: flex-start; margin-bottom: 40px; text-align: left; gap: 20px; }
+
+        .thumbnail-container {
+            position: relative;
+            width: 250px;
+            height: 140px;
+            cursor: pointer;
+            overflow: hidden;
+            border-radius: 5px;
+            background: #ddd;
+        }
+        .thumbnail { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+        .play-overlay {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0, 0, 0, 0.3);
+            display: flex; align-items: center; justify-content: center;
+            transition: background 0.2s;
+        }
+        .thumbnail-container:hover .play-overlay { background: rgba(0, 0, 0, 0.5); }
+
+        .play-icon {
+            width: 50px; height: 50px;
+            background: #ff0000; color: white;
+            border-radius: 50%; font-size: 24px;
+            display: flex; align-items: center; justify-content: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            transition: transform 0.2s;
+            padding-left: 4px;
+            box-sizing: border-box;
+        }
+        .thumbnail-container:hover .play-icon { transform: scale(1.1); }
+
+        .details { flex: 1; font-size: 1.1em; color: #555; }
+
+        .filter-section { margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px; }
+        .filter-options { display: flex; justify-content: center; gap: 40px; margin: 25px 0; }
+        .checkbox-group { display: flex; align-items: center; gap: 10px; font-weight: bold; }
+
+        input[type="checkbox"] { width: 20px; height: 20px; cursor: pointer; }
+
+        .filter-btn {
+            background-color: #17a2b8;
+            color: white;
+            padding: 15px 60px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            min-width: 180px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        .filter-btn:hover { background-color: #138496; }
+        .filter-btn:disabled { background-color: #888; cursor: not-allowed; }
+
+        .spinner {
+            display: none;
+            width: 18px;
+            height: 18px;
+            border: 3px solid rgba(255,255,255,0.4);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.7s linear infinite;
+            flex-shrink: 0;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .footer-container {
+            text-align: center;
+            margin-top: 40px;
+            padding-bottom: 20px;
+        }
+
+        .btn-back {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #6c757d;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1em;
+            transition: background-color 0.2s;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-back:hover {
+            background-color: #5a6268;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Detect Unsafe YouTube Content</h1>
+
+        <div class="video-info">
+            <div class="thumbnail-container" id="video-player-container"
+                 data-url="{{ video.youtube_url if not video.is_local else video.url }}"
+                 data-local="{{ 'true' if video.is_local else 'false' }}">
+                {% if video.thumbnail %}
+                    <img src="{{ video.thumbnail }}" alt="Thumbnail" class="thumbnail">
+                {% else %}
+                    <div style="height:100%;display:flex;align-items:center;justify-content:center;color:#999;">No thumbnail</div>
+                {% endif %}
+                <div class="play-overlay">
+                    <div class="play-icon">▶</div>
+                </div>
+            </div>
+
+            <div class="details">
+                <h3>{{ video.title }}</h3>
+                <p>
+                    {% if video.channel %}{{ video.channel }}{% endif %}
+                    {% if video.duration %} &nbsp;·&nbsp; {{ video.duration }}{% endif %}
+                    {% if video.views %} &nbsp;·&nbsp; {{ video.views }}{% endif %}
+                    {% if video.is_local %} &nbsp;·&nbsp; Local file{% endif %}
+                </p>
+            </div>
+        </div>
+
+        <div class="filter-section">
+            <p style="font-size: 1.2em; font-weight: bold;">Select Filtering Type:</p>
+            <form action="/run-filter" method="POST" id="filter-form">
+                <div class="filter-options">
+                    <label class="checkbox-group">
+                        Video <input type="checkbox" name="filter_type" value="Video">
+                    </label>
+                    <label class="checkbox-group">
+                        Text <input type="checkbox" name="filter_type" value="Text">
+                    </label>
+                    <label class="checkbox-group">
+                        Audio <input type="checkbox" name="filter_type" value="Audio">
+                    </label>
+                </div>
+
+                <button type="submit" class="filter-btn" id="filter-btn">
+                    <span class="spinner" id="spinner"></span>
+                    <span id="btn-text">Filter</span>
+                </button>
+            </form>
+        </div>
+    </div>
+    <br>
+
+    <div class="footer-container">
+        <a href="javascript:history.back()" class="btn-back">← Back</a>
+    </div>
+
+    <script>
+        document.getElementById('filter-form').addEventListener('submit', function() {
+            var btn     = document.getElementById('filter-btn');
+            var spinner = document.getElementById('spinner');
+            var text    = document.getElementById('btn-text');
+
+            spinner.style.display = 'block';
+            text.textContent      = 'Analysing...';
+            btn.disabled          = true;
+        });
+
+        document.getElementById('video-player-container').addEventListener('click', function() {
+            var videoUrl = this.getAttribute('data-url');
+            var isLocal  = this.getAttribute('data-local') === 'true';
+
+            if (!videoUrl || videoUrl.trim() === "") {
+                alert("Error: Video URL is empty or missing from backend database context.");
+                return;
+            }
+
+            if (isLocal) {
+                this.innerHTML = '<video src="' + videoUrl + '" controls autoplay style="width:100%; height:100%; object-fit:cover;"></video>';
+            } else {
+                window.open(videoUrl, '_blank');
+            }
+        });
+    </script>
+
+</body>
+</html>

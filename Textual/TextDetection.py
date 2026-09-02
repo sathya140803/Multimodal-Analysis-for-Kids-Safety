@@ -17,7 +17,7 @@ import contractions
 # ─────────────────────────────────────────────
 MODEL_PATH             = r"D:\PythonYouTube\Textual\best_roberta_model"
 OUTPUT_DIR             = r"D:\PythonYouTube\Textual"
-YOUTUBE_API_KEY        = "AIzaSyDKtW_i6k43D4rgNdAjoZTPH1kBUiyiesc"
+YOUTUBE_API_KEY        = "Add your api from google console"
 
 MAX_LEN                     = 128    # must match training
 CONFIDENCE_THRESHOLD        = 0.70   # minimum confidence for comments/title/description
